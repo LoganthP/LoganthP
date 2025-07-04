@@ -12,7 +12,7 @@ I'm a Computer Science student who loves solving problems with code. I'm current
 ---
 
 ## 🛠️ Tools & Technologies
-- Languages: Python, JavaScript, C++, C, Java.
+- Languages: Python, C, Java.
 - Web: HTML, CSS, React, Node.js
 - Tools: Git, GitHub, VS Code, Eclipse IDE, DevC++ IDE, Jupyter notebooks, Ubuntu VirtualBox, and Kalilinux.
 - Several others like Solid Edge, Proteus, Unity, Logisim, Google Colab Notebooks, and other software tools for some sort of technical skills handling.
