@@ -5,12 +5,6 @@
 ![Profile GIF left](https://media.giphy.com/media/3og0ILLVvPp8d64Jd6/giphy.gif)
 
 **Computer Science Student | Ethical Hacker | Problem Solver**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loganth-p-158667280)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/loganth_1925)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/jY4fqaPVsG/)
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/bb8ff956-6b60-4f44-9820-f0b3a0b43c41)
-
 **📍 Mysuru, Karnataka, India | 🎯 Focusing on Innovation**
 
 </div>
@@ -85,27 +79,34 @@ I'm a passionate **Computer Science student** who loves solving problems with co
 [![HackerRank](https://img.shields.io/badge/Profile-Visit_HackerRank-00EA64?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/loganth_1925)
 
 
-📊 LeetCode Dashboard
+## 📊 LeetCode Dashboard
+
 <div align="center">
-💡 LeetCode Progress
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white
 
-Easy: 2/895 🟢
+### 💡 LeetCode Progress
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/jY4fqaPVsG/)
 
-Medium: 0/1911 🟡
+![LeetCode Stats](https://leetcard.jacoblin.cool/jY4fqaPVsG?theme=dark&font=Karma&ext=heatmap)
 
-Hard: 0/865 🔴
+### 📈 Problem Solving Stats
+![LeetCode Stats Card](https://leetcode-stats-api.herokuapp.com/jY4fqaPVsG?theme=dark)
 
-Locked Badge: Sep LeetCoding Challenge 🔒
+### 🎯 Current Status
+- **Problems Solved**: 2/3671 ✅
+- **Easy**: 2/895 🟢
+- **Medium**: 0/1911 🟡  
+- **Hard**: 0/865 🔴
+- **Acceptance Rate**: Growing 📈
+- **Global Ranking**: Improving 🚀
 
-Total Active Days: 2
+### 🔥 Activity Heatmap
+![LeetCode Activity](https://leetcode-calendar.herokuapp.com/jY4fqaPVsG)
 
-Max Streak: 1
-
-🔥 Recent Submissions
-N-th Tribonacci Number – a year ago
-
-Happy Number – a year ago
+### 🏆 Achievements
+- **Sep LeetCoding Challenge**: Locked Badge 🔒
+- **Active Days**: 2 days this year
+- **Max Streak**: 1 day
+- **Recent Submissions**: N-th Tribonacci Number, Happy Number
 
 </div>
 
