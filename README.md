@@ -79,9 +79,7 @@ I'm a passionate **Computer Science student** who loves solving problems with co
 [![HackerRank](https://img.shields.io/badge/Profile-Visit_HackerRank-00EA64?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/loganth_1925)
 
 
-## 📊 LeetCode Dashboard
-
-### 💡 LeetCode Progress
+### 💡 LeetCode Dashboard
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/jY4fqaPVsG/)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/jY4fqaPVsG?theme=dark&font=Karma&ext=heatmap)
