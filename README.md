@@ -62,21 +62,12 @@ I'm a passionate **Computer Science student** who loves solving problems with co
 <!-- Version Control & Editors -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" title="Git" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" title="GitHub" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VS Code" width="40" height="40" title="VS Code" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" title="VS Code" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40" title="PyCharm" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40" title="Eclipse" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlechrome/googlechrome-original.svg" alt="Chrome" width="40" height="40" title="Chrome" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" alt="Notion" width="40" height="40" title="Notion" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/photoshop.svg" alt="Photoshop" width="40" height="40" title="Photoshop" />
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/figma.svg" alt="Figma" width="40" height="40" title="Figma" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" alt="Netlify" width="40" height="40" title="Netlify" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/adobexd.svg" alt="Adobe XD" width="40" height="40" title="Adobe XD" />
-
-<!-- Cybersecurity & Networking -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-original.svg" alt="Kali Linux" width="40" height="40" title="Kali Linux" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40" title="Ubuntu" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/virtualbox/virtualbox-plain.svg" alt="VirtualBox" width="40" height="40" title="VirtualBox" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/ciscopackettracer.svg" alt="Cisco Packet Tracer" width="40" height="40" title="Cisco Packet Tracer" />
 
 <!-- Design & Engineering -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40" title="Unity" />
@@ -93,32 +84,13 @@ I'm a passionate **Computer Science student** who loves solving problems with co
 ### 🏆 HackerRank Stats
 [![HackerRank](https://img.shields.io/badge/Profile-Visit_HackerRank-00EA64?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/loganth_1925)
 
-```
-🔹 Languages: Python, Java, C
-🔹 Problem Solving: Active
-🔹 Domains: Algorithms, Data Structures
-🔹 Certificates: Multiple domains completed
-```
 
 ### 💡 LeetCode Progress
 [![LeetCode](https://img.shields.io/badge/Profile-Visit_LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/jY4fqaPVsG/)
 
-```
-🔹 Problems Solved: Growing daily
-🔹 Languages: Python, Java, C
-🔹 Focus Areas: Arrays, Strings, Dynamic Programming
-🔹 Contest Participation: Regular
-```
 
 ### ☁️ Google Cloud Skills
 [![Google Cloud](https://img.shields.io/badge/Profile-View_Achievements-4285F4?style=for-the-badge&logo=google-cloud)](https://www.cloudskillsboost.google/public_profiles/bb8ff956-6b60-4f44-9820-f0b3a0b43c41)
-
-```
-🔹 Skill Badges: Cloud Computing Fundamentals
-🔹 Completed Labs: Multiple hands-on projects
-🔹 Learning Path: Cloud Architecture
-🔹 Certification Track: Associate Cloud Engineer
-```
 
 </div>
 
