@@ -93,16 +93,12 @@ I'm a passionate **Computer Science student** who loves solving problems with co
 
 </div>
 
-### 🏆 Achievements
-- **Sep LeetCoding Challenge**: Locked Badge 🔒
-- **Active Days**: 2 days this year
-- **Max Streak**: 1 day
-- **Recent Submissions**: N-th Tribonacci Number, Happy Number
-
-</div>
-
-
+<div align="center">
+ 
 ### ☁️ Google Cloud Skills
+
+ <div align="center">
+  
 [![Google Cloud](https://img.shields.io/badge/Profile-View_Achievements-4285F4?style=for-the-badge&logo=google-cloud)](https://www.cloudskillsboost.google/public_profiles/bb8ff956-6b60-4f44-9820-f0b3a0b43c41)
 
 </div>
