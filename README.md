@@ -81,19 +81,11 @@ I'm a passionate **Computer Science student** who loves solving problems with co
 
 ## 📊 LeetCode Dashboard
 
-<div align="center">
-
 ### 💡 LeetCode Progress
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/jY4fqaPVsG/)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/jY4fqaPVsG?theme=dark&font=Karma&ext=heatmap)
 
-### 📈 Problem Solving Stats
-![LeetCode Stats Card](https://leetcode-stats-api.herokuapp.com/jY4fqaPVsG?theme=dark)
-
-</div>
-
-<div align="center">
  
 ### ☁️ Google Cloud Skills
 
