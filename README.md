@@ -75,7 +75,7 @@ I'm a passionate **Computer Science student** who loves solving problems with co
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40" title="Jupyter" />
 
 </div>
- ---
+
  
 ## 📊 Coding Platforms Dashboard
 
