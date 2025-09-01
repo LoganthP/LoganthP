@@ -1,152 +1,115 @@
 # 👋 Hey there! I'm Loganth
 
-<div align="center">
+![Loganth Profile GIF](https://media.giphy.com/media/3og0ILLVvPp8d64Jd6/giphy.gif)  
+*Computer Science Student • Ethical Hacker • Problem Solver*
 
-![Loganth Profile](https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/c363bddc-6ed5-428c-8356-90049718f486.png)
-
-**Computer Science Student | Ethical Hacker | Problem Solver**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loganth-p-158667280)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/loganth_1925)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/jY4fqaPVsG/)
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/bb8ff956-6b60-4f44-9820-f0b3a0b43c41)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loganth-p-158667280)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/loganth_1925)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/jY4fqaPVsG/)  
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/bb8ff956-6b60-4f44-9820-f0b3a0b43c41)  
 
 **📍 Mysuru, Karnataka, India | 🎯 Focusing on Innovation**
-
-</div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate **Computer Science student** who loves solving problems with code. Currently exploring the fascinating worlds of **Ethical Hacking** and **Networking** while building real-world applications that make a difference.
+I'm a passionate **Computer Science student** solving real-world problems with code.  
+Currently delving into **Ethical Hacking**, **Cybersecurity**, and **Networking**.  
 
-- 🎓 **Computer Science Student** with a passion for technology
-- 🔒 **Learning**: Ethical Hacking, Cybersecurity, and Networking
-- 🧠 **Exploring**: AI Basics, Machine Learning, and Data Structures
-- 🏆 **Goal**: Contributing to open-source and building impactful solutions
-- 💡 **Philosophy**: Code to solve real-world problems
-
----
-
-## 💻 What I'm Working On
-
-- 🔍 **Learning** data structures, algorithms, and databases
-- 🌐 **Exploring** open-source and real-world coding projects  
-- 🛡️ **Studying** ethical hacking and cybersecurity fundamentals
-- 📚 **Building** a solid portfolio of practical applications
-- 🔧 **Solving** coding challenges on HackerRank and LeetCode
+- 🎓 Learning data structures, algorithms & databases  
+- 🛡️ Studying penetration testing & network defense  
+- 🤖 Exploring AI Basics & Machine Learning  
+- 🏆 Aiming to contribute to open-source & build impactful apps  
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-<div align="center">
+### 👨‍💻 Programming Languages  
+<div align="center">  
+&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)  
+</div>
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🖥️ Web & Backend  
+<div align="center">  
+&nbsp;&nbsp;![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js)  
+</div>
 
-### 🌐 Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+### 🗃️ Databases  
+<div align="center">  
+&nbsp;&nbsp;![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)  
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)  
+</div>
 
-### 🗃️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+### 🔧 IDEs & Dev Tools  
+<div align="center">  
+&nbsp;&nbsp;![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)  
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse)  
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio)  
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio)  
+</div>
 
-### 🔧 Development Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+### 🛡️ Cybersecurity & Networking  
+<div align="center">  
+&nbsp;&nbsp;![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux)  
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu)  
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox)  
+![Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-FF0000?style=for-the-badge&logo=cisco)  
+</div>
 
-### 🛡️ Cybersecurity & Networking
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-
-### 🎨 Design & Engineering Tools
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
+### 🎨 Design & Engineering  
+<div align="center">  
+&nbsp;&nbsp;![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity)  
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)  
+![Proteus](https://img.shields.io/badge/Proteus-00008B?style=for-the-badge&logo=proteus)  
+![Solid Edge](https://img.shields.io/badge/Solid_Edge-073B4C?style=for-the-badge&logo=solid-edge)  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)  
 </div>
 
 ---
 
 ## 📊 Coding Platforms Dashboard
 
-<div align="center">
+> **All stats are dynamic and update automatically.**
 
-### 🏆 HackerRank Stats
-[![HackerRank](https://img.shields.io/badge/Profile-Visit_HackerRank-00EA64?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/loganth_1925)
+<details>
+<summary>🏆 HackerRank Dashboard</summary>
 
-```
-🔹 Languages: Python, Java, C
-🔹 Problem Solving: Active
-🔹 Domains: Algorithms, Data Structures
-🔹 Certificates: Multiple domains completed
-```
+[![HackerRank Profile](https://hrank-badge.herokuapp.com/loganth_1925?theme=dark)](https://www.hackerrank.com/profile/loganth_1925)
 
-### 💡 LeetCode Progress
-[![LeetCode](https://img.shields.io/badge/Profile-Visit_LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/jY4fqaPVsG/)
+</details>
 
-```
-🔹 Problems Solved: Growing daily
-🔹 Languages: Python, Java, C
-🔹 Focus Areas: Arrays, Strings, Dynamic Programming
-🔹 Contest Participation: Regular
-```
+<details>
+<summary>💡 LeetCode Dashboard</summary>
 
-### ☁️ Google Cloud Skills
-[![Google Cloud](https://img.shields.io/badge/Profile-View_Achievements-4285F4?style=for-the-badge&logo=google-cloud)](https://www.cloudskillsboost.google/public_profiles/bb8ff956-6b60-4f44-9820-f0b3a0b43c41)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/loganth_?theme=dark)](https://leetcode.com/jY4fqaPVsG/)
 
-```
-🔹 Skill Badges: Cloud Computing Fundamentals
-🔹 Completed Labs: Multiple hands-on projects
-🔹 Learning Path: Cloud Architecture
-🔹 Certification Track: Associate Cloud Engineer
-```
+</details>
 
-</div>
+<details>
+<summary>☁️ Google Cloud Skills</summary>
+
+[![Google Cloud Badges](https://gcp-badge.herokuapp.com/badges/bb8ff956-6b60-4f44-9820-f0b3a0b43c41)](https://www.cloudskillsboost.google/public_profiles/bb8ff956-6b60-4f44-9820-f0b3a0b43c41)
+
+</details>
 
 ---
 
 ## 🏆 Certifications & Achievements
 
 <div align="center">
-
-### 🎖️ Professional Certifications
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Coursera](https://img.shields.io/badge/Coursera-0056D3?style=for-the-badge&logo=coursera&logoColor=white)
-
-### 🌟 Key Achievements
-- 🥇 **Networking Fundamentals** - Cisco Certification
-- 🥇 **Cloud Computing Basics** - Google Cloud Skills Boost
-- 🥇 **Programming Fundamentals** - Multiple platforms
-- 🥇 **Cybersecurity Essentials** - Industry certifications
-- 🥇 **LinkedIn Learning** - Professional development courses
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![Loganth's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoganthP&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LoganthP&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LoganthP&theme=radical)
+  
+![Cisco Certified](https://img.shields.io/badge/Cisco-Certified-1BA0D7?style=for-the-badge&logo=cisco)  
+![Microsoft Certified](https://img.shields.io/badge/Microsoft-Verified-0078D4?style=for-the-badge&logo=microsoft)  
+![Google Cloud ACE](https://img.shields.io/badge/Google_Cloud-Associate_Engineer-4285F4?style=for-the-badge&logo=google-cloud)  
+![Coursera](https://img.shields.io/badge/Coursera-Certified-0056D3?style=for-the-badge&logo=coursera)  
 
 </div>
 
@@ -154,217 +117,38 @@ I'm a passionate **Computer Science student** who loves solving problems with co
 
 ## 🔥 Featured Projects
 
-### 🏥 HealthHub Central
-[![Repo](https://img.shields.io/badge/Repository-Hospital_Management-blue?style=for-the-badge&logo=github)](https://github.com/LoganthP/Hospital-Management-System)
-```
-🔹 AI-powered hospital management system
-🔹 Next.js, TypeScript, Firebase, Google AI
-🔹 Role-based dashboards, prescription generation
-🔹 Real-time analytics and patient management
-```
-
-### 🎬 YouTube Clone
-[![Repo](https://img.shields.io/badge/Repository-YouTube_Clone-red?style=for-the-badge&logo=github)](https://github.com/LoganthP/YoutubeClone-using-HTML-CSS-JAVASCRIPT-React.js)
-```
-🔹 Modern YouTube replica with React.js
-🔹 Video browsing, search, and playback
-🔹 Responsive design with dark/light mode
-🔹 Component architecture demonstration
-```
-
-### 🎉 Vidyuth 2K25
-[![Repo](https://img.shields.io/badge/Repository-College_Fest_Website-green?style=for-the-badge&logo=github)](https://github.com/LoganthP/DevCom-Final-Project)
-```
-🔹 College fest website with countdown timer
-🔹 Event timeline and registration system
-🔹 Modern UI with interactive elements
-🔹 Next.js with Tailwind CSS styling
-```
-
-### 📞 Contact Management System
-[![Repo](https://img.shields.io/badge/Repository-Contact_Manager-yellow?style=for-the-badge&logo=github)](https://github.com/LoganthP/Contact-Management-System-using-Python-GUI)
-```
-🔹 Python GUI application with Tkinter
-🔹 CRUD operations for contact management
-🔹 SQLite database integration
-🔹 User-friendly interface design
-```
+- **🏥 HealthHub Central**  
+  AI-powered Hospital Management • Next.js • TypeScript • Firebase  
+- **🎬 YouTube Clone**  
+  React.js • Video Playback • Dark/Light Mode  
+- **🎉 Vidyuth 2K25**  
+  Countdown Timer • Event Timeline • Next.js + Tailwind  
+- **📞 Contact Manager**  
+  Python Tkinter • SQLite • GUI  
 
 ---
 
 ## 🎯 Goals & Learning Path
 
-### 🚀 **2025 Objectives**
-- [ ] **🛡️ Cybersecurity**: Complete ethical hacking certification
-- [ ] **🌐 Networking**: Master networking fundamentals and protocols
-- [ ] **🤖 AI/ML**: Dive deeper into machine learning algorithms
-- [ ] **🏆 Open Source**: Contribute to major open-source projects
-- [ ] **📚 Algorithms**: Solve 500+ problems on LeetCode/HackerRank
-
-### 🎓 **Learning Focus Areas**
-- **Ethical Hacking**: Penetration testing, vulnerability assessment
-- **Cybersecurity**: Network security, cryptography, incident response
-- **AI Basics**: Machine learning fundamentals, data science
-- **Networking**: TCP/IP, routing protocols, network architecture
-- **Data Structures**: Advanced algorithms and optimization techniques
-
----
-
-## 🔧 Development Environment
-
-```yaml
-Operating_System: "Windows 11 with Ubuntu VirtualBox"
-Primary_IDE: "VS Code"
-Secondary_IDE: "Eclipse IDE, Dev-C++"
-Terminal: "PowerShell, Ubuntu Terminal"
-Version_Control: "Git, GitHub"
-Database_Tools: "MySQL Workbench, SQLite Browser"
-Virtualization: "VirtualBox, Kali Linux"
-Cloud_Platform: "Google Cloud Platform"
-Design_Tools: "Solid Edge, Proteus"
-Security_Tools: "Kali Linux toolkit"
-```
-
----
-
-## 📈 Weekly Development Breakdown
-
-```text
-Python        15 hrs 30 mins  ████████████░░░  55.2%
-JavaScript     6 hrs 45 mins  ████████░░░░░░░  24.1%
-Java           3 hrs 15 mins  ████░░░░░░░░░░░  11.6%
-C              2 hrs 30 mins  ███░░░░░░░░░░░░   8.9%
-Other          0 hrs 30 mins  ░░░░░░░░░░░░░░░   0.2%
-```
+- [ ] Ethical Hacking certification  
+- [ ] Master Networking protocols  
+- [ ] Deepen AI/ML understanding  
+- [ ] Contribute to top open-source projects  
+- [ ] Solve 500+ LeetCode/HackerRank problems  
 
 ---
 
 ## 🌐 Connect With Me
 
-<div align="center">
-
-### 📱 **Social & Professional**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/loganth-p-158667280)
-[![Instagram Personal](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/tamojikatochiri/)
-[![Instagram Editing](https://img.shields.io/badge/Editing_Channel-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/maiyraandi.editz)
-
-### 📧 **Contact Information**
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:loganthp55@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+91_7013660227-25D366?style=for-the-badge&logo=whatsapp)](tel:+917013660227)
-
-### 🏆 **Coding Platforms**
-[![HackerRank](https://img.shields.io/badge/HackerRank-Solve-00EA64?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/loganth_1925)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/jY4fqaPVsG/)
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-Skills-4285F4?style=for-the-badge&logo=google-cloud)](https://www.cloudskillsboost.google/public_profiles/bb8ff956-6b60-4f44-9820-f0b3a0b43c41)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/loganth-p-158667280)  
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:loganthp55@gmail.com)  
+[![Phone](https://img.shields.io/badge/Phone-+91_7013660227-25D366?style=for-the-badge&logo=whatsapp)](tel:+917013660227)  
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=LoganthP&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=LoganthP.LoganthP)  
+![Profile Views](https://komarev.com/ghpvc/?username=LoganthP&style=flat-square)
 
 ---
 
-## 📚 Skills Development Timeline
-
-```mermaid
-timeline
-    title Loganth's Learning Journey
-    
-    2023 : Programming Fundamentals
-         : Python, C, Java basics
-         : Web Development introduction
-    
-    2024 : Advanced Development
-         : React.js, Node.js
-         : Database management
-         : First major projects
-    
-    2025 : Specialization Focus
-         : Ethical Hacking & Cybersecurity
-         : AI & Machine Learning
-         : Open Source Contributions
-         : Professional Certifications
-```
-
----
-
-## 🔒 Cybersecurity Learning Path
-
-<div align="center">
-
-### 🛡️ **Current Focus Areas**
-```
-┌─────────────────────────────────────┐
-│  🔍 Ethical Hacking Fundamentals   │
-│  • Penetration Testing             │
-│  • Vulnerability Assessment        │
-│  • Network Security Scanning       │
-│  • Web Application Security        │
-└─────────────────────────────────────┘
-
-┌─────────────────────────────────────┐
-│  🌐 Networking & Protocols         │
-│  • TCP/IP Stack Understanding      │
-│  • Network Configuration           │
-│  • Security Architecture           │
-│  • Incident Response               │
-└─────────────────────────────────────┘
-```
-
-</div>
-
----
-
-## 📊 Activity Overview
-
-<div align="center">
-
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=LoganthP&theme=radical)
-
-</div>
-
-### 🎯 **Current Statistics**
-- 📂 **Public Repositories**: 8+ projects
-- 🌟 **GitHub Followers**: Growing community
-- 💻 **Primary Languages**: TypeScript (97.3%), CSS (1.9%)
-- 🔥 **Recent Activity**: Active daily coding
-- 📈 **Contribution Streak**: Consistent contributor
-
----
-
-## 💡 Fun Facts & Interests
-
-- 🎮 **Gaming**: Exploring game development with Unity
-- 🎨 **Creative**: Instagram editing channel with followers
-- 🔧 **Hardware**: Arduino projects and embedded systems
-- 📱 **Mobile**: Learning mobile app development
-- 🌱 **Growth Mindset**: Always learning something new
-- 🤝 **Community**: Helping fellow students with coding
-
----
-
-## 🌟 Inspirational Quote
-
-<div align="center">
-
-### *"Code is not just about solving problems, it's about creating solutions that make the world better."*
-
-**Thanks for visiting my profile!** Let's connect and build something amazing together! 🚀
-
----
-
-[![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=LoganthP.LoganthP)](https://github.com/LoganthP)
-![Profile Views](https://komarev.com/ghpvc/?username=LoganthP&color=blueviolet&style=flat-square)
-
----
-
-*🎯 "Focusing on innovation, one line of code at a time"* ✨
-
-</div>
+*🎯 "Focusing on innovation, one line of code at a time."* ✨
