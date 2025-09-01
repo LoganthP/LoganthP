@@ -94,7 +94,6 @@ I'm a passionate **Computer Science student** who loves solving problems with co
 
 </div>
 
----
 
 ## 🏆 Certifications & Achievements
 
@@ -241,17 +240,6 @@ Other          0 hrs 30 mins  █░░░░░░░░░░░░░░   0.
 - 💻 **Primary Languages**: TypeScript (97.3%), CSS (1.9%)
 - 🔥 **Recent Activity**: Active daily coding
 - 📈 **Contribution Streak**: Consistent contributor
-
----
-
-## 💡 Fun Facts & Interests
-
-- 🎮 **Gaming**: Exploring game development with Unity
-- 🎨 **Creative**: Instagram editing channel with followers
-- 🔧 **Hardware**: Arduino projects and embedded systems
-- 📱 **Mobile**: Learning mobile app development
-- 🌱 **Growth Mindset**: Always learning something new
-- 🤝 **Community**: Helping fellow students with coding
 
 ---
 
