@@ -256,12 +256,6 @@ Other          0 hrs 30 mins  █░░░░░░░░░░░░░░   0.
 
 ## 📊 Activity Overview
 
-<div align="center">
-
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=LoganthP&theme=radical)
-
-</div>
-
 ### 🎯 **Current Statistics**
 - 📂 **Public Repositories**: 8+ projects
 - 🌟 **GitHub Followers**: Growing community
