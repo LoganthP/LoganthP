@@ -1,8 +1,8 @@
-# Hi there 👋 It's me Loganth
+# Hi there 👋 It's me Hareesh
 
 <div align="center">
 
-![Hareesh Profile]([https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/bcfbe826-1fa7-43a4-9972-338d866df764.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.peakpx.com%2Fen%2Fhd-wallpaper-desktop-ezgrr&psig=AOvVaw3Wbv9EM3gu_x6WgeV717aw&ust=1756833373861000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIDUiL6IuI8DFQAAAAAdAAAAABAM))
+![Hareesh Profile](https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/bcfbe826-1fa7-43a4-9972-338d866df764.png)
 
 **Software Engineer @ Zoho Corporation**
 
