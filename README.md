@@ -1,16 +1,17 @@
-# Hi there 👋 It's me Hareesh
+# 👋 Hey there! I'm Loganth
 
 <div align="center">
 
-![Hareesh Profile](https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/bcfbe826-1fa7-43a4-9972-338d866df764.png)
+![Loganth Profile](https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/c363bddc-6ed5-428c-8356-90049718f486.png)
 
-**Software Engineer @ Zoho Corporation**
+**Computer Science Student | Ethical Hacker | Problem Solver**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-hareesh.web.app-blue?style=for-the-badge&logo=google-chrome)](https://hareesh.web.app)
-[![Twitter](https://img.shields.io/badge/Twitter-@hareesh__dev-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/hareesh_dev)
-[![GitHub followers](https://img.shields.io/github/followers/hareesh-r?label=Follow&style=for-the-badge&logo=github)](https://github.com/hareesh-r)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loganth-p-158667280)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/loganth_1925)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/jY4fqaPVsG/)
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/bb8ff956-6b60-4f44-9820-f0b3a0b43c41)
 
-**📍 Chennai, Tamil Nadu, India | 🕐 IST (UTC+5:30)**
+**📍 Mysuru, Karnataka, India | 🎯 Focusing on Innovation**
 
 </div>
 
@@ -18,39 +19,120 @@
 
 ## 🚀 About Me
 
-**Passionate about designing software that solve real-world problems.** Enthusiastic, hardworking individual and self-taught programmer involved in **Data Science** and **Software Engineering**.
+I'm a passionate **Computer Science student** who loves solving problems with code. Currently exploring the fascinating worlds of **Ethical Hacking** and **Networking** while building real-world applications that make a difference.
 
-- 🔭 **Portfolio**: [hareesh.web.app](https://hareesh.web.app)
-- 🌱 **Currently**: Learning and Teaching **DSA** and Integrating **AI** to my workflow
-- 🏢 **Engineering at**: [Zoho Corporation](https://zoho.com)
-- ⚡ **Fun fact**: I know **Japanese** 🇯🇵
-- 👥 **Community**: **1.4k followers** | **80 following**
+- 🎓 **Computer Science Student** with a passion for technology
+- 🔒 **Learning**: Ethical Hacking, Cybersecurity, and Networking
+- 🧠 **Exploring**: AI Basics, Machine Learning, and Data Structures
+- 🏆 **Goal**: Contributing to open-source and building impactful solutions
+- 💡 **Philosophy**: Code to solve real-world problems
 
 ---
 
-## 💻 Tech Stack
+## 💻 What I'm Working On
 
-### I code in
+- 🔍 **Learning** data structures, algorithms, and databases
+- 🌐 **Exploring** open-source and real-world coding projects  
+- 🛡️ **Studying** ethical hacking and cybersecurity fundamentals
+- 📚 **Building** a solid portfolio of practical applications
+- 🔧 **Solving** coding challenges on HackerRank and LeetCode
+
+---
+
+## 🛠️ Tools & Technologies
+
 <div align="center">
 
+### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🌐 Web Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
+### 🗃️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🔧 Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+
+### 🛡️ Cybersecurity & Networking
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+
+### 🎨 Design & Engineering Tools
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
 </div>
 
-### IDE and Tools I Use
+---
+
+## 📊 Coding Platforms Dashboard
+
 <div align="center">
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+### 🏆 HackerRank Stats
+[![HackerRank](https://img.shields.io/badge/Profile-Visit_HackerRank-00EA64?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/loganth_1925)
+
+```
+🔹 Languages: Python, Java, C
+🔹 Problem Solving: Active
+🔹 Domains: Algorithms, Data Structures
+🔹 Certificates: Multiple domains completed
+```
+
+### 💡 LeetCode Progress
+[![LeetCode](https://img.shields.io/badge/Profile-Visit_LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/jY4fqaPVsG/)
+
+```
+🔹 Problems Solved: Growing daily
+🔹 Languages: Python, Java, C
+🔹 Focus Areas: Arrays, Strings, Dynamic Programming
+🔹 Contest Participation: Regular
+```
+
+### ☁️ Google Cloud Skills
+[![Google Cloud](https://img.shields.io/badge/Profile-View_Achievements-4285F4?style=for-the-badge&logo=google-cloud)](https://www.cloudskillsboost.google/public_profiles/bb8ff956-6b60-4f44-9820-f0b3a0b43c41)
+
+```
+🔹 Skill Badges: Cloud Computing Fundamentals
+🔹 Completed Labs: Multiple hands-on projects
+🔹 Learning Path: Cloud Architecture
+🔹 Certification Track: Associate Cloud Engineer
+```
+
+</div>
+
+---
+
+## 🏆 Certifications & Achievements
+
+<div align="center">
+
+### 🎖️ Professional Certifications
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Coursera](https://img.shields.io/badge/Coursera-0056D3?style=for-the-badge&logo=coursera&logoColor=white)
+
+### 🌟 Key Achievements
+- 🥇 **Networking Fundamentals** - Cisco Certification
+- 🥇 **Cloud Computing Basics** - Google Cloud Skills Boost
+- 🥇 **Programming Fundamentals** - Multiple platforms
+- 🥇 **Cybersecurity Essentials** - Industry certifications
+- 🥇 **LinkedIn Learning** - Professional development courses
 
 </div>
 
@@ -60,9 +142,11 @@
 
 <div align="center">
 
-![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&show_icons=true&theme=radical)
+![Loganth's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoganthP&show_icons=true&theme=radical&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hareesh-r&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LoganthP&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LoganthP&theme=radical)
 
 </div>
 
@@ -70,129 +154,108 @@
 
 ## 🔥 Featured Projects
 
-### 🤖 AI & Machine Learning
-- **[Facial-Expression-Recognition-Keras](https://github.com/hareesh-r/Facial-Expression-Recognition-Keras)** - TensorFlow, Keras, OpenCV facial expression recognition model
-- **[Zen-of-python](https://github.com/hareesh-r/Zen-of-python)** - Python notebook demonstrating Zen of Python principles
-
-### 🌐 Full-Stack Applications
-- **[fullstack-seminar](https://github.com/hareesh-r/fullstack-seminar)** - MERN stack CRUD application with MySQL
-- **[API-Tutorial](https://github.com/hareesh-r/API-Tutorial)** - Comprehensive API explanation with client-server architecture
-- **[HireFiesta](https://github.com/hareesh-r/HireFiesta)** - Job portal connecting employers and job seekers
-
-### 🎯 Web Development
-- **[google-hareesh](https://github.com/hareesh-r/google-hareesh)** - Google Clone with custom search API and dark mode
-- **[netflix-hareesh](https://github.com/hareesh-r/netflix-hareesh)** - Netflix clone with React JS and Firebase
-- **[acoustic-music](https://github.com/hareesh-r/acoustic-music)** - Music web app with Spotify API integration
-
-### 🔧 Automation & Tools
-- **[File-Seperator](https://github.com/hareesh-r/File-Seperator)** - Python automation script for file organization
-- **[instagram-login-automation](https://github.com/hareesh-r/instagram-login-automation)** - Instagram automation for multilingual greetings
-- **[youtube-unsubscribe](https://github.com/hareesh-r/youtube-unsubscribe)** - YouTube channel unsubscription automation
-
-### 📱 Mobile & Modern Web
-- **[flutter_firebase_integr](https://github.com/hareesh-r/flutter_firebase_integr)** - Flutter Firebase integration with authentication
-- **[react-signals](https://github.com/hareesh-r/react-signals)** - React signals implementation
-- **[springboot-hosting-catalyst](https://github.com/hareesh-r/springboot-hosting-catalyst)** - Spring Boot deployment solutions
-
----
-
-## 🎯 Skills & Expertise
-
-### **Programming Languages**
-```javascript
-const skills = {
-    languages: ['Python', 'JavaScript', 'Java', 'TypeScript', 'Dart', 'HTML/CSS'],
-    frameworks: ['React', 'Node.js', 'Spring Boot', 'Flutter', 'Express.js'],
-    databases: ['MySQL', 'Firebase', 'MongoDB'],
-    tools: ['Git', 'Docker', 'VS Code', 'Selenium', 'GraphQL'],
-    specializations: ['Data Science', 'Machine Learning', 'Full-Stack Development', 'API Design']
-}
+### 🏥 HealthHub Central
+[![Repo](https://img.shields.io/badge/Repository-Hospital_Management-blue?style=for-the-badge&logo=github)](https://github.com/LoganthP/Hospital-Management-System)
+```
+🔹 AI-powered hospital management system
+🔹 Next.js, TypeScript, Firebase, Google AI
+🔹 Role-based dashboards, prescription generation
+🔹 Real-time analytics and patient management
 ```
 
-### **Core Competencies**
-- 🧠 **Data Science & ML**: TensorFlow, Keras, OpenCV, Data Analysis
-- 🌐 **Full-Stack Development**: MERN stack, Spring Boot, API design
-- 📱 **Mobile Development**: Flutter, React Native
-- 🤖 **Automation**: Python scripting, Selenium WebDriver
-- 🔐 **Authentication**: Firebase Auth, JWT, OAuth
-- 📊 **Data Visualization**: Charts, Analytics, Reporting
+### 🎬 YouTube Clone
+[![Repo](https://img.shields.io/badge/Repository-YouTube_Clone-red?style=for-the-badge&logo=github)](https://github.com/LoganthP/YoutubeClone-using-HTML-CSS-JAVASCRIPT-React.js)
+```
+🔹 Modern YouTube replica with React.js
+🔹 Video browsing, search, and playback
+🔹 Responsive design with dark/light mode
+🔹 Component architecture demonstration
+```
 
----
+### 🎉 Vidyuth 2K25
+[![Repo](https://img.shields.io/badge/Repository-College_Fest_Website-green?style=for-the-badge&logo=github)](https://github.com/LoganthP/DevCom-Final-Project)
+```
+🔹 College fest website with countdown timer
+🔹 Event timeline and registration system
+🔹 Modern UI with interactive elements
+🔹 Next.js with Tailwind CSS styling
+```
 
-## 💼 Professional Experience
-
-### **Software Engineer @ Zoho Corporation**
-- 🏢 **Location**: Chennai, Tamil Nadu, India
-- 🛠️ **Focus**: Software design and development for real-world problem solving
-- 📈 **Impact**: Contributing to enterprise-level software solutions
-- 🌟 **Skills**: Full-stack development, system design, data science integration
-
-### **Self-taught Developer Journey**
-- 📚 **Continuous Learning**: DSA, AI integration, modern web technologies
-- 👨‍🏫 **Teaching**: Sharing knowledge in Data Structures and Algorithms
-- 🔧 **Problem Solving**: Creating automation tools and web applications
-- 🌍 **Community**: Building projects that solve real-world problems
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hareesh-r&theme=radical)
-
-</div>
-
-### 📊 **Contribution Overview**
-- **Total Repositories**: 60+ public repositories
-- **Languages**: TypeScript (97.3%), CSS (1.9%), Others (0.8%)
-- **Community**: Active contributor to FOSS projects
-- **Achievements**: Multiple GitHub achievements and recognition
-
----
-
-## 🌟 Highlighted Achievements
-
-- 🎯 **1.4K GitHub Followers** - Growing developer community
-- 🏆 **Multiple GitHub Achievements** - Recognition for contributions
-- 🌐 **Portfolio Website** - [hareesh.web.app](https://hareesh.web.app)
-- 🇯🇵 **Multilingual**: English, Tamil, Japanese
-- 🤝 **Open Source**: Contributing to community projects
-
----
-
-## 🎨 Featured Skills Timeline
-
-```mermaid
-timeline
-    title Hareesh's Developer Journey
-    2019-2020 : Python Fundamentals
-              : Data Science Basics
-              : Automation Scripts
-    2021      : Web Development
-              : React & Node.js
-              : Full-Stack Projects
-    2022      : Advanced Frameworks
-              : Spring Boot
-              : Mobile Development
-    2023-2024 : Professional Growth
-              : Zoho Corporation
-              : AI Integration
-    2025      : Teaching & Mentoring
-              : Advanced AI Workflows
-              : Community Building
+### 📞 Contact Management System
+[![Repo](https://img.shields.io/badge/Repository-Contact_Manager-yellow?style=for-the-badge&logo=github)](https://github.com/LoganthP/Contact-Management-System-using-Python-GUI)
+```
+🔹 Python GUI application with Tkinter
+🔹 CRUD operations for contact management
+🔹 SQLite database integration
+🔹 User-friendly interface design
 ```
 
 ---
 
-## 📞 Connect With Me
+## 🎯 Goals & Learning Path
+
+### 🚀 **2025 Objectives**
+- [ ] **🛡️ Cybersecurity**: Complete ethical hacking certification
+- [ ] **🌐 Networking**: Master networking fundamentals and protocols
+- [ ] **🤖 AI/ML**: Dive deeper into machine learning algorithms
+- [ ] **🏆 Open Source**: Contribute to major open-source projects
+- [ ] **📚 Algorithms**: Solve 500+ problems on LeetCode/HackerRank
+
+### 🎓 **Learning Focus Areas**
+- **Ethical Hacking**: Penetration testing, vulnerability assessment
+- **Cybersecurity**: Network security, cryptography, incident response
+- **AI Basics**: Machine learning fundamentals, data science
+- **Networking**: TCP/IP, routing protocols, network architecture
+- **Data Structures**: Advanced algorithms and optimization techniques
+
+---
+
+## 🔧 Development Environment
+
+```yaml
+Operating_System: "Windows 11 with Ubuntu VirtualBox"
+Primary_IDE: "VS Code"
+Secondary_IDE: "Eclipse IDE, Dev-C++"
+Terminal: "PowerShell, Ubuntu Terminal"
+Version_Control: "Git, GitHub"
+Database_Tools: "MySQL Workbench, SQLite Browser"
+Virtualization: "VirtualBox, Kali Linux"
+Cloud_Platform: "Google Cloud Platform"
+Design_Tools: "Solid Edge, Proteus"
+Security_Tools: "Kali Linux toolkit"
+```
+
+---
+
+## 📈 Weekly Development Breakdown
+
+```text
+Python        15 hrs 30 mins  ████████████░░░  55.2%
+JavaScript     6 hrs 45 mins  ████████░░░░░░░  24.1%
+Java           3 hrs 15 mins  ████░░░░░░░░░░░  11.6%
+C              2 hrs 30 mins  ███░░░░░░░░░░░░   8.9%
+Other          0 hrs 30 mins  ░░░░░░░░░░░░░░░   0.2%
+```
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-blue?style=for-the-badge)](https://hareesh.web.app)
-[![Twitter](https://img.shields.io/badge/🐦_Twitter-Follow-1DA1F2?style=for-the-badge)](https://twitter.com/hareesh_dev)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge)](https://linkedin.com/in/hareesh-r)
-[![Email](https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge)](mailto:contact@hareesh.web.app)
+### 📱 **Social & Professional**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/loganth-p-158667280)
+[![Instagram Personal](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/tamojikatochiri/)
+[![Instagram Editing](https://img.shields.io/badge/Editing_Channel-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/maiyraandi.editz)
+
+### 📧 **Contact Information**
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:loganthp55@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-+91_7013660227-25D366?style=for-the-badge&logo=whatsapp)](tel:+917013660227)
+
+### 🏆 **Coding Platforms**
+[![HackerRank](https://img.shields.io/badge/HackerRank-Solve-00EA64?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/loganth_1925)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/jY4fqaPVsG/)
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-Skills-4285F4?style=for-the-badge&logo=google-cloud)](https://www.cloudskillsboost.google/public_profiles/bb8ff956-6b60-4f44-9820-f0b3a0b43c41)
 
 </div>
 
@@ -202,70 +265,106 @@ timeline
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=hareesh-r&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![Trophy](https://github-profile-trophy.vercel.app/?username=LoganthP&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
 
 ---
 
-## 💻 Workspace Spec
+## 📚 Skills Development Timeline
 
-```yaml
-Operating_System: "Windows 11 / macOS"
-Code_Editor: "VS Code"
-Terminal: "PowerShell / Bash"
-Browser: "Chrome DevTools"
-Design: "Figma"
-Database_Tools: "MySQL Workbench, Firebase Console"
-Version_Control: "Git, GitHub"
+```mermaid
+timeline
+    title Loganth's Learning Journey
+    
+    2023 : Programming Fundamentals
+         : Python, C, Java basics
+         : Web Development introduction
+    
+    2024 : Advanced Development
+         : React.js, Node.js
+         : Database management
+         : First major projects
+    
+    2025 : Specialization Focus
+         : Ethical Hacking & Cybersecurity
+         : AI & Machine Learning
+         : Open Source Contributions
+         : Professional Certifications
 ```
 
 ---
 
-## 📚 Currently Learning
-
-- 🧠 **Advanced AI/ML**: Deep Learning, Neural Networks
-- 🔗 **Blockchain**: Smart Contracts, Web3 development
-- ☁️ **Cloud Technologies**: AWS, Azure, Google Cloud
-- 🏗️ **System Design**: Scalable architecture patterns
-- 🚀 **DevOps**: CI/CD, Kubernetes, Microservices
-
----
-
-## 🎯 2025 Goals
-
-- [ ] **AI Integration**: Master AI workflow integration in software development
-- [ ] **Teaching**: Create comprehensive DSA and development courses
-- [ ] **Open Source**: Contribute to major open-source projects
-- [ ] **Community**: Build a strong developer community platform
-- [ ] **Mentorship**: Guide aspiring developers in their journey
-
----
-
-## 📊 Weekly Development Breakdown
-
-```text
-JavaScript   12 hrs 30 mins  ████████████░░░  65.8%
-Python        3 hrs 45 mins  ████░░░░░░░░░░░  19.7%
-TypeScript    1 hr 30 mins   ██░░░░░░░░░░░░░   7.9%
-Java          1 hr 15 mins   █░░░░░░░░░░░░░░   6.6%
-```
-
----
+## 🔒 Cybersecurity Learning Path
 
 <div align="center">
 
-### 🌟 "Code is poetry written for machines and humans alike" 🌟
+### 🛡️ **Current Focus Areas**
+```
+┌─────────────────────────────────────┐
+│  🔍 Ethical Hacking Fundamentals   │
+│  • Penetration Testing             │
+│  • Vulnerability Assessment        │
+│  • Network Security Scanning       │
+│  • Web Application Security        │
+└─────────────────────────────────────┘
 
-**Thank you for visiting my profile!** 
+┌─────────────────────────────────────┐
+│  🌐 Networking & Protocols         │
+│  • TCP/IP Stack Understanding      │
+│  • Network Configuration           │
+│  • Security Architecture           │
+│  • Incident Response               │
+└─────────────────────────────────────┘
+```
 
-*Let's build something amazing together* 🚀
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=hareesh-r.hareesh-r)](https://github.com/hareesh-r)
-[![HitCount](http://hits.dwyl.com/hareesh-r/hareesh-r.svg)](http://hits.dwyl.com/hareesh-r/hareesh-r)
+</div>
 
 ---
 
-*"Passionate about designing software that solve real-world problems"* ✨
+## 📊 Activity Overview
+
+<div align="center">
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=LoganthP&theme=radical)
+
+</div>
+
+### 🎯 **Current Statistics**
+- 📂 **Public Repositories**: 8+ projects
+- 🌟 **GitHub Followers**: Growing community
+- 💻 **Primary Languages**: TypeScript (97.3%), CSS (1.9%)
+- 🔥 **Recent Activity**: Active daily coding
+- 📈 **Contribution Streak**: Consistent contributor
+
+---
+
+## 💡 Fun Facts & Interests
+
+- 🎮 **Gaming**: Exploring game development with Unity
+- 🎨 **Creative**: Instagram editing channel with followers
+- 🔧 **Hardware**: Arduino projects and embedded systems
+- 📱 **Mobile**: Learning mobile app development
+- 🌱 **Growth Mindset**: Always learning something new
+- 🤝 **Community**: Helping fellow students with coding
+
+---
+
+## 🌟 Inspirational Quote
+
+<div align="center">
+
+### *"Code is not just about solving problems, it's about creating solutions that make the world better."*
+
+**Thanks for visiting my profile!** Let's connect and build something amazing together! 🚀
+
+---
+
+[![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=LoganthP.LoganthP)](https://github.com/LoganthP)
+![Profile Views](https://komarev.com/ghpvc/?username=LoganthP&color=blueviolet&style=flat-square)
+
+---
+
+*🎯 "Focusing on innovation, one line of code at a time"* ✨
 
 </div>
