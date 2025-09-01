@@ -91,25 +91,7 @@ I'm a passionate **Computer Science student** who loves solving problems with co
 ### 📈 Problem Solving Stats
 ![LeetCode Stats Card](https://leetcode-stats-api.herokuapp.com/jY4fqaPVsG?theme=dark)
 
-### 🎯 Current Status
-- **Problems Solved**: 2/3671 ✅
-- **Easy**: 2/895 🟢
-- **Medium**: 0/1911 🟡  
-- **Hard**: 0/865 🔴
-- **Acceptance Rate**: Growing 📈
-- **Global Ranking**: Improving 🚀
-
-### 🔥 Activity Heatmap
-![LeetCode Activity](https://leetcode-calendar.herokuapp.com/jY4fqaPVsG)
-
-### 🏆 Achievements
-- **Sep LeetCoding Challenge**: Locked Badge 🔒
-- **Active Days**: 2 days this year
-- **Max Streak**: 1 day
-- **Recent Submissions**: N-th Tribonacci Number, Happy Number
-
 </div>
-
 
 ### 🏆 Achievements
 - **Sep LeetCoding Challenge**: Locked Badge 🔒
