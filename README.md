@@ -85,15 +85,42 @@ I'm a passionate **Computer Science student** who loves solving problems with co
 [![HackerRank](https://img.shields.io/badge/Profile-Visit_HackerRank-00EA64?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/loganth_1925)
 
 
+## 📊 LeetCode Dashboard
+
+<div align="center">
+
 ### 💡 LeetCode Progress
-[![LeetCode](https://img.shields.io/badge/Profile-Visit_LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/jY4fqaPVsG/)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/jY4fqaPVsG/)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/jY4fqaPVsG?theme=dark&font=Karma&ext=heatmap)
+
+### 📈 Problem Solving Stats
+![LeetCode Stats Card](https://leetcode-stats-api.herokuapp.com/jY4fqaPVsG?theme=dark)
+
+### 🎯 Current Status
+- **Problems Solved**: 2/3671 ✅
+- **Easy**: 2/895 🟢
+- **Medium**: 0/1911 🟡  
+- **Hard**: 0/865 🔴
+- **Acceptance Rate**: Growing 📈
+- **Global Ranking**: Improving 🚀
+
+### 🔥 Activity Heatmap
+![LeetCode Activity](https://leetcode-calendar.herokuapp.com/jY4fqaPVsG)
+
+### 🏆 Achievements
+- **Sep LeetCoding Challenge**: Locked Badge 🔒
+- **Active Days**: 2 days this year
+- **Max Streak**: 1 day
+- **Recent Submissions**: N-th Tribonacci Number, Happy Number
+
+</div>
 
 
 ### ☁️ Google Cloud Skills
 [![Google Cloud](https://img.shields.io/badge/Profile-View_Achievements-4285F4?style=for-the-badge&logo=google-cloud)](https://www.cloudskillsboost.google/public_profiles/bb8ff956-6b60-4f44-9820-f0b3a0b43c41)
 
 </div>
-
 
 ## 🏆 Certifications & Achievements
 
