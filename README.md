@@ -85,28 +85,30 @@ I'm a passionate **Computer Science student** who loves solving problems with co
 [![HackerRank](https://img.shields.io/badge/Profile-Visit_HackerRank-00EA64?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/loganth_1925)
 
 
-## 📊 LeetCode Dashboard
-
+📊 LeetCode Dashboard
 <div align="center">
+💡 LeetCode Progress
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white
 
-### 💡 LeetCode Progress
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/jY4fqaPVsG/)
+Easy: 2/895 🟢
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/jY4fqaPVsG?theme=dark&font=Karma&ext=heatmap)
+Medium: 0/1911 🟡
 
-### 📈 Problem Solving Stats
-![LeetCode Stats Card](https://leetcode-stats-api.herokuapp.com/jY4fqaPVsG?theme=dark)
+Hard: 0/865 🔴
 
-### 🎯 Current Status
-- **Problems Solved**: 2/3671 ✅
-- **Easy**: 2/895 🟢
-- **Medium**: 0/1911 🟡  
-- **Hard**: 0/865 🔴
-- **Acceptance Rate**: Growing 📈
-- **Global Ranking**: Improving 🚀
+Locked Badge: Sep LeetCoding Challenge 🔒
 
-### 🔥 Activity Heatmap
-![LeetCode Activity](https://leetcode-calendar.herokuapp.com/jY4fqaPVsG)
+Total Active Days: 2
+
+Max Streak: 1
+
+🔥 Recent Submissions
+N-th Tribonacci Number – a year ago
+
+Happy Number – a year ago
+
+</div>
+
 
 ### 🏆 Achievements
 - **Sep LeetCoding Challenge**: Locked Badge 🔒
