@@ -56,11 +56,9 @@ I'm a passionate **Computer Science student** who loves solving problems with co
 
 <!-- Version Control & Editors -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" title="Git" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" title="GitHub" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" title="VS Code" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40" title="PyCharm" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40" title="Eclipse" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" alt="Notion" width="40" height="40" title="Notion" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40" title="Jupyter" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="40" height="40" title="Anaconda Navigator" />
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/figma.svg" alt="Figma" width="40" height="40" title="Figma" />
@@ -229,12 +227,6 @@ Other          0 hrs 30 mins  █░░░░░░░░░░░░░░   0.
 
 **Thanks for visiting my profile!** Let's connect and build something amazing together! 🚀
 
----
-
-[![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=LoganthP.LoganthP)](https://github.com/LoganthP)
-![Profile Views](https://komarev.com/ghpvc/?username=LoganthP&color=blueviolet&style=flat-square)
-
----
 
 *🎯 "Focusing on innovation, one line of code at a time"* ✨
 
