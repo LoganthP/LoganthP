@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Loganth
+# Hey there! I'm Loganth
 
 <div align="center">
 
