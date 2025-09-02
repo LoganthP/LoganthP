@@ -208,17 +208,6 @@ Other          0 hrs 30 mins  █░░░░░░░░░░░░░░   0.
 
 ---
 
-## 📊 Activity Overview
-
-### 🎯 **Current Statistics**
-- 📂 **Public Repositories**: 8+ projects
-- 🌟 **GitHub Followers**: Growing community
-- 💻 **Primary Languages**: TypeScript (97.3%), CSS (1.9%)
-- 🔥 **Recent Activity**: Active daily coding
-- 📈 **Contribution Streak**: Consistent contributor
-
----
-
 ## 🌟 Inspirational Quote
 
 <div align="center">
