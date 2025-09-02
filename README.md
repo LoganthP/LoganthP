@@ -72,27 +72,6 @@ I'm a passionate **Computer Science student** who loves solving problems with co
 
 </div>
 
- 
-## 📊 Coding Platforms Dashboard
-
-<div align="center">
-
-### 🏆 HackerRank Stats
-[![HackerRank](https://img.shields.io/badge/Profile-Visit_HackerRank-00EA64?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/loganth_1925)
-
-
-### 💡 LeetCode Dashboard
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/jY4fqaPVsG/)
-
- 
-### ☁️ Google Cloud Skills
-
- <div align="center">
-  
-[![Google Cloud](https://img.shields.io/badge/Profile-View_Achievements-4285F4?style=for-the-badge&logo=google-cloud)](https://www.cloudskillsboost.google/public_profiles/bb8ff956-6b60-4f44-9820-f0b3a0b43c41)
-
-</div>
-
 
 ## 🏆 Certifications & Achievements
 
