@@ -99,8 +99,6 @@ I'm a passionate **Computer Science student** who loves solving problems with co
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LoganthP&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LoganthP&theme=radical)
-
 </div>
 
 ---
@@ -197,15 +195,6 @@ Other          0 hrs 30 mins  █░░░░░░░░░░░░░░   0.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=LoganthP&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
----
 
 ## 🌟 Inspirational Quote
 
