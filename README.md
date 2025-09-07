@@ -124,6 +124,8 @@ I'm a passionate **Computer Science student** who loves solving problems with co
 - [ ] **🏆 Open Source**: Contribute to major open-source projects
 - [ ] **📚 Algorithms**: Solve 500+ problems on LeetCode/HackerRank
 
+---
+
 ### 🎓 **Learning Focus Areas**
 - **Ethical Hacking**: Penetration testing, vulnerability assessment
 - **Cybersecurity**: Network security, cryptography, incident response
@@ -131,7 +133,6 @@ I'm a passionate **Computer Science student** who loves solving problems with co
 - **Networking**: TCP/IP, routing protocols, network architecture
 - **Data Structures**: Advanced algorithms and optimization techniques
 
----
 ---
 
 
