@@ -70,26 +70,6 @@ I'm a passionate **Computer Science student** who loves solving problems with co
 </div>
 
 
-## 🏆 Certifications & Achievements
-
-<div align="center">
-
-### 🎖️ Professional Certifications
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Coursera](https://img.shields.io/badge/Coursera-0056D3?style=for-the-badge&logo=coursera&logoColor=white)
-
-### 🌟 Key Achievements
-- 🥇 **Networking Fundamentals** - Cisco Certification
-- 🥇 **Cloud Computing Basics** - Google Cloud Skills Boost
-- 🥇 **Programming Fundamentals** - Multiple platforms
-- 🥇 **Cybersecurity Essentials** - Industry certifications
-- 🥇 **LinkedIn Learning** - Professional development courses
-
-</div>
-
----
 
 ## 📊 GitHub Statistics
 
@@ -123,14 +103,6 @@ I'm a passionate **Computer Science student** who loves solving problems with co
 🔹 Component architecture demonstration
 ```
 
-### 🎉 Vidyuth 2K25
-[![Repo](https://img.shields.io/badge/Repository-College_Fest_Website-green?style=for-the-badge&logo=github)](https://github.com/LoganthP/DevCom-Final-Project)
-```
-🔹 College fest website with countdown timer
-🔹 Event timeline and registration system
-🔹 Modern UI with interactive elements
-🔹 Next.js with Tailwind CSS styling
-```
 
 ### 📞 Contact Management System
 [![Repo](https://img.shields.io/badge/Repository-Contact_Manager-yellow?style=for-the-badge&logo=github)](https://github.com/LoganthP/Contact-Management-System-using-Python-GUI)
@@ -161,17 +133,6 @@ I'm a passionate **Computer Science student** who loves solving problems with co
 
 ---
 
-## 📈 Weekly Development Breakdown
-
-```text
-Python        15 hrs 30 mins  ████████████░░░  55.2%
-JavaScript     6 hrs 45 mins  ████████░░░░░░░  24.1%
-Java           3 hrs 15 mins  ████░░░░░░░░░░░  11.6%
-C              2 hrs 30 mins  ███░░░░░░░░░░░░   8.9%
-Other          0 hrs 30 mins  █░░░░░░░░░░░░░░   0.2%
-```
-
----
 
 ## 🌐 Connect With Me
 
