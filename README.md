@@ -42,6 +42,7 @@ I'm a passionate **Computer Science student** who loves solving problems with co
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" title="C++" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" title="Java" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="Matlab" width="40" height="40" title="Matlab" />
 
 <!-- Web & Frameworks -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" title="HTML5" />
@@ -70,18 +71,6 @@ I'm a passionate **Computer Science student** who loves solving problems with co
 </div>
 
 
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![Loganth's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoganthP&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LoganthP&layout=compact&theme=radical)
-
-</div>
-
----
 
 ## 🔥 Featured Projects
 
