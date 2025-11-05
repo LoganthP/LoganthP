@@ -111,7 +111,7 @@ I'm a passionate **Computer Science student** who loves solving problems with co
 - [ ] **🌐 Networking**: Master networking fundamentals and protocols
 - [ ] **🤖 AI/ML**: Dive deeper into machine learning algorithms
 - [ ] **🏆 Open Source**: Contribute to major open-source projects
-- [ ] **📚 Algorithms**: Solve 500+ problems on LeetCode/HackerRank
+- [ ] **📚 Algorithms**: Solve 100+ problems on LeetCode/HackerRank
 
 ---
 
