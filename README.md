@@ -4,7 +4,7 @@
 
 ![Profile GIF left](https://media.giphy.com/media/3og0ILLVvPp8d64Jd6/giphy.gif)
 
-**Computer Science Student | Ethical Hacker | Problem Solver** | 🎯 Focusing on Innovation**
+**Computer Science Student | Ethical Hacker | Problem Solver** | 🎯 Focusing on Innovation
 
 </div>
 
