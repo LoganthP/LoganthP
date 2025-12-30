@@ -70,41 +70,7 @@ I'm a passionate **Computer Science student** who loves solving problems with co
 
 </div>
 
-
-
-## 🔥 Featured Projects
-
-### 🏥 HealthHub Central
-[![Repo](https://img.shields.io/badge/Repository-Hospital_Management-blue?style=for-the-badge&logo=github)](https://github.com/LoganthP/Hospital-Management-System)
-```
-🔹 AI-powered hospital management system
-🔹 Next.js, TypeScript, Firebase, Google AI
-🔹 Role-based dashboards, prescription generation
-🔹 Real-time analytics and patient management
-```
-
-### 🎬 YouTube Clone
-[![Repo](https://img.shields.io/badge/Repository-YouTube_Clone-red?style=for-the-badge&logo=github)](https://github.com/LoganthP/YoutubeClone-using-HTML-CSS-JAVASCRIPT-React.js)
-```
-🔹 Modern YouTube replica with React.js
-🔹 Video browsing, search, and playback
-🔹 Responsive design with dark/light mode
-🔹 Component architecture demonstration
-```
-
-
-### 📞 Contact Management System
-[![Repo](https://img.shields.io/badge/Repository-Contact_Manager-yellow?style=for-the-badge&logo=github)](https://github.com/LoganthP/Contact-Management-System-using-Python-GUI)
-```
-🔹 Python GUI application with Tkinter
-🔹 CRUD operations for contact management
-🔹 SQLite database integration
-🔹 User-friendly interface design
-```
-
 ---
-
-## 🎯 Goals & Learning Path
 
 ### 🚀 **2025 Objectives**
 - [ ] **🛡️ Cybersecurity**: Complete ethical hacking certification
