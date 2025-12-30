@@ -102,7 +102,6 @@ I'm a passionate **Computer Science student** who loves solving problems with co
 
 ### 📧 **Contact Information**
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:loganthp55@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+91_7013660227-25D366?style=for-the-badge&logo=whatsapp)](tel:+917013660227)
 
 ### 🏆 **Coding Platforms**
 [![HackerRank](https://img.shields.io/badge/HackerRank-Solve-00EA64?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/loganth_1925)
@@ -112,17 +111,3 @@ I'm a passionate **Computer Science student** who loves solving problems with co
 </div>
 
 ---
-
-
-## 🌟 Inspirational Quote
-
-<div align="center">
-
-### *"Code is not just about solving problems, it's about creating solutions that make the world better."*
-
-**Thanks for visiting my profile!** Let's connect and build something amazing together! 🚀
-
-
-*🎯 "Focusing on innovation, one line of code at a time"* ✨
-
-</div>
