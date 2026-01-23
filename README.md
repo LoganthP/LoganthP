@@ -77,9 +77,7 @@ I'm a passionate **Computer Science student** who loves solving problems with co
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40" title="Unity" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40" title="Arduino" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" title="GitLab" width="40" height="40"/>
-<img src="https://cdn-icons-png.flaticon.com/512/1030/1030928.png" width="40"/>
 <img src="https://cdn-icons-png.flaticon.com/512/2103/2103658.png" width="40"/>
-<img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="40"/>
 
 
 </div>
