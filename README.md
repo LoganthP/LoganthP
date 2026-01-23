@@ -65,7 +65,8 @@ I'm a passionate **Computer Science student** who loves solving problems with co
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" alt="Netlify" width="40" height="40" title="Netlify" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" title="Azure" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+     title="AWS" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" title="GCP" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" title="Terraform" width="40" height="40"/>
@@ -76,9 +77,13 @@ I'm a passionate **Computer Science student** who loves solving problems with co
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40" title="Unity" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40" title="Arduino" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" title="GitLab" width="40" height="40"/>
-<img src="https://img.shields.io/badge/NS2-Network%20Simulator-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/XGraph-Graph%20Tool-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JFLAP-Automata%20Tool-purple?style=for-the-badge"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Network_icon.svg"
+     title="NS2 Network Simulator" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Graph_icon.svg"
+     title="XGraph" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Automata_icon.svg"
+     title="JFLAP Automata Tool" width="40" height="40"/>
+
 
 
 </div>
