@@ -107,9 +107,8 @@ I'm a passionate **Computer Science student** who loves solving problems with co
 - **Data Structures**: Advanced algorithms and optimization techniques
   
 
-<p align="center">
-  <img src="assets/intro1.gif" width="65%" />
-</p>
+<img align="right" alt="Coding GIF" width="320" src="assets/intro.gif">
+<br clear="right"/>
 
 
 ## 🌐 Connect With Me
