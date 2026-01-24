@@ -9,13 +9,13 @@
 <table width="100%">
   <tr>
     <td align="left">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=800&color=58A6FF&vCenter=true&width=280&lines=The+Name+is+Loganth!" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=800&color=58A6FF&vCenter=true&width=420&lines=The+Name+is+Loganth!" />
     </td>
     <td align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=280&lines=Welcome+to+my+Github+Profile" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=460&lines=Welcome+to+my+Github+Profile" />
     </td>
     <td align="right">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=800&color=58A6FF&vCenter=true&width=280&lines=Follow+me+for+further+collabs!" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=800&color=58A6FF&vCenter=true&width=460&lines=Follow+me+for+further+collabs!" />
     </td>
   </tr>
 </table>
