@@ -4,6 +4,10 @@
   <img src="assets/intro.gif" alt="Profile Banner" width="100%"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=28&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Hello+Everyone!;The+Name+is+Loganth" />
+</p>
+
 **Computer Science Student | Ethical Hacker | Problem Solver** | 🎯 Focusing on Innovation
 
 </div>
@@ -121,5 +125,3 @@ I'm a passionate **Computer Science student** who loves solving problems with co
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-Skills-4285F4?style=for-the-badge&logo=google-cloud)](https://www.cloudskillsboost.google/public_profiles/bb8ff956-6b60-4f44-9820-f0b3a0b43c41)
 
 </div>
-
----
