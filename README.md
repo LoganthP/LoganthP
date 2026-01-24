@@ -1,7 +1,9 @@
 <div align="center">
 
 <p align="center">
-  <img src="assets/intro.gif" alt="Profile Banner" width="100%"/>
+  <img src="assets/intro.gif" alt="Profile Banner"
+       width="100%"
+       style="height:220px; object-fit:cover; object-position:center;" />
 </p>
 
 <p align="center">
