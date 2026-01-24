@@ -98,6 +98,7 @@ I'm a passionate **Computer Science student** who loves solving problems with co
 
 </div>
 
+<img align="right" alt="Coding GIF" width="350" src="assets/intro1.gif">
 
 ## 🎓 **Learning Focus Areas**
 - **Ethical Hacking**: Penetration testing, vulnerability assessment
@@ -106,8 +107,6 @@ I'm a passionate **Computer Science student** who loves solving problems with co
 - **Networking**: TCP/IP, routing protocols, network architecture
 - **Data Structures**: Advanced algorithms and optimization techniques
   
-
-<img align="right" alt="Coding GIF" width="320" src="assets/intro.gif">
 <br clear="right"/>
 
 
