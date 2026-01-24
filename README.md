@@ -98,7 +98,7 @@ I'm a passionate **Computer Science student** who loves solving problems with co
 
 </div>
 
-<img align="right" alt="Coding GIF" width="350" src="assets/intro1.gif">
+<img align="right" alt="Coding GIF" width="300" src="assets/intro1.gif" style="margin-top: 10px;">
 
 ## 🎓 **Learning Focus Areas**
 - **Ethical Hacking**: Penetration testing, vulnerability assessment
