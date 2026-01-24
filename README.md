@@ -106,11 +106,14 @@ I'm a passionate **Computer Science student** who loves solving problems with co
 - **Networking**: TCP/IP, routing protocols, network architecture
 - **Data Structures**: Advanced algorithms and optimization techniques
 
-<img src="assets/intro1.gif" align="left" width="45%" style="margin-right:20px;" />
+<table width="100%">
+  <tr>
+    <td width="45%" valign="top">
+      <img src="assets/intro1.gif" width="100%" />
+    </td>
+    <td width="55%" valign="top">
 
 ## 🌐 Connect With Me
-
-<div align="center">
 
 ### 📱 **Social & Professional**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/loganth-p-158667280)
@@ -125,4 +128,6 @@ I'm a passionate **Computer Science student** who loves solving problems with co
 [![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/loganthp-1910/)
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-Skills-4285F4?style=for-the-badge&logo=google-cloud)](https://www.cloudskillsboost.google/public_profiles/bb8ff956-6b60-4f44-9820-f0b3a0b43c41)
 
-</div>
+    </td>
+  </tr>
+</table>
