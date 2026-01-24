@@ -20,7 +20,8 @@
   </tr>
 </table>
 
-
+<div>
+  
 **Computer Science Student | Ethical Hacker | Problem Solver** | 🎯 Focusing on Innovation
 
 </div>
