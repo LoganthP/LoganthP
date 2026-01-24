@@ -36,7 +36,7 @@ I'm a passionate **Computer Science student** who loves solving problems with co
 - 🏆 **Goal**: Contributing to open-source and building impactful solutions
 - 💡 **Philosophy**: Code to solve real-world problems
 
----
+
 
 ## 💻 What I'm Working On
 
@@ -46,7 +46,7 @@ I'm a passionate **Computer Science student** who loves solving problems with co
 - 📚 **Building** a solid portfolio of practical applications
 - 🔧 **Solving** coding challenges on HackerRank and LeetCode
 
----
+
 
 ## 🛠️ Tools & Technologies
 
@@ -98,16 +98,6 @@ I'm a passionate **Computer Science student** who loves solving problems with co
 
 </div>
 
----
-
-### 🚀 **2025 Objectives**
-- [ ] **🛡️ Cybersecurity**: Complete ethical hacking certification
-- [ ] **🌐 Networking**: Master networking fundamentals and protocols
-- [ ] **🤖 AI/ML**: Dive deeper into machine learning algorithms
-- [ ] **🏆 Open Source**: Contribute to major open-source projects
-- [ ] **📚 Algorithms**: Solve 100+ problems on LeetCode/HackerRank
-
----
 
 ### 🎓 **Learning Focus Areas**
 - **Ethical Hacking**: Penetration testing, vulnerability assessment
@@ -116,7 +106,7 @@ I'm a passionate **Computer Science student** who loves solving problems with co
 - **Networking**: TCP/IP, routing protocols, network architecture
 - **Data Structures**: Advanced algorithms and optimization techniques
 
----
+
 
 
 ## 🌐 Connect With Me
