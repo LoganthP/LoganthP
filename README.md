@@ -102,10 +102,10 @@ I'm a passionate **Computer Science student** who loves solving problems with co
 - **Ethical Hacking**: Penetration testing, vulnerability assessment
 - **Cybersecurity**: Network security, cryptography, incident response
 - **AI Basics**: Machine learning fundamentals, data science
+<img align="right" alt="Coding GIF" width="300" src="assets/intro1.gif" style="margin-top: 10px;"> 
 - **Networking**: TCP/IP, routing protocols, network architecture
 - **Data Structures**: Advanced algorithms and optimization techniques
   
-<img align="right" alt="Coding GIF" width="300" src="assets/intro1.gif" style="margin-top: 10px;"> 
 <br clear="right"/>
 
 
