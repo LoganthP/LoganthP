@@ -7,8 +7,17 @@
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=2500&pause=800&color=58A6FF&vCenter=true&width=700&lines=Hello+Everyone!;The+Name+is+Loganth" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=2500&pause=800&color=58A6FF&vCenter=true&width=700&lines=Hello+Everyone!;The+Name+is+Loganth!" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+Github+Profile!" />
+</p>
+
+<p align="right">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=2500&pause=800&color=58A6FF&vCenter=true&width=700&lines=Follow+me+for+further+collabs!" />
+</p>
+
 
 **Computer Science Student | Ethical Hacker | Problem Solver** | 🎯 Focusing on Innovation
 
