@@ -6,8 +6,8 @@
        style="height:260px; object-fit:cover; object-position:center;" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=28&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Hello+Everyone!;The+Name+is+Loganth" />
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=2500&pause=800&color=58A6FF&vCenter=true&width=700&lines=Hello+Everyone!;The+Name+is+Loganth" />
 </p>
 
 **Computer Science Student | Ethical Hacker | Problem Solver** | 🎯 Focusing on Innovation
