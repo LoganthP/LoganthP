@@ -107,14 +107,15 @@ I'm a passionate **Computer Science student** who loves solving problems with co
 - **Data Structures**: Advanced algorithms and optimization techniques
   
 
-<img src="assets/intro1.gif"
-     align="right"
-     width="40%"
-     style="margin-left:20px; margin-bottom:20px;" />
+<p align="center">
+  <img src="assets/intro1.gif" width="65%" />
+</p>
 
 
 ## 🌐 Connect With Me
-<div>
+
+<div align="center">
+
 ### 📱 **Social & Professional**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/loganth-p-158667280)
 [![Instagram Personal](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/tamojikatochiri/)
@@ -127,4 +128,5 @@ I'm a passionate **Computer Science student** who loves solving problems with co
 [![HackerRank](https://img.shields.io/badge/HackerRank-Solve-00EA64?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/loganth_1925)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/loganthp-1910/)
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-Skills-4285F4?style=for-the-badge&logo=google-cloud)](https://www.cloudskillsboost.google/public_profiles/bb8ff956-6b60-4f44-9820-f0b3a0b43c41)
+
 </div>
