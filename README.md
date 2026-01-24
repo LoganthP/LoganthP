@@ -99,15 +99,14 @@ I'm a passionate **Computer Science student** who loves solving problems with co
 </div>
 
 
-### 🎓 **Learning Focus Areas**
+## 🎓 **Learning Focus Areas**
 - **Ethical Hacking**: Penetration testing, vulnerability assessment
 - **Cybersecurity**: Network security, cryptography, incident response
 - **AI Basics**: Machine learning fundamentals, data science
 - **Networking**: TCP/IP, routing protocols, network architecture
 - **Data Structures**: Advanced algorithms and optimization techniques
 
-
-
+<img src="assets/intro1.gif" align="left" width="45%" style="margin-right:20px;" />
 
 ## 🌐 Connect With Me
 
