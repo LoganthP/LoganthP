@@ -1,8 +1,8 @@
-# Hey there! I'm Loganth
-
 <div align="center">
 
-![Profile Animation](assets/intro.gif)
+<p align="center">
+  <img src="assets/banner.gif" alt="Profile Banner" width="100%"/>
+</p>
 
 **Computer Science Student | Ethical Hacker | Problem Solver** | 🎯 Focusing on Innovation
 
