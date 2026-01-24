@@ -3,21 +3,23 @@
 <p align="center">
   <img src="assets/intro.gif" alt="Profile Banner"
        width="100%"
-       style="height:260px; object-fit:cover; object-position:center;" />
-</p>
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=2500&pause=800&color=58A6FF&vCenter=true&width=700&lines=Hello+Everyone!;The+Name+is+Loganth!" />
+       style="height:350px; object-fit:cover; object-position:center;" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+Github+Profile!" />
-</p>
+  <span style="display:flex; justify-content:space-between; align-items:center; width:100%;">
+    
+    <!-- LEFT -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=800&color=58A6FF&vCenter=true&width=300&lines=The+Name+is+Loganth!" />
+    
+    <!-- CENTER -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=300&lines=Welcome+to+my+Github+Profile" />
+    
+    <!-- RIGHT -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=800&color=58A6FF&vCenter=true&width=300&lines=Follow+me+for+further+collabs!" />
 
-<p align="right">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=2500&pause=800&color=58A6FF&vCenter=true&width=700&lines=Follow+me+for+further+collabs!" />
+  </span>
 </p>
-
 
 **Computer Science Student | Ethical Hacker | Problem Solver** | 🎯 Focusing on Innovation
 
