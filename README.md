@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="assets/banner.gif" alt="Profile Banner" width="100%"/>
+  <img src="assets/intro.gif" alt="Profile Banner" width="100%"/>
 </p>
 
 **Computer Science Student | Ethical Hacker | Problem Solver** | 🎯 Focusing on Innovation
