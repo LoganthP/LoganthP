@@ -115,10 +115,6 @@ I'm a passionate **Computer Science student** who loves solving problems with co
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoganthP&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=LoganthP&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
 
 ## 🌐 Connect With Me
 
