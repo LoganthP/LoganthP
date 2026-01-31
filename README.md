@@ -1,11 +1,5 @@
 <div align="center">
 
-<p align="center">
-  <img src="assets/intro.gif" alt="Profile Banner"
-       width="100%"
-       style="height:350px; object-fit:cover; object-position:center;" />
-</p>
-
 <table width="100%">
   <tr>
     <td align="left">
@@ -20,6 +14,11 @@
   </tr>
 </table>
 
+<p align="center">
+  <img src="assets/intro.gif" alt="Profile Banner"
+       width="100%"
+       style="height:350px; object-fit:cover; object-position:center;" />
+</p>
   
 **Computer Science Student | Ethical Hacker | Problem Solver** | 🎯 Focusing on Innovation
 
@@ -106,14 +105,6 @@ I'm a passionate **Computer Science student** who loves solving problems with co
 - **AI Basics**: Machine learning fundamentals, data science
 - **Networking**: TCP/IP, routing protocols, network architecture
 - **Data Structures**: Advanced algorithms and optimization techniques
-
-
-<h2>📊 GitHub Analytics</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LoganthP&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoganthP&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
 
 
 ## 🌐 Connect With Me
