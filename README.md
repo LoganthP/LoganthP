@@ -64,10 +64,10 @@ philosophy: "Build → Break → Secure → Repeat"
 
 ---
 
-## 🧩 Contribution Snake  
+## 🌐 Neural Activity  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LoganthP/LoganthP/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LoganthP&theme=tokyonight" />
 </p>
 
 ---
