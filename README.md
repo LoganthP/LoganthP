@@ -1,132 +1,70 @@
-<!-- 🌌 CYBERPUNK HEADER -->
+<!-- 🌌 PREMIUM HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=LOGANTH&fontSize=40&fontColor=00F7FF&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1c,100:1f4068&height=220&section=header&text=LOGANTH&fontSize=45&fontColor=00F7FF&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<!-- ⚡ TYPING INTRO -->
+<!-- 🧠 AI INTRO -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Loganth;Cybersecurity+Enthusiast;Full+Stack+Developer;AI+Explorer" />
-</p>
-
----
-
-# 🧠 About Me
-
-```diff
-+ 🔐 Cybersecurity Enthusiast
-+ 🤖 AI & Machine Learning Explorer
-+ 🌐 Full Stack Developer
-+ 🚀 Building Real-World Projects
-```
-
-⚡ I focus on building **secure, scalable, and intelligent systems**
-⚡ Passionate about **breaking → understanding → securing systems**
-
----
-
-# ⚙️ Tech Arsenal
-
-### 💻 Languages
-
-![Python](https://img.shields.io/badge/Python-0f2027?style=for-the-badge\&logo=python\&logoColor=00F7FF)
-![C](https://img.shields.io/badge/C-0f2027?style=for-the-badge\&logo=c\&logoColor=00F7FF)
-![Java](https://img.shields.io/badge/Java-0f2027?style=for-the-badge\&logo=java\&logoColor=00F7FF)
-
-### 🌐 Web Stack
-
-![React](https://img.shields.io/badge/React-0f2027?style=for-the-badge\&logo=react\&logoColor=00F7FF)
-![Node.js](https://img.shields.io/badge/Node.js-0f2027?style=for-the-badge\&logo=node.js\&logoColor=00F7FF)
-![TypeScript](https://img.shields.io/badge/TypeScript-0f2027?style=for-the-badge\&logo=typescript\&logoColor=00F7FF)
-
-### 🗄️ Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-0f2027?style=for-the-badge\&logo=mongodb\&logoColor=00F7FF)
-![MySQL](https://img.shields.io/badge/MySQL-0f2027?style=for-the-badge\&logo=mysql\&logoColor=00F7FF)
-
-### ⚡ Tools
-
-![Git](https://img.shields.io/badge/Git-0f2027?style=for-the-badge\&logo=git\&logoColor=00F7FF)
-![Docker](https://img.shields.io/badge/Docker-0f2027?style=for-the-badge\&logo=docker\&logoColor=00F7FF)
-
----
-
-# 🚀 Featured Projects
-
-## 🔐 CipherSentinel
-
-> AI-powered API key & secret detector
-
-✔ Detects leaked credentials
-✔ Improves developer security
-
----
-
-## 🏥 Hospital Management System
-
-> Full-stack healthcare platform
-
-✔ Appointment + Billing + Analytics
-✔ Built with React & TypeScript
-
----
-
-## ☁️ CloudSight Analyzer
-
-> Cloud log intelligence system
-
-✔ Detect anomalies
-✔ Security threat detection
-
----
-
-# 📊 GitHub Intelligence
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LoganthP&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=LoganthP&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoganthP&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=700&lines=Hi,+I'm+Loganth;Cybersecurity+%7C+AI+%7C+Full+Stack;Building+Secure+Intelligent+Systems" />
 </p>
 
 ---
 
-# 🧩 Contribution Graph
+# 🧠 Profile
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LoganthP&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-# 🌐 Connect
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=00F7FF"></a>
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-0f2027?style=for-the-badge&logo=leetcode&logoColor=00F7FF"></a>
-</p>
-
----
-
-# ⚡ System Philosophy
-
-```bash
-> build()
-> break()
-> learn()
-> secure()
-> repeat()
+```yaml id="a19x82"
+name: Loganth
+role: Developer + Security Enthusiast
+focus: [Cybersecurity, AI, Full Stack]
+philosophy: "Build → Break → Secure → Repeat"
 ```
 
 ---
 
-<!-- 🐍 SNAKE ANIMATION -->
+# 🚀 What I Do
+
+* 🔐 Design **secure systems & security tools**
+* 🤖 Build **AI-powered applications**
+* 🌐 Develop **scalable full-stack platforms**
+* ⚡ Solve **real-world engineering problems**
+
+---
+
+# 🧰 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,java,js,ts,react,nodejs,mongodb,mysql,docker,git,linux" />
+
+</p>
+
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LoganthP&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=LoganthP&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoganthP&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📡 Live Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LoganthP&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🧩 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/LoganthP/LoganthP/output/github-contribution-grid-snake.svg" />
@@ -134,10 +72,32 @@
 
 ---
 
-<p align="center">
-  ⚡ Designed with a Cyberpunk Dev Aesthetic ⚡
-</p>
+# 🌐 Connect
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+  <a href="YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0a0f1c?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
+  </a>
+  <a href="YOUR_LEETCODE">
+    <img src="https://img.shields.io/badge/LeetCode-0a0f1c?style=for-the-badge&logo=leetcode&logoColor=00F7FF"/>
+  </a>
+</p>
+
+---
+
+# ⚡ System Mindset
+
+```bash id="7skx91"
+while(true) {
+  build();
+  break();
+  learn();
+  secure();
+}
+```
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1c,100:1f4068&height=120&section=footer"/>
 </p>
