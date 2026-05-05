@@ -43,15 +43,6 @@ philosophy: "Build → Break → Secure → Repeat"
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=LoganthP&theme=tokyonight&hide_border=true"/>
-</p>
-
-
----
-
 # 📡 Live Activity Graph
 
 <p align="center">
@@ -71,11 +62,8 @@ philosophy: "Build → Break → Secure → Repeat"
 # 🌐 Connect
 
 <p align="center">
-  <a href="YOUR_LINKEDIN">
+  <a href="[YOUR_LINKEDIN](https://www.linkedin.com/in/loganth-p-158667280/)">
     <img src="https://img.shields.io/badge/LinkedIn-0a0f1c?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
-  </a>
-  <a href="YOUR_LEETCODE">
-    <img src="https://img.shields.io/badge/LeetCode-0a0f1c?style=for-the-badge&logo=leetcode&logoColor=00F7FF"/>
   </a>
 </p>
 
