@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0a0f1c,100:00F7FF&height=200&section=header&text=LOGANTH&fontSize=50&fontColor=ffffff&fontAlignY=60&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0a0f1c,100:00F7FF&height=200&section=header&text=LOGANTH&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Cybersecurity%20%7C%20AI%20%7C%20Full%20Stack&descAlignY=65&descFontColor=00F7FF&animation=fadeIn"/>
 </p>
 
 <!-- 🧠 AI INTRO -->
@@ -92,5 +92,5 @@ philosophy: "Build → Break → Secure → Repeat"
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=egg&color=0:00F7FF,100:0a0f1c&height=130&section=footer&reversal=true"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0f1c,100:00F7FF&height=120&section=footer&reversal=true"/>
 </p>
