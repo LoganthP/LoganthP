@@ -1,6 +1,5 @@
-<!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0a0f1c,100:00F7FF&height=200&section=header&text=LOGANTH&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Cybersecurity%20%7C%20AI%20%7C%20Full%20Stack&descAlignY=65&descFontColor=00F7FF&animation=fadeIn"/>
+  <img src="./assets/header.svg" width="100%" />
 </p>
 
 <!-- 🧠 AI INTRO -->
