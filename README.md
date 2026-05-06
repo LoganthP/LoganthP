@@ -89,7 +89,6 @@ philosophy: "Build → Break → Secure → Repeat"
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LoganthP&theme=tokyonight" />
 </p>
 
-<!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0f1c,100:00F7FF&height=120&section=footer&reversal=true"/>
+  <img src="./assets/footer.svg" width="100%" />
 </p>
