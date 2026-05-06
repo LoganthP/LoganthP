@@ -7,7 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=700&lines=Hi,+I'm+Loganth;Cybersecurity+%7C+AI+%7C+Full+Stack;Building+Secure+Intelligent+Systems" />
 </p>
 
----
 
 ## 🚀 What I Do
 
@@ -72,12 +71,6 @@
 </p>
 
 ---
-
-## 🌐 Neural Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LoganthP&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img src="./assets/footer.svg" width="100%" />
