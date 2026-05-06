@@ -1,15 +1,16 @@
-<!-- HEADER -->
+<!-- 🌌 PREMIUM HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1c,100:1f4068&height=220&section=header&text=LOGANTH&fontSize=45&fontColor=00F7FF&animation=fadeIn&fontAlignY=35"/>
 </p>
 
+<!-- 🧠 AI INTRO -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=700&lines=Hi,+I'm+Loganth;Cybersecurity+%7C+AI+%7C+Full+Stack;Building+Secure+Intelligent+Systems" />
 </p>
 
 ---
 
-## Profile
+## 🧠 Profile
 
 ```yaml
 name: Loganth
@@ -20,7 +21,7 @@ philosophy: "Build → Break → Secure → Repeat"
 
 ---
 
-## What I Do
+## 🚀 What I Do
 
 - 🔐 Design **secure systems & security tools**
 - 🤖 Build **AI-powered applications**
@@ -29,7 +30,7 @@ philosophy: "Build → Break → Secure → Repeat"
 
 ---
 
-## Tech Stack
+## 🧰 Tech Stack
 
 ### 💻 Programming Languages
 
@@ -55,22 +56,17 @@ philosophy: "Build → Break → Secure → Repeat"
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,postman&theme=dark" />
 </p>
 
-
 ---
 
-## Activity
+## 📡 Live Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LoganthP&theme=tokyo-night&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LoganthP&theme=tokyonight" />
-</p>
-
 ---
 
-## Connect
+## 🌐 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/loganth-p-158667280/">
@@ -80,7 +76,7 @@ philosophy: "Build → Break → Secure → Repeat"
 
 ---
 
-## Mindset
+## ⚡ System Mindset
 
 ```bash
 while(true) {
@@ -90,6 +86,14 @@ while(true) {
   secure();
 }
 ```
+
+---
+
+## 🌐 Neural Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LoganthP&theme=tokyonight" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1c,100:1f4068&height=120&section=footer"/>
