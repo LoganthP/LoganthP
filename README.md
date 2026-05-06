@@ -91,10 +91,6 @@ philosophy: "Build → Break → Secure → Repeat"
 
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=650&lines=Connect+with+me+across+platforms;Cybersecurity+•+AI+•+Full+Stack" />
-</p>
-
 ---
 
 <p align="center">
