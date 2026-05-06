@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0a0f1c,100:00F7FF&height=200&section=header&text=LOGANTH&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Cybersecurity%20%7C%20AI%20%7C%20Full%20Stack&descAlignY=65&descFontColor=00F7FF&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0f1c,100:1f4068&height=180&section=header&text=LOGANTH&fontSize=50&fontColor=00F7FF&animation=blinking&desc=Build%20%E2%86%92%20Break%20%E2%86%92%20Secure%20%E2%86%92%20Repeat&descAlignY=70&descFontColor=ffffff"/>
 </p>
 
 <!-- 🧠 AI INTRO -->
@@ -105,5 +105,5 @@ while(true) {
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0f1c,100:00F7FF&height=120&section=footer&reversal=true"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1f4068,100:0a0f1c&height=120&section=footer"/>
 </p>
