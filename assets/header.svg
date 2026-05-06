@@ -57,9 +57,10 @@
         ANTH
   </text>
 
-  <!-- ROLE -->
-  <text x="720"
-        y="115"
+   <!-- ROLE -->
+  <text x="1090"
+        y="105"
+        text-anchor="middle"
         fill="#666"
         font-size="24"
         font-family="monospace"
@@ -68,8 +69,9 @@
   </text>
 
   <!-- Developer + Security -->
-  <text x="720"
-        y="170"
+  <text x="1090"
+        y="165"
+        text-anchor="middle"
         fill="#050816"
         font-size="40"
         font-family="monospace"
@@ -78,8 +80,9 @@
   </text>
 
   <!-- FOCUS -->
-  <text x="720"
+  <text x="1090"
         y="225"
+        text-anchor="middle"
         fill="#666"
         font-size="24"
         font-family="monospace"
@@ -88,13 +91,12 @@
   </text>
 
   <!-- AI Cyber -->
-  <text x="720"
-        y="270"
+  <text x="1090"
+        y="275"
+        text-anchor="middle"
         fill="#050816"
         font-size="34"
         font-family="monospace"
         font-weight="700">
         AI • Cyber • Full Stack
   </text>
-
-</svg>
