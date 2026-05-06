@@ -1,3 +1,56 @@
+<svg width="1600" height="520" viewBox="0 0 1600 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect width="1600" height="520" fill="#050816"/>
+
+  <!-- LEFT PANEL -->
+  <rect x="40"
+        y="40"
+        width="600"
+        height="270"
+        rx="22"
+        fill="#020617"
+        stroke="#00F7FF"
+        stroke-width="3"/>
+
+  <!-- RIGHT PANEL -->
+  <rect x="640"
+        y="40"
+        width="900"
+        height="270"
+        rx="22"
+        fill="#ECECEC"/>
+
+  <!-- Divider -->
+  <line x1="640"
+        y1="40"
+        x2="640"
+        y2="310"
+        stroke="#00F7FF"
+        stroke-width="4"/>
+
+  <!-- LOG -->
+  <text x="200"
+        y="155"
+        fill="#00F7FF"
+        font-size="72"
+        font-family="monospace"
+        font-weight="700"
+        letter-spacing="10">
+        LOG
+  </text>
+
+  <!-- ANTH -->
+  <text x="165"
+        y="240"
+        fill="white"
+        font-size="72"
+        font-family="monospace"
+        font-weight="700"
+        letter-spacing="10">
+        ANTH
+  </text>
+
   <!-- ROLE -->
   <text x="720"
         y="120"
@@ -37,3 +90,50 @@
         font-weight="700">
         AI • Cyber • Full Stack
   </text>
+
+  <!-- LOWER LEFT -->
+  <rect x="40"
+        y="360"
+        width="600"
+        height="80"
+        rx="16"
+        fill="#020617"
+        stroke="#1E293B"/>
+
+  <!-- LOWER RIGHT -->
+  <rect x="640"
+        y="360"
+        width="900"
+        height="80"
+        rx="16"
+        fill="#ECECEC"/>
+
+  <!-- Lower Divider -->
+  <line x1="640"
+        y1="360"
+        x2="640"
+        y2="440"
+        stroke="#00F7FF"
+        stroke-width="4"/>
+
+  <!-- BUILD -->
+  <text x="210"
+        y="410"
+        fill="#00F7FF"
+        font-size="24"
+        font-family="monospace"
+        letter-spacing="7">
+        BUILD → BREAK
+  </text>
+
+  <!-- SECURE -->
+  <text x="930"
+        y="410"
+        fill="#777"
+        font-size="24"
+        font-family="monospace"
+        letter-spacing="7">
+        SECURE → REPEAT
+  </text>
+
+</svg>
