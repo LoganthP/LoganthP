@@ -1,15 +1,6 @@
+<!-- HEADER -->
 <p align="center">
-  <svg width="100%" viewBox="0 0 680 160" xmlns="http://www.w3.org/2000/svg">
-    <rect width="680" height="160" fill="#f5f5f5"/>
-    <rect x="0" y="0" width="280" height="160" fill="#0a0f1c"/>
-    <text x="140" y="75" text-anchor="middle" font-family="monospace" font-size="36" font-weight="700" fill="#00c8e0" letter-spacing="6">LOG</text>
-    <text x="140" y="115" text-anchor="middle" font-family="monospace" font-size="36" font-weight="700" fill="#ffffff" letter-spacing="6">ANTH</text>
-    <line x1="280" y1="0" x2="280" y2="160" stroke="#00c8e0" stroke-width="2"/>
-    <text x="310" y="65" font-family="monospace" font-size="11" fill="#0a0f1c" letter-spacing="2" opacity="0.5">ROLE</text>
-    <text x="310" y="85" font-family="monospace" font-size="13" fill="#0a0f1c" font-weight="700">Developer + Security</text>
-    <text x="310" y="108" font-family="monospace" font-size="11" fill="#0a0f1c" letter-spacing="2" opacity="0.5">FOCUS</text>
-    <text x="310" y="128" font-family="monospace" font-size="13" fill="#0a0f1c" font-weight="700">AI · Cyber · Full Stack</text>
-  </svg>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0f1c,100:1f4068&height=180&section=header&text=LOGANTH&fontSize=50&fontColor=00F7FF&animation=blinking&desc=Build%20%E2%86%92%20Break%20%E2%86%92%20Secure%20%E2%86%92%20Repeat&descAlignY=70&descFontColor=ffffff"/>
 </p>
 
 <!-- 🧠 AI INTRO -->
@@ -99,12 +90,7 @@ philosophy: "Build → Break → Secure → Repeat"
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LoganthP&theme=tokyonight" />
 </p>
 
+<!-- FOOTER -->
 <p align="center">
-  <svg width="100%" viewBox="0 0 680 55" xmlns="http://www.w3.org/2000/svg">
-    <rect width="280" height="55" fill="#0a0f1c"/>
-    <rect x="280" y="0" width="400" height="55" fill="#f5f5f5"/>
-    <line x1="280" y1="0" x2="280" y2="55" stroke="#00c8e0" stroke-width="2"/>
-    <text x="140" y="32" text-anchor="middle" font-family="monospace" font-size="10" fill="#00c8e0" letter-spacing="3">BUILD → BREAK</text>
-    <text x="470" y="32" text-anchor="middle" font-family="monospace" font-size="10" fill="#0a0f1c" letter-spacing="3" opacity="0.5">SECURE → REPEAT</text>
-  </svg>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1f4068,100:0a0f1c&height=120&section=footer"/>
 </p>
