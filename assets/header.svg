@@ -1,44 +1,100 @@
-  <!-- LOWER LEFT -->
-  <rect x="40"
-        y="360"
-        width="600"
-        height="80"
-        rx="16"
-        fill="#020617"
-        stroke="#1E293B"/>
+<svg width="1600"
+     height="340"
+     viewBox="0 0 1600 340"
+     fill="none"
+     xmlns="http://www.w3.org/2000/svg">
 
-  <!-- LOWER RIGHT -->
+  <!-- Background -->
+  <rect width="1600"
+        height="340"
+        fill="#050816"/>
+
+  <!-- LEFT PANEL -->
+  <rect x="40"
+        y="40"
+        width="600"
+        height="240"
+        rx="22"
+        fill="#020617"
+        stroke="#00F7FF"
+        stroke-width="3"/>
+
+  <!-- RIGHT PANEL -->
   <rect x="640"
-        y="360"
+        y="40"
         width="900"
-        height="80"
-        rx="16"
+        height="240"
+        rx="22"
         fill="#ECECEC"/>
 
-  <!-- Lower Divider -->
+  <!-- Divider -->
   <line x1="640"
-        y1="360"
+        y1="40"
         x2="640"
-        y2="440"
+        y2="280"
         stroke="#00F7FF"
         stroke-width="4"/>
 
-  <!-- BUILD -->
-  <text x="210"
-        y="410"
+  <!-- LOG -->
+  <text x="200"
+        y="145"
         fill="#00F7FF"
-        font-size="24"
+        font-size="72"
         font-family="monospace"
-        letter-spacing="7">
-        BUILD → BREAK
+        font-weight="700"
+        letter-spacing="10">
+        LOG
   </text>
 
-  <!-- SECURE -->
-  <text x="930"
-        y="410"
-        fill="#777"
+  <!-- ANTH -->
+  <text x="165"
+        y="225"
+        fill="white"
+        font-size="72"
+        font-family="monospace"
+        font-weight="700"
+        letter-spacing="10">
+        ANTH
+  </text>
+
+  <!-- ROLE -->
+  <text x="720"
+        y="115"
+        fill="#666"
         font-size="24"
         font-family="monospace"
-        letter-spacing="7">
-        SECURE → REPEAT
+        letter-spacing="6">
+        ROLE
   </text>
+
+  <!-- Developer + Security -->
+  <text x="720"
+        y="170"
+        fill="#050816"
+        font-size="40"
+        font-family="monospace"
+        font-weight="700">
+        Developer + Security
+  </text>
+
+  <!-- FOCUS -->
+  <text x="720"
+        y="225"
+        fill="#666"
+        font-size="24"
+        font-family="monospace"
+        letter-spacing="6">
+        FOCUS
+  </text>
+
+  <!-- AI Cyber -->
+  <text x="720"
+        y="270"
+        fill="#050816"
+        font-size="34"
+        font-family="monospace"
+        font-weight="700">
+        AI • Cyber • Full Stack
+  </text>
+
+</svg>
