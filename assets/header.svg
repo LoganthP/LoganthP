@@ -1,0 +1,79 @@
+<svg width="1600" height="420" viewBox="0 0 1600 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="20" y="40" width="620" height="260" rx="18" fill="#020617" stroke="#00F7FF" stroke-width="2"/>
+
+  <rect x="640" y="40" width="940" height="260" rx="18" fill="#EAEAEA"/>
+
+  <line x1="640" y1="40" x2="640" y2="300" stroke="#00F7FF" stroke-width="4"/>
+
+  <text x="190" y="150"
+        fill="#00F7FF"
+        font-size="74"
+        font-family="monospace"
+        font-weight="700"
+        letter-spacing="10">
+        LOG
+  </text>
+
+  <text x="170" y="235"
+        fill="white"
+        font-size="74"
+        font-family="monospace"
+        font-weight="700"
+        letter-spacing="10">
+        ANTH
+  </text>
+
+  <text x="720" y="140"
+        fill="#666"
+        font-size="28"
+        font-family="monospace"
+        letter-spacing="5">
+        ROLE
+  </text>
+
+  <text x="720" y="190"
+        fill="#050816"
+        font-size="40"
+        font-family="monospace"
+        font-weight="700">
+        Developer + Security
+  </text>
+
+  <text x="720" y="250"
+        fill="#666"
+        font-size="28"
+        font-family="monospace"
+        letter-spacing="5">
+        FOCUS
+  </text>
+
+  <text x="720" y="300"
+        fill="#050816"
+        font-size="38"
+        font-family="monospace"
+        font-weight="700">
+        AI • Cyber • Full Stack
+  </text>
+
+  <rect x="20" y="330" width="620" height="70" rx="14" fill="#020617" stroke="#333"/>
+
+  <rect x="640" y="330" width="940" height="70" rx="14" fill="#EAEAEA"/>
+
+  <line x1="640" y1="330" x2="640" y2="400" stroke="#00F7FF" stroke-width="4"/>
+
+  <text x="220" y="375"
+        fill="#00F7FF"
+        font-size="24"
+        font-family="monospace"
+        letter-spacing="6">
+        BUILD → BREAK
+  </text>
+
+  <text x="980" y="375"
+        fill="#777"
+        font-size="24"
+        font-family="monospace"
+        letter-spacing="6">
+        SECURE → REPEAT
+  </text>
+</svg>
