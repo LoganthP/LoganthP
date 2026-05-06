@@ -90,7 +90,7 @@
         FOCUS
   </text>
 
-  <!-- AI Cyber -->
+   <!-- AI Cyber -->
   <text x="1090"
         y="275"
         text-anchor="middle"
@@ -100,3 +100,5 @@
         font-weight="700">
         AI • Cyber • Full Stack
   </text>
+
+</svg>
