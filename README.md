@@ -9,17 +9,6 @@
 
 ---
 
-## 🧠 Profile
-
-```yaml
-name: Loganth
-role: Developer + Security Enthusiast
-focus: [Cybersecurity, AI, Full Stack]
-philosophy: "Build → Break → Secure → Repeat"
-```
-
----
-
 ## 🚀 What I Do
 
 - 🔐 Design **secure systems & security tools**
@@ -64,15 +53,6 @@ philosophy: "Build → Break → Secure → Repeat"
 </p>
 
 ---
-
-
-## 🌐 Neural Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LoganthP&theme=tokyonight" />
-</p>
-
----
 ## 🌐 Connect • Network • Explore
 
 <p align="center">
@@ -92,6 +72,12 @@ philosophy: "Build → Break → Secure → Repeat"
 </p>
 
 ---
+
+## 🌐 Neural Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LoganthP&theme=tokyonight" />
+</p>
 
 <p align="center">
   <img src="./assets/footer.svg" width="100%" />
