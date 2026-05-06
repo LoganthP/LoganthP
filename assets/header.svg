@@ -35,9 +35,10 @@
         stroke="#00F7FF"
         stroke-width="4"/>
 
-  <!-- LOG -->
-  <text x="200"
+  <!-- LEFT SIDE TEXT -->
+  <text x="340"
         y="145"
+        text-anchor="middle"
         fill="#00F7FF"
         font-size="72"
         font-family="monospace"
@@ -46,9 +47,9 @@
         LOG
   </text>
 
-  <!-- ANTH -->
-  <text x="165"
+  <text x="340"
         y="225"
+        text-anchor="middle"
         fill="white"
         font-size="72"
         font-family="monospace"
@@ -57,11 +58,13 @@
         ANTH
   </text>
 
+  <!-- RIGHT SIDE CONTENT -->
+  
   <!-- ROLE -->
   <text x="720"
-        y="115"
+        y="105"
         fill="#666"
-        font-size="24"
+        font-size="22"
         font-family="monospace"
         letter-spacing="6">
         ROLE
@@ -69,9 +72,9 @@
 
   <!-- Developer + Security -->
   <text x="720"
-        y="170"
+        y="160"
         fill="#050816"
-        font-size="40"
+        font-size="34"
         font-family="monospace"
         font-weight="700">
         Developer + Security
@@ -79,9 +82,9 @@
 
   <!-- FOCUS -->
   <text x="720"
-        y="225"
+        y="215"
         fill="#666"
-        font-size="24"
+        font-size="22"
         font-family="monospace"
         letter-spacing="6">
         FOCUS
@@ -89,9 +92,9 @@
 
   <!-- AI Cyber -->
   <text x="720"
-        y="270"
+        y="260"
         fill="#050816"
-        font-size="34"
+        font-size="30"
         font-family="monospace"
         font-weight="700">
         AI • Cyber • Full Stack
