@@ -34,12 +34,25 @@ philosophy: "Build → Break → Secure → Repeat"
 
 # 🧰 Tech Stack
 
+## 💻 Programming Languages
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,java,js,ts,react,nodejs,mongodb,mysql,docker,git,linux" />
-
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,matlab&theme=dark" />
 </p>
 
+## 🌐 Web Technologies
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express&theme=dark" />
+</p>
+
+## 🗄️ Databases & Cloud
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,gcp,docker,kubernetes,terraform&theme=dark" />
+</p>
+
+## ⚙️ Tools & Platforms
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,postman&theme=dark" />
+</p>
 
 ---
 
@@ -47,14 +60,6 @@ philosophy: "Build → Break → Secure → Repeat"
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LoganthP&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🌐 Neural Activity  
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LoganthP&theme=tokyonight" />
 </p>
 
 ---
@@ -79,7 +84,13 @@ while(true) {
   secure();
 }
 ```
+---
 
+## 🌐 Neural Activity  
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LoganthP&theme=tokyonight" />
+</p>
 ---
 
 <p align="center">
