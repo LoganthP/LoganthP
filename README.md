@@ -1,6 +1,6 @@
-<!-- 🌌 PREMIUM HEADER -->
+<!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1c,100:1f4068&height=220&section=header&text=LOGANTH&fontSize=45&fontColor=00F7FF&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0a0f1c,100:00F7FF&height=200&section=header&text=LOGANTH&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Cybersecurity%20%7C%20AI%20%7C%20Full%20Stack&descAlignY=65&descFontColor=00F7FF&animation=fadeIn"/>
 </p>
 
 <!-- 🧠 AI INTRO -->
@@ -72,6 +72,14 @@ philosophy: "Build → Break → Secure → Repeat"
   <a href="https://www.linkedin.com/in/loganth-p-158667280/">
     <img src="https://img.shields.io/badge/LinkedIn-0a0f1c?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
   </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/loganthp-1910/">
+    <img src="https://img.shields.io/badge/LeetCode-0a0f1c?style=for-the-badge&logo=leetcode&logoColor=00F7FF"/>
+  </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/profile/loganth_1925">
+    <img src="https://img.shields.io/badge/HackerRank-0a0f1c?style=for-the-badge&logo=hackerrank&logoColor=00F7FF"/>
+  </a>
 </p>
 
 ---
@@ -95,6 +103,7 @@ while(true) {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LoganthP&theme=tokyonight" />
 </p>
 
+<!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1c,100:1f4068&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0f1c,100:00F7FF&height=120&section=footer&reversal=true"/>
 </p>
