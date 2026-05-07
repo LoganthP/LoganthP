@@ -10,12 +10,36 @@
 
 ## 🚀 What I Do
 
+<table>
+<tr>
+
+<td width="60%" valign="top">
+
+<br>
+
 - 🔐 Design **secure systems & security tools**
+
 - 🤖 Build **AI-powered applications**
+
 - 🌐 Develop **scalable full-stack platforms**
+
 - ⚡ Solve **real-world engineering problems**
 
+</td>
+
+<td width="40%" align="center">
+
+<img src="./assets/cyber.gif"
+     width="100%"
+     alt="Cyber Workspace GIF"/>
+
+</td>
+
+</tr>
+</table>
+
 ---
+
 
 ## 🧰 Tech Stack
 
