@@ -13,7 +13,7 @@
 <p align="center">
 
 <img src="./assets/cyber.gif"
-     width="92%"
+     width="72%"
      alt="Cyber Workspace"/>
 
 </p>
@@ -22,18 +22,10 @@
 
 <p align="center">
 
-🔐 Design <b>secure systems & security tools</b> &nbsp;&nbsp; ✦ &nbsp;&nbsp;
-🤖 Build <b>AI-powered applications</b> &nbsp;&nbsp; ✦ &nbsp;&nbsp;
-🌐 Develop <b>scalable full-stack platforms</b> &nbsp;&nbsp; ✦ &nbsp;&nbsp;
-⚡ Solve <b>real-world engineering problems</b>
-
-</p>
-
-<br>
-
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Engineer+•+AI+Systems+Builder+•+Full+Stack+Developer" />
+🔐 <b>Secure Systems</b> &nbsp;&nbsp; ✦ &nbsp;&nbsp;
+🤖 <b>AI Applications</b> &nbsp;&nbsp; ✦ &nbsp;&nbsp;
+🌐 <b>Full-Stack Platforms</b> &nbsp;&nbsp; ✦ &nbsp;&nbsp;
+⚡ <b>Engineering Solutions</b>
 
 </p>
 
