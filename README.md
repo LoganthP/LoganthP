@@ -10,10 +10,12 @@
 
 ## 🚀 What I Do
 
-<table>
-<tr>
+<p align="left">
 
-<td width="60%" valign="top">
+<img align="right"
+     src="./assets/cyber.gif"
+     width="380"
+     alt="Cyber Workspace GIF"/>
 
 <br>
 
@@ -25,18 +27,9 @@
 
 - ⚡ Solve **real-world engineering problems**
 
-</td>
+<br><br><br><br><br><br><br><br>
 
-<td width="40%" align="center">
-
-<img src="./assets/cyber.gif"
-     width="100%"
-     alt="Cyber Workspace GIF"/>
-
-</td>
-
-</tr>
-</table>
+</p>
 
 ---
 
