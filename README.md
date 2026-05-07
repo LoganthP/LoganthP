@@ -15,7 +15,6 @@
      width="48%"
      alt="Cyber Workspace"/>
 
-<br>
 
 ```bash
 > Designing secure systems & cybersecurity tools
