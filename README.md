@@ -10,24 +10,30 @@
 
 ## 🚀 What I Do
 
-<p align="left">
+<p align="center">
 
-<img align="right"
-     src="./assets/cyber.gif"
-     width="380"
-     alt="Cyber Workspace GIF"/>
+<img src="./assets/cyber.gif"
+     width="92%"
+     alt="Cyber Workspace"/>
+
+</p>
 
 <br>
 
-- 🔐 Design **secure systems & security tools**
+<p align="center">
 
-- 🤖 Build **AI-powered applications**
+🔐 Design <b>secure systems & security tools</b> &nbsp;&nbsp; ✦ &nbsp;&nbsp;
+🤖 Build <b>AI-powered applications</b> &nbsp;&nbsp; ✦ &nbsp;&nbsp;
+🌐 Develop <b>scalable full-stack platforms</b> &nbsp;&nbsp; ✦ &nbsp;&nbsp;
+⚡ Solve <b>real-world engineering problems</b>
 
-- 🌐 Develop **scalable full-stack platforms**
+</p>
 
-- ⚡ Solve **real-world engineering problems**
+<br>
 
-<br><br><br><br><br><br><br><br>
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Engineer+•+AI+Systems+Builder+•+Full+Stack+Developer" />
 
 </p>
 
