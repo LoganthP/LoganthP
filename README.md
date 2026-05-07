@@ -34,8 +34,6 @@
 
 <img src="https://img.shields.io/badge/Full%20Stack-050816?style=for-the-badge&logo=vercel&logoColor=00F7FF"/>
 
-<br><br>
-
 <img src="https://img.shields.io/badge/Problem%20Solving-050816?style=for-the-badge&logo=codeforces&logoColor=00F7FF"/>
 
 </p>
