@@ -10,27 +10,25 @@
 
 ## 🚀 What I Do
 
-<p align="center">
-
-<img src="./assets/cyber.gif"
-     width="72%"
+<img align="right"
+     src="./assets/cyber.gif"
+     width="48%"
      alt="Cyber Workspace"/>
-
-</p>
 
 <br>
 
-<p align="center">
+```bash
+> Designing secure systems & cybersecurity tools
 
-🔐 <b>Secure Systems</b> &nbsp;&nbsp; ✦ &nbsp;&nbsp;
-🤖 <b>AI Applications</b> &nbsp;&nbsp; ✦ &nbsp;&nbsp;
-🌐 <b>Full-Stack Platforms</b> &nbsp;&nbsp; ✦ &nbsp;&nbsp;
-⚡ <b>Engineering Solutions</b>
+> Building AI-powered intelligent applications
 
-</p>
+> Developing scalable full-stack platforms
 
----
+> Solving real-world engineering problems
+```
+<br> <p align="left"> <img src="https://img.shields.io/badge/Cybersecurity-050816?style=for-the-badge&logo=hackthebox&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/Artificial%20Intelligence-050816?style=for-the-badge&logo=openai&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/Full%20Stack-050816?style=for-the-badge&logo=vercel&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/Problem%20Solving-050816?style=for-the-badge&logo=codeforces&logoColor=00F7FF"/> </p>
 
+<br><br><br><br><br><br>
 
 ## 🧰 Tech Stack
 
