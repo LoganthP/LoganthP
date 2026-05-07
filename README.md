@@ -26,9 +26,21 @@
 
 > Solving real-world engineering problems
 ```
-<br> <p align="left"> <img src="https://img.shields.io/badge/Cybersecurity-050816?style=for-the-badge&logo=hackthebox&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/Artificial%20Intelligence-050816?style=for-the-badge&logo=openai&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/Full%20Stack-050816?style=for-the-badge&logo=vercel&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/Problem%20Solving-050816?style=for-the-badge&logo=codeforces&logoColor=00F7FF"/> </p>
+<p align="center">
 
-<br><br><br><br><br><br>
+<img src="https://img.shields.io/badge/Cybersecurity-050816?style=for-the-badge&logo=hackthebox&logoColor=00F7FF"/>
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-050816?style=for-the-badge&logo=openai&logoColor=00F7FF"/>
+
+<img src="https://img.shields.io/badge/Full%20Stack-050816?style=for-the-badge&logo=vercel&logoColor=00F7FF"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Problem%20Solving-050816?style=for-the-badge&logo=codeforces&logoColor=00F7FF"/>
+
+</p>
+
+---
 
 ## 🧰 Tech Stack
 
