@@ -73,17 +73,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LoganthP&theme=tokyo-night&hide_border=true"/>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/LoganthP/PixelSerpent/output/github-contribution-grid-snake-dark.svg">
-
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/LoganthP/PixelSerpent/output/github-contribution-grid-snake.svg">
-
+<p align="center">
   <img
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/loganthp19-arch/profilesnake/output/github-contribution-grid-snake.svg">
-</picture>
+    src="https://raw.githubusercontent.com/LoganthP/LoganthP/main/github-jet.svg"
+    width="100%"
+    alt="GitHub Jet Heatmap"
+  />
+</p>
 ---
 ## 🌐 Connect • Network • Explore
 
