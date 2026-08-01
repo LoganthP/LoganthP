@@ -75,9 +75,9 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/LoganthP/LoganthP/main/github-jet.svg"
+    src="https://raw.githubusercontent.com/LoganthP/JetCommit/main/dist/github-jet.svg"
     width="100%"
-    alt="GitHub Jet Heatmap"
+    alt="Jet Heatmap"
   />
 </p>
 
