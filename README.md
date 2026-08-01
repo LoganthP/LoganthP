@@ -101,8 +101,6 @@
 
 </p>
 
----
-
 <p align="center">
   <img src="./assets/footer.svg" width="100%" />
 </p>
