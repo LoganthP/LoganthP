@@ -80,7 +80,9 @@
     alt="GitHub Jet Heatmap"
   />
 </p>
+
 ---
+
 ## 🌐 Connect • Network • Explore
 
 <p align="center">
