@@ -1,0 +1,103 @@
+<svg width="1600"
+     height="340"
+     viewBox="0 0 1600 340"
+     fill="none"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect width="1600"
+        height="340"
+        fill="#050816"/>
+
+  <!-- LEFT PANEL -->
+  <rect x="40"
+        y="40"
+        width="600"
+        height="240"
+        rx="22"
+        fill="#020617"
+        stroke="#00F7FF"
+        stroke-width="3"/>
+
+  <!-- RIGHT PANEL -->
+  <rect x="640"
+        y="40"
+        width="900"
+        height="240"
+        rx="22"
+        fill="#ECECEC"/>
+
+  <!-- Divider -->
+  <line x1="640"
+        y1="40"
+        x2="640"
+        y2="280"
+        stroke="#00F7FF"
+        stroke-width="4"/>
+
+  <!-- LEFT SIDE TEXT -->
+  <text x="340"
+        y="145"
+        text-anchor="middle"
+        fill="#00F7FF"
+        font-size="72"
+        font-family="monospace"
+        font-weight="700"
+        letter-spacing="10">
+        LOG
+  </text>
+
+  <text x="340"
+        y="225"
+        text-anchor="middle"
+        fill="white"
+        font-size="72"
+        font-family="monospace"
+        font-weight="700"
+        letter-spacing="10">
+        AN(U)TH
+  </text>
+
+  <!-- RIGHT SIDE CONTENT -->
+  
+  <!-- ROLE -->
+  <text x="720"
+        y="105"
+        fill="#666"
+        font-size="22"
+        font-family="monospace"
+        letter-spacing="6">
+        ROLE
+  </text>
+
+  <!-- Developer + Security -->
+  <text x="720"
+        y="160"
+        fill="#050816"
+        font-size="34"
+        font-family="monospace"
+        font-weight="700">
+        Developer + Security
+  </text>
+
+  <!-- FOCUS -->
+  <text x="720"
+        y="215"
+        fill="#666"
+        font-size="22"
+        font-family="monospace"
+        letter-spacing="6">
+        FOCUS
+  </text>
+
+  <!-- AI Cyber -->
+  <text x="720"
+        y="260"
+        fill="#050816"
+        font-size="30"
+        font-family="monospace"
+        font-weight="700">
+        AI • Cyber • Full Stack
+  </text>
+
+</svg>

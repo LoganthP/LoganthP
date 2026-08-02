@@ -1,0 +1,26 @@
+<svg width="1600" height="180" viewBox="0 0 1600 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="180" fill="#050816"/>
+
+  <path d="M0 90C120 140 240 150 360 120C480 90 600 40 720 55C840 70 960 150 1080 145C1200 140 1320 80 1440 70C1520 63 1560 72 1600 90V180H0V90Z"
+        fill="#1F4068"/>
+
+  <path d="M0 110C140 150 260 150 380 125C500 100 620 65 740 75C860 85 980 150 1100 148C1220 146 1340 100 1460 90C1525 85 1565 92 1600 100V180H0V110Z"
+        fill="#00F7FF"
+        fill-opacity="0.18"/>
+
+  <circle cx="240" cy="55" r="2" fill="#00F7FF"/>
+  <circle cx="460" cy="95" r="2" fill="#00F7FF"/>
+  <circle cx="840" cy="45" r="2" fill="#00F7FF"/>
+  <circle cx="1240" cy="70" r="2" fill="#00F7FF"/>
+  <circle cx="1450" cy="40" r="2" fill="#00F7FF"/>
+
+  <text x="800"
+        y="95"
+        text-anchor="middle"
+        fill="#FFFFFF"
+        font-size="28"
+        font-family="monospace"
+        letter-spacing="6">
+        BUILD • BREAK • LEARN • SECURE
+  </text>
+</svg>
