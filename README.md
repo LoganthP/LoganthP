@@ -9,9 +9,9 @@
 
 ## 🚀 What I Do
 
-<img align="right" src="./assets/cyber.gif" width="52%" alt="Cyber Workspace" />
-
-<br>
+<p align="center">
+  <img src="./assets/Isometric_pixel_art_floating_gwr_video_mvp.gif" width="440" alt="Cyber Workspace" />
+</p>
 
 ```bash
 > Designing secure systems & cybersecurity tools
@@ -63,13 +63,16 @@
 
 ## 🖼️ Portfolio Artwork
 
-<p align="center">
-  <img src="./loganthp-ascii.svg" width="860" alt="ASCII portrait" />
-</p>
-
-<p align="center">
-  <img src="./loganthp-info-card.svg" width="500" alt="Profile info card" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="./loganthp-ascii.svg" width="100%" alt="ASCII portrait" />
+    </td>
+    <td align="center" width="50%">
+      <img src="./loganthp-info-card.svg" width="100%" alt="Profile info card" />
+    </td>
+  </tr>
+</table>
 
 ---
 
