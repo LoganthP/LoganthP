@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="372" viewBox="0 0 490 372" role="img" aria-label="Loganth profile info card">
+<rect width="100%" height="100%" rx="10" fill="#050816"/>
+<rect x="0.5" y="0.5" width="489" height="371" rx="10" fill="none" stroke="#00F7FF" stroke-opacity="0.35"/>
+<rect x="1" y="1" width="488" height="38" rx="10" fill="#00F7FF" opacity="0.12"/>
+<circle cx="24" cy="20" r="5" fill="#ff5f57"/><circle cx="43" cy="20" r="5" fill="#ffbd2e"/><circle cx="62" cy="20" r="5" fill="#28c840"/>
+<text x="86" y="25" font-family="Consolas, Menlo, monospace" font-size="13" fill="#D7F9FF">loganthp-info-card</text>
+<g opacity="0" transform="translate(0,8)">
+<animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.18s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" dur="0.4s" begin="0.18s" fill="freeze"/>
+<text x="30" y="78" font-family="Consolas, Menlo, monospace" font-size="12" fill="#2DD4BF">Name</text>
+<text x="118" y="78" font-family="Consolas, Menlo, monospace" font-size="13" fill="#D7F9FF">Loganth</text>
+<line x1="30" y1="94" x2="460" y2="94" stroke="#00F7FF" stroke-opacity="0.12"/>
+</g>
+<g opacity="0" transform="translate(0,8)">
+<animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.32s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" dur="0.4s" begin="0.32s" fill="freeze"/>
+<text x="30" y="123" font-family="Consolas, Menlo, monospace" font-size="12" fill="#2DD4BF">Now</text>
+<text x="118" y="123" font-family="Consolas, Menlo, monospace" font-size="13" fill="#D7F9FF">Cybersecurity | AI | Full Stack</text>
+<line x1="30" y1="139" x2="460" y2="139" stroke="#00F7FF" stroke-opacity="0.12"/>
+</g>
+<g opacity="0" transform="translate(0,8)">
+<animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.46s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" dur="0.4s" begin="0.46s" fill="freeze"/>
+<text x="30" y="168" font-family="Consolas, Menlo, monospace" font-size="12" fill="#2DD4BF">Stack</text>
+<text x="118" y="168" font-family="Consolas, Menlo, monospace" font-size="13" fill="#D7F9FF">C/C++ | Python | Java | React | Node.js</text>
+<line x1="30" y1="184" x2="460" y2="184" stroke="#00F7FF" stroke-opacity="0.12"/>
+</g>
+<g opacity="0" transform="translate(0,8)">
+<animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.60s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" dur="0.4s" begin="0.60s" fill="freeze"/>
+<text x="30" y="213" font-family="Consolas, Menlo, monospace" font-size="12" fill="#2DD4BF">Cloud</text>
+<text x="118" y="213" font-family="Consolas, Menlo, monospace" font-size="13" fill="#D7F9FF">AWS | GCP | Docker | Kubernetes | Terraform</text>
+<line x1="30" y1="229" x2="460" y2="229" stroke="#00F7FF" stroke-opacity="0.12"/>
+</g>
+<g opacity="0" transform="translate(0,8)">
+<animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.74s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" dur="0.4s" begin="0.74s" fill="freeze"/>
+<text x="30" y="258" font-family="Consolas, Menlo, monospace" font-size="12" fill="#2DD4BF">Tools</text>
+<text x="118" y="258" font-family="Consolas, Menlo, monospace" font-size="13" fill="#D7F9FF">Git | GitHub | GitLab | Linux | Postman | n8n</text>
+<line x1="30" y1="274" x2="460" y2="274" stroke="#00F7FF" stroke-opacity="0.12"/>
+</g>
+<g opacity="0" transform="translate(0,8)">
+<animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.88s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" dur="0.4s" begin="0.88s" fill="freeze"/>
+<text x="30" y="303" font-family="Consolas, Menlo, monospace" font-size="12" fill="#2DD4BF">Connect</text>
+<text x="118" y="303" font-family="Consolas, Menlo, monospace" font-size="13" fill="#D7F9FF">loganthp19@gmail.com</text>
+<line x1="30" y1="319" x2="460" y2="319" stroke="#00F7FF" stroke-opacity="0.12"/>
+</g>
+<text x="30" y="342" font-family="Consolas, Menlo, monospace" font-size="12" fill="#00F7FF">status: building secure intelligent systems</text>
+</svg>

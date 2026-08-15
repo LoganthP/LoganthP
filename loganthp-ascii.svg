@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="500" viewBox="0 0 860 500" role="img" aria-label="Animated ASCII portrait">
+<rect width="100%" height="100%" rx="10" fill="#050816"/>
+<rect x="1" y="1" width="858" height="498" rx="10" fill="none" stroke="#00F7FF" stroke-opacity="0.88"/>
+<rect x="8" y="8" width="844" height="484" rx="8" fill="none" stroke="#2DD4BF" stroke-opacity="0.18"/>
+<defs>
+<clipPath id="portrait-wipe"><rect x="214" y="29.75" width="432.9" height="437.25">
+<animate attributeName="width" values="0;432.9;432.9;0" keyTimes="0;0.45;0.82;1" dur="8s" repeatCount="indefinite"/>
+</rect></clipPath>
+</defs>
+<g font-family="Consolas, Menlo, monospace" font-size="7.7" fill="#00F7FF" opacity="0.96" clip-path="url(#portrait-wipe)">
+<text x="214" y="38.0">ssccccsscccccccccccccccccccccccs%%%%%%%#ssccccccssssssssssssssssssssssssss</text>
+<text x="214" y="46.25">scccccccccccccccccccccccccc*cs#%%@@@@@@@@%#%#sscccccssssssssssssssssssssss</text>
+<text x="214" y="54.5">sccccccccccccccccccccccc**c#%@@@@@@@@%@@@@@@@@@%scccccssssssssssssssssssss</text>
+<text x="214" y="62.75">sccccccccccccccccc*cccc*ss#@@@@@@@@@@@@@@@@@@@@@@scccccssssscccsccssssssss</text>
+<text x="214" y="71.0">scccccccccccccccccc*cc*s@@@@@@@@@@@@@@@@@@@@@@@@@%ccccccccsccccccccccccsss</text>
+<text x="214" y="79.25">ccccccccccccccccc***ccc%@@@@@@@@@@@@@@@@@@@@@@@@@@#cccccccccccccccccccccss</text>
+<text x="214" y="87.5">ccccccccccccccc*****cc*%@@@@@@@@@@@@@@@%#%@@@@@@@%sccccccccccccccccccccccs</text>
+<text x="214" y="95.75">cccccccccccccc******c*s@@@@@@@@%###%%%#sss#%%@@@@@sccccccccccccccccccccccc</text>
+<text x="214" y="104.0">cccccccccccc********c*%@@@@@%%#sscsssccc**css#@@@@#ccccccccccccccccccccccc</text>
+<text x="214" y="112.25">ccccccccccc*********c*%@@@@%#sss*+cscc*+*++**c#@@@%*cccccccccccccccccccccc</text>
+<text x="214" y="120.5">ccccccccc***********c*%@@@@##sss++*ccc****ccccs%@@%*cccccccccccccccccccccc</text>
+<text x="214" y="128.75">cccc****************c*#@@@#%%%%%%%#sscs#%%@@@%%#@@%*cccccccccccccccccccccc</text>
+<text x="214" y="137.0">cc******************c*s@%##%#ss#####ss#%#%####%%%@%***cc**cc*****ccccccccc</text>
+<text x="214" y="145.25">c*********************c@@%%%%@@@@%%%###%%@@@%%##%@#****c**cc*********ccccc</text>
+<text x="214" y="153.5">c**********************#@#%@@@@@@@@%cs%@@@@@@@%%%@#c****c*c************ccc</text>
+<text x="214" y="161.75">c*********************s#@#scs%%%%%@s:+#@%%%###%%#%#s******cc*c*********ccc</text>
+<text x="214" y="170.0">c*********************#s%#*+++*ss#s-=+*###sccs#s##cc***c**cc********c*cccc</text>
+<text x="214" y="178.25">c*********************sc#ss==*cc#*::==-+#%#ssc*c#%sc******cc*cccc*cccccccc</text>
+<text x="214" y="186.5">c*********************c*scsccs#%%*****c*s@%ssccc##sccccccccccccccccccccccc</text>
+<text x="214" y="194.75">ccccccccccc**********c*c*ssss#%%%%@#ss%@%@@%ssss#ccccccccccccccccccccccccc</text>
+<text x="214" y="203.0">cccccccccccccccccccccccc*###s#@@@@@@@@@@%@@@%####cccccccccscccccccccccssss</text>
+<text x="214" y="211.25">sssssssssssssssscsssssscs#####@@@#####%%%@@@%###ssssssssssssssssssssssssss</text>
+<text x="214" y="219.5">############ssssssssssssss####%%%%#cccss#@@%####ccssssssssssssssccsssssscs</text>
+<text x="214" y="227.75">#####sssssssssscccccccccccs#######%%##%###%###%s*ccccccccccccccccccccccccc</text>
+<text x="214" y="236.0">sssssscscccccccc*****c*****######s######ss###%#+*******cc***cccc******c**c</text>
+<text x="214" y="244.25">sssccccccc****cc*****c****+c%#######%%#sss##%%#********cc****ccc******c**c</text>
+<text x="214" y="252.5">sscccccscccccccccc***cc****s%%%###sssssss#%%%#@s*****ccccccccccccc*ccccccc</text>
+<text x="214" y="260.75">sssssccsscccccccccccccccc*c@%#%@%%%%%%%%%%%@%s@s*c*ccccccccccccccccccccccc</text>
+<text x="214" y="269.0">sssssssssccccccccccccccccc+#@#%@@@@@%%@@@@@%##@*=cccccccsccccccsccccccsscs</text>
+<text x="214" y="277.25">#sssssssssssscsccccccccc*=.c@%#%@@@@@@@@@%###%%=:=++*csccccccccsccccccsccs</text>
+<text x="214" y="285.5">#sssssssssssscsscccssc+-:..-@@##%%%%%%%%%###%@c::=*+===*sscccccsscccccsscs</text>
+<text x="214" y="293.75">##ssssssssssscscssc+-...::..s@@%###########%@#=:::====:=++cssccssccccsssss</text>
+<text x="214" y="302.0">##ssssssssssssss*-..........+%@@%########%%@%*-:::----=++=-=*cssscssssssss</text>
+<text x="214" y="310.25">##sssssssssssc+:.............c%@@%######%@@#*+.:::-==--====:.:+cssssssssss</text>
+<text x="214" y="318.5">###sssssssc*-...............:=c#%@@%###%@%s*cs+:..-+=--+==-:....-*ssssssss</text>
+<text x="214" y="326.75">###ssss#*=.................=cccscc#%%%%%*+cssssc=.:*=--++=--:.....:+ssssss</text>
+<text x="214" y="335.0">####sss+:................:*cc**ssc*c%%%*+*csssccc++*+=:+++==:.......-c#sss</text>
+<text x="214" y="343.25">####s#+.................-*cc***cccccc#*+*cccsccc*+*+==:++++=-.:......=ssss</text>
+<text x="214" y="351.5">#####s:..........:.......**c*+**cccc**+**ccccc***+++==-++=+==---:::-=:*#ss</text>
+<text x="214" y="359.75">#####+--.::..............***++*+*cc*c++*c**cc*+++=+===--+======+-::==-:sss</text>
+<text x="214" y="368.0">####s-==.--:.............+**++=:=**c*++c******++======-.========--:===-*#s</text>
+<text x="214" y="376.25">####c=+=.-+-....::.....::+*+==...++***+******+==++==-=-.:==-+++++:=+==-+#s</text>
+<text x="214" y="384.5">####+==+::*+-=.........::=*+=....++**c***+++*+=+++++===:.==-=++++-=+==-=##</text>
+<text x="214" y="392.75">###s===+=:*+++:.:........-+-....:+**++++++=++++++++===+=.:=-=*+++=++===-c#</text>
+<text x="214" y="401.0">###*-==+*:=++*=:....++-.........:+*+==++++=++++++++===++=:===c**++*+===-+#</text>
+<text x="214" y="409.25">###==+=+*=-+***=::.:+=..........:++--++*+==+*+++++++==+++=:-=cc*+++++++==s</text>
+<text x="214" y="417.5">##s-=+++**-+***+-.:==-..........:++-:=++**++++++++++=++=+++-=sc**+++++===*</text>
+<text x="214" y="425.75">#%*-++*++**+****:.==+:..........-+++=+***+++++++++++==*+++++*s**+**+*+++=+</text>
+<text x="214" y="434.0">##==+++***c**cs*=+++=...........-++*****+*+**++*+++++++++****c***++**+++=+</text>
+<text x="214" y="442.25">%#=+++*****scc#c++++=.:.........-++*****+++*+++++++++*+++=+*cc*******+*+=+</text>
+<text x="214" y="450.5">%s==+******cscsc+*+=:::.........==**+***++++=+*c+===-+==++=+ss********+++*</text>
+<text x="214" y="458.75">%c+*++**cc**ssss+*+-:=:.......:-==*c***+===*+++c+++==+*=+++*#s********+++*</text>
+</g>
+<rect x="214" y="30" width="9" height="9.25" fill="#D7F9FF" opacity="0.9">
+<animate attributeName="x" values="214;646.9;646.9;214" keyTimes="0;0.45;0.82;1" dur="8s" repeatCount="indefinite"/>
+<animate attributeName="y" values="30;459.0;459.0;30" keyTimes="0;0.45;0.82;1" dur="8s" repeatCount="indefinite"/>
+</rect>
+</svg>
