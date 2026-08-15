@@ -1,14 +1,10 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Loganth header banner" />
-</p>
-
-<p align="center">
   <img src="./loganth-chromatic.svg" width="90%" alt="Loganth name banner" />
 </p>
 
 <!-- 🧠 AI INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=700&lines=Hi,+I'm+Loganth;Cybersecurity+%7C+AI+%7C+Full+Stack;Building+Secure+Intelligent+Systems" alt="Typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=700&lines=Cybersecurity+%7C+AI+%7C+Full+Stack;Building+Secure+Intelligent+Systems" alt="Typing intro" />
 </p>
 
 ## 🚀 What I Do
