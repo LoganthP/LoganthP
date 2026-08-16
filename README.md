@@ -2,18 +2,29 @@
   <img src="./loganth-chromatic.svg" width="90%" alt="Loganth name banner" />
 </p>
 
-<!-- 🧠 AI INTRO -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=700&lines=Cybersecurity+%7C+AI+%7C+Full+Stack;Building+Secure+Intelligent+Systems" alt="Typing intro" />
 </p>
 
+<table align="center" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="./loganthp-ascii.svg" width="100%" alt="Animated ASCII portrait" />
+    </td><td align="center" valign="top" width="50%">
+      <img src="./loganthp-info-card.svg" width="100%" alt="Profile info card" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<table>
+  <tr>
+    <td valign="top" width="55%">
+
 ## 🚀 What I Do
 
-<p align="center">
-  <img src="./assets/Isometric_pixel_art_floating_gwr_video_mvp.gif" width="440" alt="Cyber Workspace" />
-</p>
-
-```bash
+<pre>
 > Designing secure systems & cybersecurity tools
 
 > Building AI-powered intelligent applications
@@ -21,9 +32,16 @@
 > Developing scalable full-stack platforms
 
 > Solving real-world engineering problems
-```
+</pre>
 
-<p align="left">
+    </td>
+    <td align="center" valign="middle" width="45%">
+      <img src="./assets/Pixel_art_an_old_arcade_cabi_gwr_video_mvp.gif" width="320" alt="Arcade cabinet pixel art" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity-050816?style=for-the-badge&logo=hackthebox&logoColor=00F7FF" alt="Cybersecurity" />
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-050816?style=for-the-badge&logo=openai&logoColor=00F7FF" alt="Artificial Intelligence" />
   <br><br>
@@ -33,53 +51,49 @@
 
 ---
 
+<table>
+  <tr>
+    <td valign="top" width="60%">
+
 ## 🧰 Tech Stack
 
 ### 💻 Programming Languages
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,matlab&theme=dark" alt="Programming languages" />
 </p>
 
 ### 🌐 Web Technologies
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express&theme=dark" alt="Web technologies" />
 </p>
 
 ### 🗄️ Databases & Cloud
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,gcp,docker,kubernetes,terraform&theme=dark" alt="Databases and cloud" />
 </p>
 
 ### ⚙️ Tools & Platforms
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,postman&theme=dark" alt="Tools and platforms" />
   <img src="./assets/tech-logos/n8n.png" width="48" height="48" alt="n8n" />
 </p>
 
 ### 🤖 AI & RAG
 
-<p align="center">
-  <img src="./assets/tech-logos/rag.png" width="48" height="48" alt="RAG" />
-  <img src="./assets/tech-logos/langchain.png" width="48" height="48" alt="LangChain" />
-  <img src="./assets/tech-logos/faiss.png" width="48" height="48" alt="FAISS" />
-  <img src="./assets/tech-logos/chromadb.png" width="48" height="48" alt="ChromaDB" />
+<p align="left">
+  <img src="./assets/tech-logos/rag.svg" width="48" height="48" alt="RAG" />
+  <img src="./assets/tech-logos/langchain.svg" width="48" height="48" alt="LangChain" />
+  <img src="./assets/tech-logos/faiss.svg" width="48" height="48" alt="FAISS" />
+  <img src="./assets/tech-logos/chromadb.svg" width="48" height="48" alt="ChromaDB" />
 </p>
 
----
-
-## 🖼️ Portfolio Artwork
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="./loganthp-ascii.svg" width="100%" alt="ASCII portrait" />
     </td>
-    <td align="center" width="50%">
-      <img src="./loganthp-info-card.svg" width="100%" alt="Profile info card" />
+    <td align="center" valign="middle" width="40%">
+      <img src="./assets/Isometric_pixel_art_floating_gwr_video_mvp.gif" width="380" alt="Cyber workspace" />
     </td>
   </tr>
 </table>
