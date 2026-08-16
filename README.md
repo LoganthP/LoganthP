@@ -57,6 +57,16 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,postman&theme=dark" alt="Tools and platforms" />
+  <img src="./assets/tech-logos/n8n.png" width="48" height="48" alt="n8n" />
+</p>
+
+### 🤖 AI & RAG
+
+<p align="center">
+  <img src="./assets/tech-logos/rag.png" width="48" height="48" alt="RAG" />
+  <img src="./assets/tech-logos/langchain.png" width="48" height="48" alt="LangChain" />
+  <img src="./assets/tech-logos/faiss.png" width="48" height="48" alt="FAISS" />
+  <img src="./assets/tech-logos/chromadb.png" width="48" height="48" alt="ChromaDB" />
 </p>
 
 ---
