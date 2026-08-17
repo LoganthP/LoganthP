@@ -6,15 +6,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=700&lines=Cybersecurity+%7C+AI+%7C+Full+Stack;Building+Secure+Intelligent+Systems" alt="Typing intro" />
 </p>
 
-<table align="center" cellpadding="0" cellspacing="0" border="0">
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <img src="./loganthp-ascii.svg" width="100%" alt="Animated ASCII portrait" />
-    </td><td align="center" valign="top" width="50%">
-      <img src="./loganthp-info-card.svg" width="100%" alt="Profile info card" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./loganthp-ascii_cyberpunk.svg" width="100%" alt="Animated ASCII portrait and profile info card" />
+</p>
 
 ---
 
