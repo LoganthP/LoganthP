@@ -28,6 +28,7 @@
 > Solving real-world engineering problems
 </pre>
 
+<<<<<<< HEAD
 </td>
 <td align="center" valign="middle" width="45%">
 
@@ -35,6 +36,13 @@
 
 </td>
 </tr>
+=======
+    </td>
+    <td align="center" valign="middle" width="45%">
+      <img src="./assets/Pixel_art_an_old_arcade.gif" width="320" alt="Arcade cabinet pixel art" />
+    </td>
+  </tr>
+>>>>>>> 08d73c24d82d30a9fd88411bac15886aab839c72
 </table>
 
 <p align="center">
@@ -87,6 +95,7 @@
   <img src="./assets/tech-logos/chromadb.svg" width="48" height="48" alt="ChromaDB" />
 </p>
 
+<<<<<<< HEAD
 </td>
 <td align="center" valign="middle" width="40%">
 
@@ -94,6 +103,13 @@
 
 </td>
 </tr>
+=======
+    </td>
+    <td align="center" valign="middle" width="40%">
+      <img src="./assets/Isometric_pixel_art.gif" width="380" alt="Cyber workspace" />
+    </td>
+  </tr>
+>>>>>>> 08d73c24d82d30a9fd88411bac15886aab839c72
 </table>
 
 ---
