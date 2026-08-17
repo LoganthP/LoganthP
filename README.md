@@ -30,7 +30,7 @@
 
     </td>
     <td align="center" valign="middle" width="45%">
-      <img src="./assets/Pixel_art_an_old_arcade_cabi_gwr_video_mvp.gif" width="320" alt="Arcade cabinet pixel art" />
+      <img src="./assets/Pixel_art_an_old_arcade.gif" width="320" alt="Arcade cabinet pixel art" />
     </td>
   </tr>
 </table>
@@ -87,7 +87,7 @@
 
     </td>
     <td align="center" valign="middle" width="40%">
-      <img src="./assets/Isometric_pixel_art_floating_gwr_video_mvp.gif" width="380" alt="Cyber workspace" />
+      <img src="./assets/Isometric_pixel_art.gif" width="380" alt="Cyber workspace" />
     </td>
   </tr>
 </table>
