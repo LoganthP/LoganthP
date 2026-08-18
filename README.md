@@ -3,18 +3,25 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=700&lines=Cybersecurity+%7C+AI+%7C+Full+Stack;Building+Secure+Intelligent+Systems" alt="Typing intro" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=700&lines=Cybersecurity+%7C+AI+%7C+Full+Stack;Building+Secure+Intelligent+Systems"
+    alt="Typing intro"
+  />
 </p>
 
 <p align="center">
-  <img src="./loganthp-ascii_cyberpunk.svg" width="100%" alt="Animated ASCII portrait and profile info card" />
+  <img
+    src="./loganthp-ascii_cyberpunk.svg"
+    width="100%"
+    alt="Animated ASCII portrait and profile info card"
+  />
 </p>
 
 ---
 
 <table>
-<tr>
-<td valign="top" width="55%">
+  <tr>
+    <td valign="top" width="55%">
 
 ## 🚀 What I Do
 
@@ -28,88 +35,135 @@
 > Solving real-world engineering problems
 </pre>
 
-<<<<<<< HEAD
-</td>
-<td align="center" valign="middle" width="45%">
-
-<img src="./assets/Pixel_art_an_old_arcade.gif" width="320" alt="Arcade cabinet pixel art" />
-
-</td>
-</tr>
-=======
     </td>
+
     <td align="center" valign="middle" width="45%">
-      <img src="./assets/Pixel_art_an_old_arcade.gif" width="320" alt="Arcade cabinet pixel art" />
+      <img
+        src="./assets/Pixel_art_an_old_arcade.gif"
+        width="320"
+        alt="Arcade cabinet pixel art"
+      />
     </td>
   </tr>
->>>>>>> 08d73c24d82d30a9fd88411bac15886aab839c72
 </table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-050816?style=for-the-badge&logo=hackthebox&logoColor=00F7FF" alt="Cybersecurity" />
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-050816?style=for-the-badge&logo=openai&logoColor=00F7FF" alt="Artificial Intelligence" />
+  <img
+    src="https://img.shields.io/badge/Cybersecurity-050816?style=for-the-badge&logo=hackthebox&logoColor=00F7FF"
+    alt="Cybersecurity"
+  />
+
+  <img
+    src="https://img.shields.io/badge/Artificial%20Intelligence-050816?style=for-the-badge&logo=openai&logoColor=00F7FF"
+    alt="Artificial Intelligence"
+  />
+
   <br><br>
-  <img src="https://img.shields.io/badge/Full%20Stack-050816?style=for-the-badge&logo=vercel&logoColor=00F7FF" alt="Full Stack" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-050816?style=for-the-badge&logo=codeforces&logoColor=00F7FF" alt="Problem Solving" />
+
+  <img
+    src="https://img.shields.io/badge/Full%20Stack-050816?style=for-the-badge&logo=vercel&logoColor=00F7FF"
+    alt="Full Stack"
+  />
+
+  <img
+    src="https://img.shields.io/badge/Problem%20Solving-050816?style=for-the-badge&logo=codeforces&logoColor=00F7FF"
+    alt="Problem Solving"
+  />
 </p>
 
 ---
 
 <table>
-<tr>
-<td valign="top" width="60%">
+  <tr>
+    <td valign="top" width="60%">
 
 ## 🧰 Tech Stack
 
 ### 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,matlab&theme=dark" alt="Programming languages" />
+  <img
+    src="https://skillicons.dev/icons?i=c,cpp,python,java,matlab&theme=dark"
+    alt="Programming languages"
+  />
 </p>
 
 ### 🌐 Web Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express&theme=dark" alt="Web technologies" />
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express&theme=dark"
+    alt="Web technologies"
+  />
 </p>
 
 ### 🗄️ Databases & Cloud
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,gcp,docker,kubernetes,terraform&theme=dark" alt="Databases and cloud" />
+  <img
+    src="https://skillicons.dev/icons?i=mongodb,mysql,aws,gcp,docker,kubernetes,terraform&theme=dark"
+    alt="Databases and cloud"
+  />
 </p>
 
 ### ⚙️ Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,postman&theme=dark" alt="Tools and platforms" />
-  <img src="./assets/tech-logos/n8n.png" width="48" height="48" alt="n8n" />
+  <img
+    src="https://skillicons.dev/icons?i=git,github,gitlab,linux,postman&theme=dark"
+    alt="Tools and platforms"
+  />
+
+  <img
+    src="./assets/tech-logos/n8n.png"
+    width="48"
+    height="48"
+    alt="n8n"
+  />
 </p>
 
 ### 🤖 AI & RAG
 
 <p align="left">
-  <img src="./assets/tech-logos/rag.svg" width="48" height="48" alt="RAG" />
-  <img src="./assets/tech-logos/langchain.svg" width="48" height="48" alt="LangChain" />
-  <img src="./assets/tech-logos/faiss.svg" width="48" height="48" alt="FAISS" />
-  <img src="./assets/tech-logos/chromadb.svg" width="48" height="48" alt="ChromaDB" />
+  <img
+    src="./assets/tech-logos/rag.svg"
+    width="48"
+    height="48"
+    alt="RAG"
+  />
+
+  <img
+    src="./assets/tech-logos/langchain.svg"
+    width="48"
+    height="48"
+    alt="LangChain"
+  />
+
+  <img
+    src="./assets/tech-logos/faiss.svg"
+    width="48"
+    height="48"
+    alt="FAISS"
+  />
+
+  <img
+    src="./assets/tech-logos/chromadb.svg"
+    width="48"
+    height="48"
+    alt="ChromaDB"
+  />
 </p>
 
-<<<<<<< HEAD
-</td>
-<td align="center" valign="middle" width="40%">
-
-<img src="./assets/Isometric_pixel_art.gif" width="380" alt="Cyber workspace" />
-
-</td>
-</tr>
-=======
     </td>
+
     <td align="center" valign="middle" width="40%">
-      <img src="./assets/Isometric_pixel_art.gif" width="380" alt="Cyber workspace" />
+      <img
+        src="./assets/Isometric_pixel_art.gif"
+        width="380"
+        alt="Cyber workspace"
+      />
     </td>
   </tr>
->>>>>>> 08d73c24d82d30a9fd88411bac15886aab839c72
 </table>
 
 ---
@@ -117,15 +171,26 @@
 ## 📡 Live Activities
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LoganthP&theme=tokyo-night&hide_border=true" alt="Activity graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=LoganthP&theme=tokyo-night&hide_border=true"
+    alt="Activity graph"
+  />
 </p>
 
 <p align="center">
-  <img src="./loganthp-heatmap.svg" width="100%" alt="Contribution heatmap" />
+  <img
+    src="./loganthp-heatmap.svg"
+    width="100%"
+    alt="Contribution heatmap"
+  />
 </p>
 
 <p align="center">
-  <img src="./github-jet.svg" width="100%" alt="Jet heatmap" />
+  <img
+    src="./github-jet.svg"
+    width="100%"
+    alt="Jet heatmap"
+  />
 </p>
 
 ---
@@ -133,23 +198,52 @@
 ## 🌐 Connect • Network • Explore
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/loganth-p-158667280/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A0F1C?style=for-the-badge&logo=linkedin&logoColor=00F7FF" alt="LinkedIn" />
+
+  <a
+    href="<https://www.linkedin.com/in/loganth-p-158667280/>"
+    target="_blank"
+  >
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A0F1C?style=for-the-badge&logo=linkedin&logoColor=00F7FF"
+      alt="LinkedIn"
+    />
   </a>
 
-  <a href="https://leetcode.com/u/loganthp-1910/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-0A0F1C?style=for-the-badge&logo=leetcode&logoColor=00F7FF" alt="LeetCode" />
+  <a
+    href="<https://leetcode.com/u/loganthp-1910/>"
+    target="_blank"
+  >
+    <img
+      src="https://img.shields.io/badge/LeetCode-0A0F1C?style=for-the-badge&logo=leetcode&logoColor=00F7FF"
+      alt="LeetCode"
+    />
   </a>
 
-  <a href="https://www.hackerrank.com/profile/loganth_1925" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-0A0F1C?style=for-the-badge&logo=hackerrank&logoColor=00F7FF" alt="HackerRank" />
+  <a
+    href="<https://www.hackerrank.com/profile/loganth_1925>"
+    target="_blank"
+  >
+    <img
+      src="https://img.shields.io/badge/HackerRank-0A0F1C?style=for-the-badge&logo=hackerrank&logoColor=00F7FF"
+      alt="HackerRank"
+    />
   </a>
 
-  <a href="mailto:loganthp19@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0A0F1C?style=for-the-badge&logo=gmail&logoColor=00F7FF" alt="Email" />
+  <a
+    href="mailto:<loganthp19@gmail.com>"
+  >
+    <img
+      src="https://img.shields.io/badge/Email-0A0F1C?style=for-the-badge&logo=gmail&logoColor=00F7FF"
+      alt="Email"
+    />
   </a>
+
 </p>
 
 <p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Footer banner" />
+  <img
+    src="./assets/footer.svg"
+    width="100%"
+    alt="Footer banner"
+  />
 </p>
