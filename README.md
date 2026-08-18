@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./loganth-chromatic.svg" width="90%" alt="Loganth name banner" />
+  <img src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/loganth-chromatic.svg" width="90%" alt="Loganth name banner" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 <p align="center">
   <img
-    src="./loganthp-ascii_cyberpunk.svg"
+    src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/loganthp-ascii_cyberpunk.svg"
     width="100%"
     alt="Animated ASCII portrait and profile info card"
   />
@@ -38,11 +38,11 @@
     </td>
 
     <td align="center" valign="middle" width="45%">
-      <img
-        src="./assets/Pixel_art_an_old_arcade.gif"
+      <video
+        src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/Pixel_art_an_old_arcade.mp4"
         width="320"
-        alt="Arcade cabinet pixel art"
-      />
+        autoplay loop muted playsinline
+      ></video>
     </td>
   </tr>
 </table>
@@ -115,7 +115,7 @@
   />
 
   <img
-    src="./assets/tech-logos/n8n.png"
+    src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/n8n.png"
     width="48"
     height="48"
     alt="n8n"
@@ -126,28 +126,28 @@
 
 <p align="left">
   <img
-    src="./assets/tech-logos/rag.svg"
+    src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/rag.svg"
     width="48"
     height="48"
     alt="RAG"
   />
 
   <img
-    src="./assets/tech-logos/langchain.svg"
+    src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/langchain.svg"
     width="48"
     height="48"
     alt="LangChain"
   />
 
   <img
-    src="./assets/tech-logos/faiss.svg"
+    src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/faiss.svg"
     width="48"
     height="48"
     alt="FAISS"
   />
 
   <img
-    src="./assets/tech-logos/chromadb.svg"
+    src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/chromadb.svg"
     width="48"
     height="48"
     alt="ChromaDB"
@@ -157,11 +157,11 @@
     </td>
 
     <td align="center" valign="middle" width="40%">
-      <img
-        src="./assets/Isometric_pixel_art.gif"
+      <video
+        src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/Isometric_pixel_art.mp4"
         width="380"
-        alt="Cyber workspace"
-      />
+        autoplay loop muted playsinline
+      ></video>
     </td>
   </tr>
 </table>
@@ -179,7 +179,7 @@
 
 <p align="center">
   <img
-    src="./loganthp-heatmap.svg"
+    src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/loganthp-heatmap.svg"
     width="100%"
     alt="Contribution heatmap"
   />
@@ -187,7 +187,7 @@
 
 <p align="center">
   <img
-    src="./github-jet.svg"
+    src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/github-jet.svg"
     width="100%"
     alt="Jet heatmap"
   />
@@ -230,8 +230,7 @@
   </a>
 
   <a
-    href="mailto:<loganthp19@gmail.com>"
-  >
+    href="mailto:<loganthp19@gmail.com">
     <img
       src="https://img.shields.io/badge/Email-0A0F1C?style=for-the-badge&logo=gmail&logoColor=00F7FF"
       alt="Email"
@@ -242,7 +241,7 @@
 
 <p align="center">
   <img
-    src="./assets/footer.svg"
+    src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/footer.svg"
     width="100%"
     alt="Footer banner"
   />
