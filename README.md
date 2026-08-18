@@ -38,11 +38,11 @@
   </td>
 
   <td align="center" valign="middle" width="45%">
-    <video
-      src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/Pixel_art_an_old_arcade.mp4"
+    <img
+      src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/Pixel_art_an_old_arcade_small.gif"
       width="320"
-      autoplay loop muted playsinline
-    ></video>
+      alt="Arcade cabinet pixel art"
+    />
   </td>
 </tr>
 </table>
@@ -157,11 +157,11 @@
   </td>
 
   <td align="center" valign="middle" width="40%">
-    <video
-      src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/Isometric_pixel_art.mp4"
+    <img
+      src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/Isometric_pixel_art_small.gif"
       width="380"
-      autoplay loop muted playsinline
-    ></video>
+      alt="Cyber workspace"
+    />
   </td>
 </tr>
 </table>
