@@ -35,16 +35,16 @@
 > Solving real-world engineering problems
 </pre>
 
-    </td>
+  </td>
 
-    <td align="center" valign="middle" width="45%">
-      <video
-        src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/Pixel_art_an_old_arcade.mp4"
-        width="320"
-        autoplay loop muted playsinline
-      ></video>
-    </td>
-  </tr>
+  <td align="center" valign="middle" width="45%">
+    <video
+      src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/Pixel_art_an_old_arcade.mp4"
+      width="320"
+      autoplay loop muted playsinline
+    ></video>
+  </td>
+</tr>
 </table>
 
 <p align="center">
@@ -154,16 +154,16 @@
   />
 </p>
 
-    </td>
+  </td>
 
-    <td align="center" valign="middle" width="40%">
-      <video
-        src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/Isometric_pixel_art.mp4"
-        width="380"
-        autoplay loop muted playsinline
-      ></video>
-    </td>
-  </tr>
+  <td align="center" valign="middle" width="40%">
+    <video
+      src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/Isometric_pixel_art.mp4"
+      width="380"
+      autoplay loop muted playsinline
+    ></video>
+  </td>
+</tr>
 </table>
 
 ---
