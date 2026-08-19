@@ -57,66 +57,79 @@
 ---
 
 <h2 align="center">🧰 Tech Stack</h2>
+### 💻 Programming Languages
 
-<p align="center">
+<p align="left">
   <img
-    src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/Isometric_pixel_art_small.gif"
-    width="380"
-    alt="Cyber workspace"
+    src="https://skillicons.dev/icons?i=c,cpp,python,java,matlab&theme=dark"
+    alt="Programming languages"
   />
 </p>
 
-<h3 align="center">💻 Programming Languages</h3>
+### 🌐 Web Technologies
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-0A0F1C?style=for-the-badge&logo=c&logoColor=00F7FF" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-0A0F1C?style=for-the-badge&logo=c%2B%2B&logoColor=00F7FF" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-0A0F1C?style=for-the-badge&logo=python&logoColor=00F7FF" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-0A0F1C?style=for-the-badge&logo=openjdk&logoColor=00F7FF" alt="Java" />
-  <img src="https://img.shields.io/badge/Assembly-0A0F1C?style=for-the-badge&logo=assemblyscript&logoColor=00F7FF" alt="Assembly" />
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express&theme=dark"
+    alt="Web technologies"
+  />
 </p>
 
-<h3 align="center">🌐 Web Technologies</h3>
+### 🗄️ Databases & Cloud
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-0A0F1C?style=for-the-badge&logo=html5&logoColor=00F7FF" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-0A0F1C?style=for-the-badge&logo=css&logoColor=00F7FF" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-0A0F1C?style=for-the-badge&logo=javascript&logoColor=00F7FF" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-0A0F1C?style=for-the-badge&logo=typescript&logoColor=00F7FF" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-0A0F1C?style=for-the-badge&logo=react&logoColor=00F7FF" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-0A0F1C?style=for-the-badge&logo=node.js&logoColor=00F7FF" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-0A0F1C?style=for-the-badge&logo=express&logoColor=00F7FF" alt="Express" />
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=mongodb,mysql,aws,gcp,docker,kubernetes,terraform&theme=dark"
+    alt="Databases and cloud"
+  />
 </p>
 
-<h3 align="center">🗄️ Databases & Cloud</h3>
+### ⚙️ Tools & Platforms
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-0A0F1C?style=for-the-badge&logo=mongodb&logoColor=00F7FF" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-0A0F1C?style=for-the-badge&logo=redis&logoColor=00F7FF" alt="Redis" />
-  <img src="https://img.shields.io/badge/AWS-0A0F1C?style=for-the-badge&logo=amazonwebservices&logoColor=00F7FF" alt="AWS" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-0A0F1C?style=for-the-badge&logo=googlecloud&logoColor=00F7FF" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Docker-0A0F1C?style=for-the-badge&logo=docker&logoColor=00F7FF" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-0A0F1C?style=for-the-badge&logo=kubernetes&logoColor=00F7FF" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Terraform-0A0F1C?style=for-the-badge&logo=terraform&logoColor=00F7FF" alt="Terraform" />
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=git,github,gitlab,linux,postman&theme=dark"
+    alt="Tools and platforms"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/n8n.png"
+    width="48"
+    height="48"
+    alt="n8n"
+  />
 </p>
 
-<h3 align="center">⚙️ Tools & Platforms</h3>
+### 🤖 AI & RAG
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-0A0F1C?style=for-the-badge&logo=git&logoColor=00F7FF" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-0A0F1C?style=for-the-badge&logo=github&logoColor=00F7FF" alt="GitHub" />
-  <img src="https://img.shields.io/badge/GitLab-0A0F1C?style=for-the-badge&logo=gitlab&logoColor=00F7FF" alt="GitLab" />
-  <img src="https://img.shields.io/badge/Linux-0A0F1C?style=for-the-badge&logo=linux&logoColor=00F7FF" alt="Linux" />
-  <img src="https://img.shields.io/badge/VS%20Code-0A0F1C?style=for-the-badge&logo=visualstudiocode&logoColor=00F7FF" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Postman-0A0F1C?style=for-the-badge&logo=postman&logoColor=00F7FF" alt="Postman" />
-</p>
+<p align="left">
+  <img
+    src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/rag.svg"
+    width="48"
+    height="48"
+    alt="RAG"
+  />
 
-<h3 align="center">🤖 AI & RAG</h3>
+  <img
+    src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/langchain.svg"
+    width="48"
+    height="48"
+    alt="LangChain"
+  />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-0A0F1C?style=for-the-badge&logo=langchain&logoColor=00F7FF" alt="LangChain" />
-  <img src="https://img.shields.io/badge/FAISS-0A0F1C?style=for-the-badge&logo=meta&logoColor=00F7FF" alt="FAISS" />
-  <img src="https://img.shields.io/badge/ChromaDB-0A0F1C?style=for-the-badge&logo=chromadb&logoColor=00F7FF" alt="ChromaDB" />
+  <img
+    src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/faiss.svg"
+    width="48"
+    height="48"
+    alt="FAISS"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/chromadb.svg"
+    width="48"
+    height="48"
+    alt="ChromaDB"
+  />
 </p>
 
 ---
