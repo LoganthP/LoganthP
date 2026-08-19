@@ -24,7 +24,7 @@
 ## 🚀 What I Do
 <img align="right"
      src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/Pixel_art_an_old_arcade_small.gif"
-     width="55%"
+     width="53%"
      alt="Cyber Workspace"/>
 
 ```bash
