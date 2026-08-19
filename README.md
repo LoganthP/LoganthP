@@ -24,7 +24,7 @@
      src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/Pixel_art_an_old_arcade_small.gif"
      width="52%"
      alt="Cyber Workspace"/>
-<br>
+
 ```bash
 > Designing secure systems & cybersecurity tools
 > Building AI-powered intelligent applications
@@ -39,14 +39,6 @@
 <img src="https://img.shields.io/badge/Full%20Stack-050816?style=for-the-badge&logo=vercel&logoColor=00F7FF"/>
 <img src="https://img.shields.io/badge/Problem%20Solving-050816?style=for-the-badge&logo=codeforces&logoColor=00F7FF"/>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-0A0F1C?style=for-the-badge&logo=hackthebox&logoColor=00F7FF" alt="Cybersecurity" />
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-0A0F1C?style=for-the-badge&logo=openai&logoColor=00F7FF" alt="Artificial Intelligence" />
-  <img src="https://img.shields.io/badge/Full%20Stack-0A0F1C?style=for-the-badge&logo=vercel&logoColor=00F7FF" alt="Full Stack" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-0A0F1C?style=for-the-badge&logo=codeforces&logoColor=00F7FF" alt="Problem Solving" />
-</p>
-
 ---
 
 <h2 align="center">🧰 Tech Stack</h2>
