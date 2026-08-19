@@ -25,11 +25,12 @@
      width="52%"
      alt="Cyber Workspace"/>
 <br>
-bash
+```bash
 > Designing secure systems & cybersecurity tools
 > Building AI-powered intelligent applications
 > Developing scalable full-stack platforms
 > Solving real-world engineering problems
+```
 
 <p align="left">
 <img src="https://img.shields.io/badge/Cybersecurity-050816?style=for-the-badge&logo=hackthebox&logoColor=00F7FF"/>
