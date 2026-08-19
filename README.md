@@ -27,8 +27,11 @@
 
 ```bash
 > Designing secure systems & cybersecurity tools
+
 > Building AI-powered intelligent applications
+
 > Developing scalable full-stack platforms
+
 > Solving real-world engineering problems
 ```
 
