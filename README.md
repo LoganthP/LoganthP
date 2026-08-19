@@ -19,33 +19,25 @@
 
 ---
 
-<table border="0" width="100%">
-  <tr>
-    <td width="55%" valign="top" style="border: none;">
-
 ## 🚀 What I Do
-
-<pre>
+<img align="right"
+     src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/Pixel_art_an_old_arcade_small.gif"
+     width="52%"
+     alt="Cyber Workspace"/>
+<br>
+bash
 > Designing secure systems & cybersecurity tools
-
 > Building AI-powered intelligent applications
-
 > Developing scalable full-stack platforms
-
 > Solving real-world engineering problems
-</pre>
 
-  </td>
-
-  <td width="45%" align="center" valign="middle" style="border: none;">
-    <img
-      src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/Pixel_art_an_old_arcade_small.gif"
-      width="340"
-      alt="Arcade cabinet pixel art"
-    />
-  </td>
-</tr>
-</table>
+<p align="left">
+<img src="https://img.shields.io/badge/Cybersecurity-050816?style=for-the-badge&logo=hackthebox&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-050816?style=for-the-badge&logo=openai&logoColor=00F7FF"/>
+<br><br>
+<img src="https://img.shields.io/badge/Full%20Stack-050816?style=for-the-badge&logo=vercel&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-050816?style=for-the-badge&logo=codeforces&logoColor=00F7FF"/>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity-0A0F1C?style=for-the-badge&logo=hackthebox&logoColor=00F7FF" alt="Cybersecurity" />
