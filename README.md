@@ -57,6 +57,7 @@
 ---
 
 <h2 align="center">🧰 Tech Stack</h2>
+
 ### 💻 Programming Languages
 
 <p align="left">
@@ -107,29 +108,25 @@
     src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/rag.svg"
     width="48"
     height="48"
-    alt="RAG"
-  />
+    alt="RAG"/>
 
   <img
     src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/langchain.svg"
     width="48"
     height="48"
-    alt="LangChain"
-  />
+    alt="LangChain"/>
 
   <img
     src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/faiss.svg"
     width="48"
     height="48"
-    alt="FAISS"
-  />
+    alt="FAISS"/>
 
   <img
     src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/chromadb.svg"
     width="48"
     height="48"
-    alt="ChromaDB"
-  />
+    alt="ChromaDB"/>
 </p>
 
 ---
