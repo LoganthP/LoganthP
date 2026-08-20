@@ -17,15 +17,14 @@
   />
 </p>
 
-
-
 ---
 
 ## 🚀 What I Do
+
 <img align="right"
-     src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/Pixel_art_an_old_arcade_small.gif"
-     width="55%"
-     alt="Cyber Workspace"/>
+    src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/Pixel_art_an_old_arcade_small.gif"
+    width="55%"
+    alt="Pixel Arcade"/>
 
 ```bash
 > Designing secure systems & cybersecurity tools
@@ -46,7 +45,13 @@
 </p>
 
 ---
+
 ## 🧰 Tech Stack
+
+<img align="right"
+    src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/Isometric_pixel_art.gif"
+    width="55%"
+    alt="Isometric pixel art"/>
 
 ### 💻 Programming Languages
 
