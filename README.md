@@ -66,6 +66,11 @@
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,aws,gcp,docker,kubernetes,terraform&theme=dark" alt="Databases & Cloud" />
 </p>
 
+<img align="right"
+    src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/Isometric_pixel_art.gif"
+    width="55%"
+    alt="Tech City - From Code to Cloud"/>
+
 ### ⚙️ Tools & Platforms
 
 <p align="left">
@@ -73,11 +78,6 @@
   <br>
   <img src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/n8n.png" width="48" height="48" alt="Workflow Automation" />
 </p>
-
-<img align="right"
-    src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/Isometric_pixel_art.gif"
-    width="55%"
-    alt="Tech City - From Code to Cloud"/>
 
 ### 🤖 AI & RAG
 
