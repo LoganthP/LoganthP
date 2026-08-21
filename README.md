@@ -62,7 +62,8 @@
 
 <img align="right"
     src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/Isometric_pixel_art.gif"
-    width="50%"
+    width="450"
+    height="320"
     alt="Tech City - From Code to Cloud"/>
 
 ### 🗄️ Databases & Cloud
