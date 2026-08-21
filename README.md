@@ -46,42 +46,29 @@
 
 ---
 
-## 🧰 Tech Stack
+## 💻 Tech Stack
 
 <img align="right"
     src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/Isometric_pixel_art.gif"
-    width="48%"
+    width="50%"
     alt="Tech City - From Code to Cloud"/>
 
-### 💻 Programming Languages
-
 <p align="left">
+  <b>💻 Programming Languages</b><br>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,matlab&theme=dark" alt="Programming Languages" />
-</p>
-
-### 🌐 Web Technologies
-
-<p align="left">
+  <br><br>
+  <b>🌐 Web Technologies</b><br>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express&theme=dark" alt="Web Technologies" />
-</p>
-
-### 🗄️ Databases & Cloud
-
-<p align="left">
+  <br><br>
+  <b>🗄️ Databases & Cloud</b><br>
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,aws,gcp,docker,kubernetes,terraform&theme=dark" alt="Databases & Cloud" />
-</p>
-
-### ⚙️ Tools & Platforms
-
-<p align="left">
+  <br><br>
+  <b>⚙️ Tools & Platforms</b><br>
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,jenkins,postman&theme=dark" alt="Tools & Platforms" />
   <br>
   <img src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/n8n.png" width="48" height="48" alt="Workflow Automation" />
-</p>
-
-### 🤖 AI & RAG
-
-<p align="left">
+  <br><br>
+  <b>🤖 AI & RAG</b><br>
   <img src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/rag.svg" width="48" height="48" alt="RAG" />
   <img src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/langchain.svg" width="48" height="48" alt="LangChain" />
   <img src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/faiss.svg" width="48" height="48" alt="FAISS" />
