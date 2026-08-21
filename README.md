@@ -46,7 +46,7 @@
 
 ---
 
-## 💻 Tech Stack
+## 🧰 Tech Stack
 
 <img align="right"
     src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/Isometric_pixel_art.gif"
