@@ -46,7 +46,7 @@
 
 ---
 
-## 💻 Tech Stack
+## 🧰 Tech Stack
 
 <table border="0">
   <tr>
