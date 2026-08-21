@@ -46,64 +46,45 @@
 
 ---
 
-## 🖥️ Tech Stack
+## 💻 Tech Stack
 
-<img align="right"
-    src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/Isometric_pixel_art.gif"
-    width="50%"
-    alt="Tech City Isometric Pixel Art"/>
-
-### 💻 Programming Languages
-
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=c,cpp,python,java,matlab&theme=dark"
-    alt="Programming Languages"
-  />
-</p>
-
-### 🌐 Web Technologies
-
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express&theme=dark"
-    alt="Web Technologies"
-  />
-</p>
-
-### 📱 Databases & Cloud
-
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=mongodb,postgres,aws,gcp,docker,kubernetes,terraform&theme=dark"
-    alt="Databases & Cloud"
-  />
-</p>
-
-### ⚙️ Tools & Platforms
-
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=git,github,gitlab,linux,postman&theme=dark"
-    alt="Tools & Platforms"
-  />
-  <br>
-  <img
-    src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/n8n.png"
-    width="48"
-    height="48"
-    alt="Workflow Automation"
-  />
-</p>
-
-### 🤖 AI & RAG
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/rag.svg" width="48" height="48" alt="RAG" />
-  <img src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/langchain.svg" width="48" height="48" alt="LangChain" />
-  <img src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/faiss.svg" width="48" height="48" alt="FAISS" />
-  <img src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/chromadb.svg" width="48" height="48" alt="ChromaDB" />
-</p>
+<table border="0">
+  <tr>
+    <td width="55%" valign="top">
+      <h4>💻 Programming Languages</h4>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=c,cpp,python,java,matlab&theme=dark" alt="Programming Languages" />
+      </p>
+      <h4>🌐 Web Technologies</h4>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express&theme=dark" alt="Web Technologies" />
+      </p>
+      <h4>🗄️ Databases & Cloud</h4>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=mongodb,postgres,aws,gcp,docker,kubernetes,terraform&theme=dark" alt="Databases & Cloud" />
+      </p>
+      <h4>⚙️ Tools & Platforms</h4>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,jenkins,postman&theme=dark" alt="Tools & Platforms" />
+        <br><br>
+        <img src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/n8n.png" width="48" height="48" alt="Workflow Automation" />
+      </p>
+      <h4>🤖 AI & RAG</h4>
+      <p align="left">
+        <img src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/rag.svg" width="48" height="48" alt="RAG" />
+        <img src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/langchain.svg" width="48" height="48" alt="LangChain" />
+        <img src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/faiss.svg" width="48" height="48" alt="FAISS" />
+        <img src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/chromadb.svg" width="48" height="48" alt="ChromaDB" />
+      </p>
+    </td>
+    <td width="45%" valign="middle" align="center">
+      <img src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/Isometric_pixel_art.gif" width="100%" alt="Tech City - From Code to Cloud" />
+      <br><br>
+      <h4>🚀 <b>From Code to Cloud</b></h4>
+      <p><sub><em>Building intelligent applications, scalable systems, and exploring AI.</em></sub></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
