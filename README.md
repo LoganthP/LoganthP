@@ -46,19 +46,19 @@
 
 ---
 
-## 🧰 Tech Stack
+## 🖥️ Tech Stack
 
 <img align="right"
     src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/Isometric_pixel_art.gif"
-    width="55%"
-    alt="Isometric pixel art"/>
+    width="50%"
+    alt="Tech City Isometric Pixel Art"/>
 
 ### 💻 Programming Languages
 
 <p align="left">
   <img
     src="https://skillicons.dev/icons?i=c,cpp,python,java,matlab&theme=dark"
-    alt="Programming languages"
+    alt="Programming Languages"
   />
 </p>
 
@@ -67,16 +67,16 @@
 <p align="left">
   <img
     src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express&theme=dark"
-    alt="Web technologies"
+    alt="Web Technologies"
   />
 </p>
 
-### 🗄️ Databases & Cloud
+### 📱 Databases & Cloud
 
 <p align="left">
   <img
-    src="https://skillicons.dev/icons?i=mongodb,mysql,aws,gcp,docker,kubernetes,terraform&theme=dark"
-    alt="Databases and cloud"
+    src="https://skillicons.dev/icons?i=mongodb,postgres,aws,gcp,docker,kubernetes,terraform&theme=dark"
+    alt="Databases & Cloud"
   />
 </p>
 
@@ -85,29 +85,29 @@
 <p align="left">
   <img
     src="https://skillicons.dev/icons?i=git,github,gitlab,linux,postman&theme=dark"
-    alt="Tools and platforms"
+    alt="Tools & Platforms"
   />
-
+  <br>
   <img
     src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/n8n.png"
     width="48"
     height="48"
-    alt="n8n"
+    alt="Workflow Automation"
   />
 </p>
 
 ### 🤖 AI & RAG
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/rag.svg" width="48" height="48" alt="RAG" style="display:inline-block;"/>
-  <img src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/langchain.svg" width="48" height="48" alt="LangChain" style="display:inline-block;"/>
-  <img src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/faiss.svg" width="48" height="48" alt="FAISS" style="display:inline-block;"/>
-  <img src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/chromadb.svg" width="48" height="48" alt="ChromaDB" style="display:inline-block;"/>
+  <img src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/rag.svg" width="48" height="48" alt="RAG" />
+  <img src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/langchain.svg" width="48" height="48" alt="LangChain" />
+  <img src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/faiss.svg" width="48" height="48" alt="FAISS" />
+  <img src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/chromadb.svg" width="48" height="48" alt="ChromaDB" />
 </p>
 
 ---
 
-<h2 align="center">📡 Live Activities</h2>
+## 📡 Live Activities
 
 <p align="center">
   <img
@@ -126,7 +126,7 @@
 
 ---
 
-<h2 align="center">🌐 Connect • Network • Explore</h2>
+## 🌐 Connect • Network • Explore
 
 <p align="center">
   <a href="https://www.linkedin.com/in/loganth-p-158667280/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A0F1C?style=for-the-badge&logo=linkedin&logoColor=00F7FF" alt="LinkedIn" /></a>
