@@ -27,11 +27,11 @@
     alt="Pixel Arcade"/>
 
 ```bash
-> Designing secure systems & cybersecurity tools
-
 > Building AI-powered intelligent applications
 
 > Developing scalable full-stack platforms
+
+> Designing secure systems & cybersecurity tools
 
 > Solving real-world engineering problems
 ```
@@ -99,29 +99,10 @@
 ### 🤖 AI & RAG
 
 <p align="left">
-  <img
-    src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/rag.svg"
-    width="48"
-    height="48"
-    alt="RAG"/>
-
-  <img
-    src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/langchain.svg"
-    width="48"
-    height="48"
-    alt="LangChain"/>
-
-  <img
-    src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/faiss.svg"
-    width="48"
-    height="48"
-    alt="FAISS"/>
-
-  <img
-    src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/chromadb.svg"
-    width="48"
-    height="48"
-    alt="ChromaDB"/>
+  <img src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/rag.svg" width="48" height="48" alt="RAG" style="display:inline-block;"/>
+  <img src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/langchain.svg" width="48" height="48" alt="LangChain" style="display:inline-block;"/>
+  <img src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/faiss.svg" width="48" height="48" alt="FAISS" style="display:inline-block;"/>
+  <img src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/chromadb.svg" width="48" height="48" alt="ChromaDB" style="display:inline-block;"/>
 </p>
 
 ---
@@ -132,14 +113,6 @@
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=LoganthP&theme=tokyo-night&hide_border=true"
     alt="Activity graph"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/loganthp-heatmap.svg"
-    width="100%"
-    alt="Contribution heatmap"
   />
 </p>
 
