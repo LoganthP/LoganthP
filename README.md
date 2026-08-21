@@ -66,11 +66,6 @@
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,aws,gcp,docker,kubernetes,terraform&theme=dark" alt="Databases & Cloud" />
 </p>
 
-<img align="right"
-    src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/Isometric_pixel_art.gif"
-    width="48%"
-    alt="Tech City - From Code to Cloud"/>
-
 ### ⚙️ Tools & Platforms
 
 <p align="left">
@@ -79,6 +74,11 @@
   <img src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/n8n.png" width="48" height="48" alt="Workflow Automation" />
 </p>
 
+<img align="right"
+    src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/Isometric_pixel_art.gif"
+    width="55%"
+    alt="Tech City - From Code to Cloud"/>
+
 ### 🤖 AI & RAG
 
 <p align="left">
@@ -86,10 +86,6 @@
   <img src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/langchain.svg" width="48" height="48" alt="LangChain" />
   <img src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/faiss.svg" width="48" height="48" alt="FAISS" />
   <img src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/chromadb.svg" width="48" height="48" alt="ChromaDB" />
-</p>
-
-<p align="right">
-  <sub>🚀 <b>From Code to Cloud</b> — <em>Building intelligent applications, scalable systems, and exploring AI.</em></sub>
 </p>
 
 ---
