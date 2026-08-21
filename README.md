@@ -54,6 +54,11 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,matlab&theme=dark" alt="Programming Languages" />
 </p>
 
+<img align="right"
+    src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/Isometric_pixel_art.gif"
+    width="50%"
+    alt="Tech City - From Code to Cloud"/>
+
 ### 🌐 Web Technologies
 
 <p align="left">
@@ -65,11 +70,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,aws,gcp,docker,kubernetes,terraform&theme=dark" alt="Databases & Cloud" />
 </p>
-
-<img align="right"
-    src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/Isometric_pixel_art.gif"
-    width="55%"
-    alt="Tech City - From Code to Cloud"/>
 
 ### ⚙️ Tools & Platforms
 
