@@ -48,6 +48,12 @@
 
 ## 💻 Tech Stack
 
+<img align="right"
+    src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/Isometric_pixel_art.gif"
+    width="450"
+    height="320"
+    alt="Tech City - From Code to Cloud"/>
+
 ### 💻 Programming Languages
 
 <p align="left">
@@ -59,12 +65,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express&theme=dark" alt="Web Technologies" />
 </p>
-
-<img align="right"
-    src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/Isometric_pixel_art.gif"
-    width="450"
-    height="320"
-    alt="Tech City - From Code to Cloud"/>
 
 ### 🗄️ Databases & Cloud
 
