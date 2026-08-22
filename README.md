@@ -48,17 +48,16 @@
 
 ## 💻 Tech Stack
 
+<img align="right"
+    src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/Isometric_pixel_art.gif"
+    width="48%"
+    alt="Tech City - From Code to Cloud"/>
+
 ### 💻 Programming Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,matlab&theme=dark" alt="Programming Languages" />
 </p>
-
-<img align="right"
-    src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/Isometric_pixel_art.gif"
-    width="350"
-    height="320"
-    alt="Tech City - From Code to Cloud"/>
 
 ### 🌐 Web Technologies
 
