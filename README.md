@@ -23,8 +23,7 @@
 
 <img align="right"
     src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/Pixel_art_an_old_arcade_small.gif"
-    width="400"
-    height="300"
+    width="55%"
     alt="Pixel Arcade"/>
 
 ```bash
@@ -57,7 +56,7 @@
 
 <img align="right"
     src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/Isometric_pixel_art.gif"
-    width="48%"
+    width="50%"
     alt="Tech City - From Code to Cloud"/>
     
 ### 🌐 Web Technologies
