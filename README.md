@@ -48,18 +48,18 @@
 
 ## 🧰 Tech Stack
 
+<img align="right"
+    src="./assets/An_isometric_pixel_art_floating.gif"
+    width="430"
+    height="4000"
+    style="border-radius: 10px;"
+    alt="Tech City - From Code to Cloud"/>
+
 ### 💻 Programming Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,matlab&theme=dark" alt="Programming Languages" />
 </p>
-
-<img align="right"
-    src="./assets/An_isometric_pixel_art_floating.gif"
-    width="430"
-    height="2000"
-    style="border-radius: 10px;"
-    alt="Tech City - From Code to Cloud"/>
 
 ### 🌐 Web Technologies
 
