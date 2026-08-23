@@ -23,7 +23,8 @@
 
 <img align="right"
     src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/Pixel_art_an_old_arcade_small.gif"
-    width="55%"
+    width="400"
+    height="300"
     alt="Pixel Arcade"/>
 
 ```bash
