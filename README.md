@@ -102,7 +102,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/github-jet.svg"
+    src="https://raw.githubusercontent.com/LoganthP/LoganthP/main/github-jet.svg"
     width="100%"
     alt="Jet heatmap"
   />
