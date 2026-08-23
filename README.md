@@ -89,8 +89,6 @@
   <img src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/chromadb.svg" width="48" height="48" alt="ChromaDB" />
 </p>
 
-<br clear="both"/>
-
 ---
 
 ## 📡 Live Activities
