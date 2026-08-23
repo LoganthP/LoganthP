@@ -96,7 +96,8 @@
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=LoganthP&theme=tokyo-night&hide_border=true"
-    alt="Activity graph"
+    width="100%"
+    alt="LoganthP GitHub Activity Graph"
   />
 </p>
 
@@ -104,7 +105,7 @@
   <img
     src="https://raw.githubusercontent.com/LoganthP/LoganthP/main/github-jet.svg"
     width="100%"
-    alt="Jet heatmap"
+    alt="LoganthP GitHub Jet Heatmap"
   />
 </p>
 
