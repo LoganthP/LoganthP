@@ -50,7 +50,8 @@
 
 <img align="right"
     src="./assets/An_isometric_pixel_art_floating.gif"
-    width="320"
+    width="350"
+    height="400"
     style="border-radius: 10px;"
     alt="Tech City - From Code to Cloud"/>
 
