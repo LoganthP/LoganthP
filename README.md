@@ -46,7 +46,7 @@
 
 ---
 
-## 💻 Tech Stack
+## 🧰 Tech Stack
 
 ### 💻 Programming Languages
 
@@ -56,7 +56,7 @@
 
 <img align="right"
     src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/Isometric_pixel_art.gif"
-    width="52%"
+    width="75%"
     alt="Tech City - From Code to Cloud"/>
     
 ### 🌐 Web Technologies
