@@ -48,6 +48,11 @@
 
 ## 🧰 Tech Stack
 
+<img align="right"
+    src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/Isometric_pixel_art.gif"
+    width="50%"
+    alt="Tech City - From Code to Cloud"/>
+
 ### 💻 Programming Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,matlab&theme=dark" alt="Programming Languages" />
@@ -76,6 +81,8 @@
   <img src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/faiss.svg" width="48" height="48" alt="FAISS" />
   <img src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/chromadb.svg" width="48" height="48" alt="ChromaDB" />
 </p>
+
+<br clear="both"/>
 
 ---
 
