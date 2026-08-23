@@ -49,8 +49,9 @@
 ## 🧰 Tech Stack
 
 <img align="right"
-    src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/Isometric_pixel_art.gif"
-    width="48%"
+    src="./assets/An_isometric_pixel_art_floating.gif"
+    width="320"
+    style="border-radius: 10px;"
     alt="Tech City - From Code to Cloud"/>
 
 ### 💻 Programming Languages
