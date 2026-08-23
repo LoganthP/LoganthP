@@ -50,8 +50,8 @@
 
 <img align="right"
     src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/Isometric_pixel_art.gif"
-    width="380"
-    height="500"
+    width="420"
+    style="border-radius: 10px;"
     alt="Tech City - From Code to Cloud"/>
 
 ### 💻 Programming Languages
