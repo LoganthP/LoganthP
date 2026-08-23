@@ -66,7 +66,6 @@
 ### ⚙️ Tools & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,jenkins,postman&theme=dark" alt="Tools & Platforms" />
-  <br>
   <img src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/n8n.png" width="48" height="48" alt="Workflow Automation" />
 </p>
 
