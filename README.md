@@ -95,7 +95,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=LoganthP&theme=tokyo-night&hide_border=true&days=50&height=300"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=LoganthP&theme=tokyo-night&hide_border=true&days=14&height=300"
     width="100%"
     alt="LoganthP GitHub Activity Graph"
   />
