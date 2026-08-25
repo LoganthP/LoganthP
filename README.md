@@ -93,8 +93,6 @@
 
 ## 📡 Live Activities
 
-## 📡 Live Activities
-
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=LoganthP&theme=tokyo-night&hide_border=true&days=14&height=300"
