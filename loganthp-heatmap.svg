@@ -3,7 +3,7 @@
 <rect x="0.5" y="0.5" width="859" height="189" rx="12" fill="none" stroke="#00F7FF" stroke-opacity="0.35"/>
 <text x="28" y="25" font-family="Consolas, Menlo, monospace" font-size="13" fill="#D7F9FF">contributions.sh --user LoganthP --year rolling</text>
 <g transform="translate(52,42)">
-<rect x="0" y="0" width="11" height="11" rx="3" fill="#073B3A" opacity="1">
+<rect x="0" y="0" width="11" height="11" rx="3" fill="#111827" opacity="1">
 <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.00s" fill="freeze"/>
 </rect>
 <rect x="0" y="15" width="11" height="11" rx="3" fill="#111827" opacity="1">
@@ -1113,7 +1113,7 @@
 <rect x="780" y="75" width="11" height="11" rx="3" fill="#073B3A" opacity="1">
 <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.57s" fill="freeze"/>
 </rect>
-<rect x="780" y="90" width="11" height="11" rx="3" fill="#111827" opacity="1">
+<rect x="780" y="90" width="11" height="11" rx="3" fill="#073B3A" opacity="1">
 <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.58s" fill="freeze"/>
 </rect>
 </g>
