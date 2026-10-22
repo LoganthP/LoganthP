@@ -11,9 +11,9 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/loganthp-ascii_cyberpunk.svg"
+    src="https://raw.githubusercontent.com/LoganthP/LoganthP/main/loganthp-ascii_cyberpunk.svg"
     width="100%"
-    alt="Animated ASCII portrait and profile info card"
+    alt="Loganth Animated Cyberpunk ASCII Profile"
   />
 </p>
 
