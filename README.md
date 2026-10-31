@@ -39,7 +39,7 @@
   </picture>
 </p>
 
----
+
 
 ## 🚀 What I Do
 
@@ -82,7 +82,7 @@
 </picture>
 </p>
 
----
+
 
 ## 🧰 Tech Stack
 
@@ -120,7 +120,7 @@
   <img src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/chromadb.svg" width="48" height="48" alt="ChromaDB" />
 </p>
 
----
+
 
 ## 📡 Live Activity
 
@@ -150,7 +150,6 @@
   </picture>
 </p>
 
----
 
 ## 🌐 Connect • Network • Explore
 
