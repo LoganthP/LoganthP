@@ -1,0 +1,49 @@
+name: Update light-mode variants
+
+# Keeps the *-light assets used by README.md (light theme) in sync with the
+# dark originals, and re-fetches the JetCommit heatmap so its light copy
+# stays current.
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    # Daily, after the JetCommit / heatmap workflows have had time to run.
+    - cron: "0 7 * * *"
+  push:
+    branches: [main]
+    paths:
+      - "loganth-chromatic.svg"
+      - "loganthp-ascii_cyberpunk.svg"
+      - "assets/footer.svg"
+      - "assets/tech-logos/*.svg"
+      - "assets/tech-logos/n8n.png"
+      - "scripts/make_light_variants.py"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pillow
+
+      - name: Generate light variants
+        run: python scripts/make_light_variants.py
+
+      - name: Commit and push if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update light-mode README assets [skip ci]"
+          file_pattern: "*-light.svg assets/*-light.svg assets/tech-logos/*-light.svg assets/tech-logos/*-light.png"
