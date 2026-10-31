@@ -55,7 +55,7 @@ loganth@github
 OS:       B.E. CSE @ VVCE, Mysuru
 Host:     Radar Engineering Intern @ LRDE–DRDO
 Kernel:   Cybersecurity · AI · Full Stack
-Uptime:   2023 → 2027
+Uptime:   2023 → Present
 
 Packages: Python · C/C++ · Java · React · Node.js
 Cloud:    AWS · GCP · Docker · Kubernetes
@@ -115,6 +115,7 @@ Phone:    +91 70136 60227
 </p>
 
 ---
+
 ## 🧰 Tech Stack
 
 ### 💻 Programming Languages
@@ -181,6 +182,7 @@ Phone:    +91 70136 60227
   </picture>
 </p>
 
+---
 
 ## 🌐 Connect • Network • Explore
 

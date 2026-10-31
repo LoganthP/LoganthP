@@ -16,7 +16,7 @@ DETAILS = [
         ("OS", "B.E. CSE @ VVCE, Mysuru"),
         ("Host", "Radar Engineering Intern @ LRDE–DRDO"),
         ("Kernel", "Cybersecurity · AI · Full Stack"),
-        ("Uptime", "2023 → 2027"),
+        ("Uptime", "2023 → Present"),
     ],
     [
         ("Packages", "Python · C/C++ · Java · React · Node.js"),
