@@ -39,6 +39,7 @@
   </picture>
 </p>
 
+---
 
 ## 🚀 What I Do
 
@@ -81,7 +82,7 @@
 </picture>
 </p>
 
-
+---
 ## 🧰 Tech Stack
 
 ### 💻 Programming Languages
