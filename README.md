@@ -39,7 +39,6 @@
   </picture>
 </p>
 
----
 
 ## 🚀 What I Do
 
