@@ -89,71 +89,35 @@
 ### 💻 Programming Languages
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,cpp,python,java,matlab&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c,cpp,python,java,matlab&theme=light" />
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,matlab&theme=dark" alt="Programming Languages" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,matlab&theme=dark" alt="Programming Languages" />
 </p>
 
 ### 🌐 Web Technologies
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express&theme=light" />
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express&theme=dark" alt="Web Technologies" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express&theme=dark" alt="Web Technologies" />
 </p>
 
 ### 🗄️ Databases & Cloud
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb,postgres,aws,gcp,docker,kubernetes,terraform&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mongodb,postgres,aws,gcp,docker,kubernetes,terraform&theme=light" />
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,aws,gcp,docker,kubernetes,terraform&theme=dark" alt="Databases & Cloud" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,aws,gcp,docker,kubernetes,terraform&theme=dark" alt="Databases & Cloud" />
 </p>
 
 ### ⚙️ Tools & Platforms
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,gitlab,linux,jenkins,postman&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,gitlab,linux,jenkins,postman&theme=light" />
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,jenkins,postman&theme=dark" alt="Tools & Platforms" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/n8n.png" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LoganthP/LoganthP/main/assets/tech-logos/n8n-light.png" />
-    <img src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/n8n.png" width="48" height="48" alt="Workflow Automation" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,jenkins,postman&theme=dark" alt="Tools & Platforms" />
+  <img src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/n8n.png" width="48" height="48" alt="Workflow Automation" />
 </p>
 
 ### 🤖 AI & RAG
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/rag.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LoganthP/LoganthP/main/assets/tech-logos/rag-light.svg" />
-    <img src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/rag.svg" width="48" height="48" alt="RAG" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/langchain.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LoganthP/LoganthP/main/assets/tech-logos/langchain-light.svg" />
-    <img src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/langchain.svg" width="48" height="48" alt="LangChain" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/faiss.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LoganthP/LoganthP/main/assets/tech-logos/faiss-light.svg" />
-    <img src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/faiss.svg" width="48" height="48" alt="FAISS" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/chromadb.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LoganthP/LoganthP/main/assets/tech-logos/chromadb-light.svg" />
-    <img src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/chromadb.svg" width="48" height="48" alt="ChromaDB" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/rag.svg" width="48" height="48" alt="RAG" />
+  <img src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/langchain.svg" width="48" height="48" alt="LangChain" />
+  <img src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/faiss.svg" width="48" height="48" alt="FAISS" />
+  <img src="https://raw.githubusercontent.com/Loganth766/Loganth766/main/assets/tech-logos/chromadb.svg" width="48" height="48" alt="ChromaDB" />
 </p>
 
 ---
