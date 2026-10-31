@@ -150,7 +150,6 @@
   </picture>
 </p>
 
----
 
 ## 🌐 Connect • Network • Explore
 
