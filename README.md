@@ -29,10 +29,10 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LoganthP/LoganthP/main/loganthp-neofetch.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LoganthP/LoganthP/main/loganthp-neofetch-light.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LoganthP/LoganthP/main/loganthp-neofetch.svg?v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LoganthP/LoganthP/main/loganthp-neofetch-light.svg?v=2" />
     <img
-      src="https://raw.githubusercontent.com/LoganthP/LoganthP/main/loganthp-neofetch.svg"
+      src="https://raw.githubusercontent.com/LoganthP/LoganthP/main/loganthp-neofetch.svg?v=2"
       width="100%"
       alt="Neofetch-style terminal card: Loganth, B.E. CSE at VVCE Mysuru, Radar Engineering Intern at LRDE-DRDO"
     />
