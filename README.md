@@ -82,7 +82,6 @@
 </picture>
 </p>
 
----
 
 ## 🧰 Tech Stack
 
