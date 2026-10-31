@@ -29,47 +29,19 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LoganthP/LoganthP/main/loganthp-neofetch.svg?v=2" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LoganthP/LoganthP/main/loganthp-neofetch-light.svg?v=2" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LoganthP/LoganthP/main/loganthp-neofetch.svg?v=3" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LoganthP/LoganthP/main/loganthp-neofetch-light.svg?v=3" />
     <img
-      src="https://raw.githubusercontent.com/LoganthP/LoganthP/main/loganthp-neofetch.svg?v=2"
+      src="https://raw.githubusercontent.com/LoganthP/LoganthP/main/loganthp-neofetch.svg?v=3"
       width="100%"
-      alt="Neofetch-style terminal card: Loganth, B.E. CSE at VVCE Mysuru, Radar Engineering Intern at LRDE-DRDO"
+      alt="Neofetch-style terminal card: Loganth, Radar Engineering Intern at LRDE-DRDO"
     />
   </picture>
 </p>
 
 <p align="center">
   <a href="mailto:loganthp55@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/loganthp55%40gmail.com-0A0F1C?style=for-the-badge&logo=gmail&logoColor=00F7FF" /><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/loganthp55%40gmail.com-E6F7FB?style=for-the-badge&logo=gmail&logoColor=0E7490" /><img src="https://img.shields.io/badge/loganthp55%40gmail.com-0A0F1C?style=for-the-badge&logo=gmail&logoColor=00F7FF" alt="Email: loganthp55@gmail.com" /></picture></a>
-  <a href="tel:+917013660227"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%2B91%2070136%2060227-0A0F1C?style=for-the-badge" /><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/%2B91%2070136%2060227-E6F7FB?style=for-the-badge" /><img src="https://img.shields.io/badge/%2B91%2070136%2060227-0A0F1C?style=for-the-badge" alt="Phone: +91 70136 60227" /></picture></a>
 </p>
-
-<details>
-<summary>View as text</summary>
-
-```text
-loganth@github:~$ neofetch
-
-loganth@github
---------------
-OS:       B.E. CSE @ VVCE, Mysuru
-Host:     Radar Engineering Intern @ LRDE–DRDO
-Kernel:   Cybersecurity · AI · Full Stack
-Uptime:   2023 → Present
-
-Packages: Python · C/C++ · Java · React · Node.js
-Cloud:    AWS · GCP · Docker · Kubernetes
-Shell:    Git · Linux · Postman · n8n
-AI:       RAG · LangChain · FAISS · ChromaDB
-
-Awards:   3rd place · GLYTCH National Hackathon
-Status:   Building secure, intelligent systems
-
-Email:    loganthp55@gmail.com
-Phone:    +91 70136 60227
-```
-
-</details>
 
 ---
 

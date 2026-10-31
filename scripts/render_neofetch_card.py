@@ -13,9 +13,7 @@ from PIL import Image, ImageEnhance
 # Groups are separated by a faint divider. Keys follow neofetch's own labels.
 DETAILS = [
     [
-        ("OS", "B.E. CSE @ VVCE, Mysuru"),
         ("Host", "Radar Engineering Intern @ LRDE–DRDO"),
-        ("Kernel", "Cybersecurity · AI · Full Stack"),
         ("Uptime", "2023 → Present"),
     ],
     [
@@ -26,12 +24,10 @@ DETAILS = [
     ],
     [
         ("Awards", "3rd place · GLYTCH National Hackathon"),
-        ("Status", "Building secure, intelligent systems"),
     ],
 ]
 CONTACT = [
     ("Email", "loganthp55@gmail.com"),
-    ("Phone", "+91 70136 60227"),
 ]
 
 MONO = "Consolas, 'Cascadia Code', 'Fira Code', Menlo, Monaco, monospace"
