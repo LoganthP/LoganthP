@@ -39,10 +39,6 @@
   </picture>
 </p>
 
-<p align="center">
-  <a href="mailto:loganthp55@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/loganthp55%40gmail.com-0A0F1C?style=for-the-badge&logo=gmail&logoColor=00F7FF" /><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/loganthp55%40gmail.com-E6F7FB?style=for-the-badge&logo=gmail&logoColor=0E7490" /><img src="https://img.shields.io/badge/loganthp55%40gmail.com-0A0F1C?style=for-the-badge&logo=gmail&logoColor=00F7FF" alt="Email: loganthp55@gmail.com" /></picture></a>
-</p>
-
 ---
 
 ## 🚀 What I Do
