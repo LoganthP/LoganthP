@@ -115,7 +115,6 @@ Phone:    +91 70136 60227
 </p>
 
 ---
-
 ## 🧰 Tech Stack
 
 ### 💻 Programming Languages
@@ -182,7 +181,6 @@ Phone:    +91 70136 60227
   </picture>
 </p>
 
----
 
 ## 🌐 Connect • Network • Explore
 
