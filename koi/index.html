@@ -67,7 +67,7 @@ html{scroll-behavior:smooth;scroll-padding-top:82px}
   <span class="watermark">DRAG THE FISH • EXPLORE BELOW</span>
 </section>
 <div class="controls"><button class="btn" id="follow">Enable cursor follow</button><button class="btn" id="reset">Center koi</button><button class="btn" id="refresh">Refresh activity</button></div>
-<div class="customize" aria-label="Koi appearance controls"><label for="koi-theme">Aquarium style</label><select id="koi-theme" class="select-control"><option value="classic">Classic</option><option value="arctic">Arctic</option><option value="neon">Neon</option><option value="sunset">Sunset</option></select><label for="koi-scale">Fish size <output id="scale-text">100%</output></label><input id="koi-scale" type="range" min="65" max="135" value="100" step="5"/><label for="koi-repo">Project spotlight</label><select id="koi-repo" class="select-control"><option value="">Choose repository</option></select></div><p class="tip">Customization changes the display only; it does not regenerate or recolor the original GIF pixels.</p>
+<div class="customize" aria-label="Koi appearance controls"><label for="koi-theme">Aquarium style</label><select id="koi-theme" class="select-control"><option value="classic">Classic</option><option value="arctic">Arctic</option><option value="neon">Neon</option><option value="sunset">Sunset</option></select><label for="koi-scale">Fish size <output id="scale-text">100%</output></label><input id="koi-scale" type="range" min="65" max="135" value="100" step="5"/></div><p class="tip">Customization changes the display only; it does not regenerate or recolor the original GIF pixels.</p>
 <div class="section-head"><h2>Activity overview</h2><span class="sub">Public events in the last 30 days · not GitHub contribution totals</span></div>
 <div class="metrics"><div class="metric"><span class="lbl">Public events retrieved</span><strong id="total" class="num">—</strong></div><div class="metric"><span class="lbl">Push events</span><strong id="pushes" class="num">—</strong></div><div class="metric"><span class="lbl">PR events</span><strong id="prs" class="num">—</strong></div><div class="metric"><span class="lbl">Active days (visible data)</span><strong id="days" class="num">—</strong></div></div>
 <section id="contributions" class="panel contrib-panel" aria-label="GitHub contribution calendar">
@@ -168,12 +168,12 @@ function renderProductivity(events){
 }
 
 
-function setupCustomization(){const theme=$('koi-theme'),scale=$('koi-scale'),sizeText=$('scale-text'),repo=$('koi-repo');
+function setupCustomization(){const theme=$('koi-theme'),scale=$('koi-scale'),sizeText=$('scale-text');
  const update=()=>{const val=Number(scale.value);fish.style.width=Math.round(230*val/100)+'px';fish.style.height=Math.round(230*val/100)+'px';sizeText.textContent=val+'%';
  const styles={classic:['none','radial-gradient(ellipse at 50% 50%,#17394f,#10273a 50%,#0a1625)'],arctic:['hue-rotate(150deg) saturate(0.9)','radial-gradient(ellipse,#124765,#09172c)'],neon:['hue-rotate(80deg) saturate(1.8)','radial-gradient(ellipse,#223564,#0c1024)'],sunset:['sepia(.3) saturate(1.4)','radial-gradient(ellipse,#4f2b40,#140f29)']};
- const mode=repo.value?(repo.value==='RouteWatch'?'neon':repo.value==='SentimentStream'?'arctic':repo.value==='NetAlert-AI'?'sunset':'classic'):theme.value;
+ const mode=theme.value;
  fish.style.filter=(styles[mode][0]==='none'?'':styles[mode][0]+' ')+'drop-shadow(0 12px 14px #0007)';aqua.style.background=styles[mode][1];};
- [theme,scale,repo].forEach(el=>el.addEventListener('input',update));update();}
+ [theme,scale].forEach(el=>el.addEventListener('input',update));update();}
 
 async function loadEvents() {
   // One public endpoint request: avoid unnecessary parallel pagination.
