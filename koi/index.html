@@ -8,6 +8,32 @@
 :root{--bg:#080e17;--panel:#111c2c;--line:#29394d;--text:#ecf5ff;--muted:#90a6bd;--teal:#65e3cd;--blue:#64a8ff;--green:#56d990}
 *{box-sizing:border-box}body{margin:0;background:radial-gradient(ellipse at 50% -20%,#15314a 0%,#080e17 58%);color:var(--text);font:15px/1.45 system-ui,Segoe UI,sans-serif}a{color:#89c1ff}button{font:inherit;cursor:pointer}.wrap{max-width:1120px;margin:auto;padding:30px 20px 55px}header{text-align:center;margin-bottom:22px}header h1{font-size:clamp(26px,4vw,40px);margin:0 0 8px}header p{margin:0;color:var(--muted)}.topline{display:flex;justify-content:space-between;align-items:center;gap:12px;margin:14px 0}.eyebrow{font-size:12px;color:var(--teal);letter-spacing:.18em;text-transform:uppercase;font-weight:750}.status{font-size:12px;color:var(--muted)}.aquarium{height:clamp(310px,48vw,480px);position:relative;overflow:hidden;border:1px solid #2d5064;border-radius:24px;background:radial-gradient(ellipse at 50% 50%,#17394f 0%,#10273a 50%,#0a1625 100%);box-shadow:inset 0 0 85px #061421,0 24px 75px #0005;touch-action:none}.aquarium:before{content:"";position:absolute;inset:0;background:repeating-radial-gradient(ellipse at 30% 20%,transparent 0 53px,#79dfff05 54px 55px);pointer-events:none}.bubble{position:absolute;bottom:-20px;width:12px;height:12px;border:1px solid #7bd8ed45;border-radius:50%;animation:rise var(--duration,12s) linear infinite;left:var(--left,10%);animation-delay:var(--delay,0s);pointer-events:none}@keyframes rise{to{transform:translateY(-530px);opacity:0}}#koi{position:absolute;width:230px;height:230px;left:50%;top:50%;transform:translate(-50%,-50%);object-fit:contain;user-select:none;touch-action:none;cursor:grab;filter:drop-shadow(0 12px 14px #0007)}#koi.dragging{cursor:grabbing}.watermark{position:absolute;bottom:19px;left:20px;color:#9bc7d4a0;font-size:12px;letter-spacing:.08em;pointer-events:none}.controls{display:flex;gap:8px;justify-content:center;flex-wrap:wrap;margin-top:14px}.btn{color:#dceef8;background:#18293b;border:1px solid #36506a;border-radius:10px;padding:9px 14px}.btn:hover{border-color:#6db6cc}.btn.active{background:#134c50;border-color:#52d7c4}.section-head{display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:wrap;margin:28px 0 12px}h2{font-size:20px;margin:0}.sub{color:var(--muted);font-size:12px}.metrics{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}.metric,.panel{background:linear-gradient(140deg,#132235,#101a29);border:1px solid var(--line);border-radius:16px;padding:16px}.metric .num{display:block;font-size:30px;font-weight:800;margin:7px 0 2px;font-variant-numeric:tabular-nums}.metric .lbl{color:var(--muted);font-size:13px}.layout{display:grid;grid-template-columns:1.15fr 1fr;gap:14px}.calendar-wrap{overflow-x:auto;padding:6px 0}.heatmap{display:grid;grid-template-rows:repeat(7,14px);grid-auto-flow:column;grid-auto-columns:14px;gap:5px;width:max-content}.day{width:14px;height:14px;border-radius:4px;background:#25364a}.day[data-level="1"]{background:#286b61}.day[data-level="2"]{background:#298b74}.day[data-level="3"]{background:#3dc5a0}.day[data-level="4"]{background:#86f0c2}.legend{display:flex;align-items:center;gap:5px;justify-content:flex-end;color:var(--muted);font-size:12px;margin-top:12px}.legend i{display:block;width:14px;height:14px;border-radius:3px}.legend i:nth-of-type(1){background:#25364a}.legend i:nth-of-type(2){background:#286b61}.legend i:nth-of-type(3){background:#298b74}.legend i:nth-of-type(4){background:#3dc5a0}.legend i:nth-of-type(5){background:#86f0c2}.barrow{display:grid;grid-template-columns:minmax(95px,1fr) 3fr 38px;gap:10px;align-items:center;margin:14px 0;font-size:13px}.track{height:9px;border-radius:10px;background:#253649;overflow:hidden}.fill{height:100%;border-radius:10px;background:linear-gradient(90deg,#3387cb,#65e3cd)}.repo-list{display:grid;gap:8px;margin-top:10px}.event{display:flex;align-items:start;gap:12px;border-bottom:1px solid #263648;padding:10px 0;font-size:13px}.event:last-child{border-bottom:0}.event small{color:var(--muted);display:block}.event a{overflow-wrap:anywhere;text-decoration:none}.desc{color:var(--muted);font-size:12px;margin-top:8px}.loading{color:var(--muted);font-size:13px}.error{color:#ffbf9d;font-size:13px}.tip{font-size:12px;color:var(--muted);text-align:center;margin-top:16px}footer{color:var(--muted);font-size:12px;text-align:center;margin-top:30px}@media(max-width:750px){.metrics{grid-template-columns:repeat(2,1fr)}.layout{grid-template-columns:1fr}.wrap{padding:20px 14px}.metric .num{font-size:25px}}
 @media(prefers-reduced-motion:reduce){.bubble{animation:none}}
+
+/* Full-width GitHub contribution history */
+.contrib-panel{margin-top:14px}
+.contrib-scroll{max-height:315px;overflow-y:auto;overflow-x:hidden;scrollbar-width:thin;scrollbar-color:#43876b #172638;padding-right:9px;scroll-behavior:smooth}
+.contrib-year{padding:12px 6px 20px;border-bottom:1px solid #29394d}
+.contrib-year:last-child{border-bottom:0}
+.contrib-title{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;align-items:baseline;margin-bottom:13px}
+.contrib-title strong{font-size:17px}
+.contrib-title span{color:var(--muted);font-size:12px}
+.contrib-grid-scroller{overflow-x:auto;overflow-y:hidden;padding-bottom:5px;scrollbar-width:thin;scrollbar-color:#43876b #172638}
+.contrib-chart{position:relative;width:max-content;padding:24px 4px 0 35px}
+.contrib-months{position:absolute;left:35px;top:0;height:20px;right:0;font-size:12px;color:#b4c1ce;white-space:nowrap}
+.contrib-months span{position:absolute}
+.contrib-rowlabel{position:absolute;left:0;font-size:11px;color:#b4c1ce;line-height:13px}
+.contrib-heatmap{display:grid;grid-template-rows:repeat(7,13px);grid-auto-columns:13px;grid-auto-flow:column;gap:4px;width:max-content}
+.contrib-day{height:13px;width:13px;border-radius:3px;background:#151d26}
+.contrib-day[data-level="1"]{background:#0e4429}
+.contrib-day[data-level="2"]{background:#006d32}
+.contrib-day[data-level="3"]{background:#26a641}
+.contrib-day[data-level="4"]{background:#39d353}
+.contrib-day:focus-visible{outline:2px solid white;outline-offset:1px}
+.contrib-day.empty{visibility:hidden}
+.contrib-legend{display:flex;gap:5px;justify-content:flex-end;align-items:center;margin-top:8px;font-size:12px;color:var(--muted)}
+.contrib-legend i{display:block;width:13px;height:13px;border-radius:3px}
+.contrib-legend i:nth-of-type(1){background:#151d26}.contrib-legend i:nth-of-type(2){background:#0e4429}.contrib-legend i:nth-of-type(3){background:#006d32}.contrib-legend i:nth-of-type(4){background:#26a641}.contrib-legend i:nth-of-type(5){background:#39d353}
+.contrib-alert{font-size:13px;color:#ffc59a;padding:8px}
 </style>
 </head>
 <body><main class="wrap">
@@ -21,10 +47,16 @@
 <div class="controls"><button class="btn" id="follow">Enable cursor follow</button><button class="btn" id="reset">Center koi</button><button class="btn" id="refresh">Refresh activity</button></div>
 <div class="section-head"><h2>Activity overview</h2><span class="sub">Public events in the last 30 days · not GitHub contribution totals</span></div>
 <div class="metrics"><div class="metric"><span class="lbl">Public events retrieved</span><strong id="total" class="num">—</strong></div><div class="metric"><span class="lbl">Push events</span><strong id="pushes" class="num">—</strong></div><div class="metric"><span class="lbl">PR events</span><strong id="prs" class="num">—</strong></div><div class="metric"><span class="lbl">Active days (visible data)</span><strong id="days" class="num">—</strong></div></div>
-<div class="layout" style="margin-top:14px"><section class="panel"><h2>30-day activity calendar</h2><p class="desc">Color intensity = number of public events returned by the API on each date. Hover or tap for details.</p><div class="calendar-wrap"><div id="heatmap" class="heatmap" role="img" aria-label="30-day public events heatmap"></div></div><div class="legend">Less <i></i><i></i><i></i><i></i><i></i> More</div></section>
-<section class="panel"><h2>Event type distribution</h2><p class="desc">Pushes, pull requests, issues, reviews and other public actions.</p><div id="types" class="loading">Loading event breakdown…</div></section></div>
+<section class="panel contrib-panel" aria-label="GitHub contribution calendar">
+ <div class="section-head" style="margin:0 0 6px"><h2>GitHub contribution calendar</h2><span class="sub">Scroll down for previous years · swipe sideways on narrow screens</span></div>
+ <p class="desc">Actual public contribution counts and intensity levels from your GitHub profile (via a cached third-party contribution API). This is separate from the public-event metrics above.</p>
+ <div id="contrib-status" class="loading">Loading your contribution history…</div>
+ <div id="contrib-history" class="contrib-scroll" tabindex="0" aria-label="Scrollable contribution calendars for recent years"></div>
+ <div class="contrib-legend">Less <i></i><i></i><i></i><i></i><i></i> More</div>
+</section>
+<div class="layout" style="margin-top:14px"><section class="panel"><h2>Event type distribution</h2><p class="desc">Pushes, pull requests, issues, reviews and other public actions.</p><div id="types" class="loading">Loading event breakdown…</div></section></div>
 <div class="layout" style="margin-top:14px"><section class="panel"><h2>Recent public activity</h2><div id="recent" class="loading">Loading public events…</div></section><section class="panel"><h2>Repository languages</h2><p class="desc">Distribution by primary language of your public, non-fork repositories. Not the koi's exact pixel-color proportions.</p><div id="languages" class="loading">Loading repositories…</div></section></div>
-<p class="tip">Koi visuals are generated by Git Profile Koi. The dashboard metrics are independent public GitHub API summaries, not the algorithm's internal fish-color inputs.</p>
+<p class="tip">Koi visuals are generated by Git Profile Koi. The activity metrics and contribution calendar are independent of the koi generator; contributions may include more than public events.</p>
 <footer>Built for <a href="https://github.com/LoganthP" target="_blank" rel="noopener noreferrer">@LoganthP</a> · No tokens embedded · No private activity displayed</footer>
 </main><script>
 (()=>{'use strict';
@@ -38,6 +70,47 @@ aqua.addEventListener('pointermove',e=>{if(following&&!dragging)move(e.clientX,e
 $('follow').addEventListener('click',()=>{following=!following;$('follow').classList.toggle('active',following);$('follow').textContent=following?'Disable cursor follow':'Enable cursor follow'});
 $('reset').addEventListener('click',()=>{following=false;$('follow').classList.remove('active');$('follow').textContent='Enable cursor follow';fish.style.left='50%';fish.style.top='50%';fish.style.transform='translate(-50%,-50%)'});
 const today=new Date();today.setHours(0,0,0,0);const iso=d=>{let y=d.getFullYear(),m=String(d.getMonth()+1).padStart(2,'0'),day=String(d.getDate()).padStart(2,'0');return `${y}-${m}-${day}`};const dateKey=stamp=>iso(new Date(stamp));
+// GitHub-style daily contribution chart from publicly visible profile data.
+function dUTC(key){return new Date(key+'T12:00:00Z')}
+function shiftUTC(date,num){const d=new Date(date);d.setUTCDate(d.getUTCDate()+num);return d}
+function dayKeyUTC(d){return d.toISOString().slice(0,10)}
+function makeContributionChart(startKey,endKey,byDate,label){
+  const holder=document.createElement('section');holder.className='contrib-year';
+  const start=dUTC(startKey),end=dUTC(endKey);
+  let sum=0;for(let d=new Date(start);d<=end;d=shiftUTC(d,1))sum+=Number(byDate.get(dayKeyUTC(d))?.count||0);
+  const heading=document.createElement('div');heading.className='contrib-title';
+  const h=document.createElement('strong');h.textContent=sum.toLocaleString()+' contributions · '+label;
+  const range=document.createElement('span');range.textContent=startKey+' — '+endKey;heading.append(h,range);holder.append(heading);
+  const scroller=document.createElement('div');scroller.className='contrib-grid-scroller';scroller.tabIndex=0;scroller.setAttribute('aria-label',label+' grid; scroll horizontally if needed');
+  const chart=document.createElement('div');chart.className='contrib-chart';const months=document.createElement('div');months.className='contrib-months';
+  const heat=document.createElement('div');heat.className='contrib-heatmap';
+  const first=shiftUTC(start,-start.getUTCDay()),last=shiftUTC(end,6-end.getUTCDay());
+  let prevMonth=-1,week=0;
+  for(let d=new Date(first);d<=last;d=shiftUTC(d,1)){
+    const key=dayKeyUTC(d),inRange=d>=start&&d<=end;
+    if(d.getUTCDay()===0){if(inRange&&d.getUTCMonth()!==prevMonth){const month=document.createElement('span');month.textContent=d.toLocaleDateString('en-US',{month:'short',timeZone:'UTC'});month.style.left=(week*17)+'px';months.append(month);prevMonth=d.getUTCMonth()}week++}
+    const day=document.createElement('div');day.className='contrib-day'+(inRange?'':' empty');
+    if(inRange){const value=byDate.get(key)||{count:0,level:0};day.dataset.level=String(Math.max(0,Math.min(4,Number(value.level)||0)));day.title=key+': '+value.count+' contribution'+(value.count===1?'':'s');day.setAttribute('aria-label',day.title);}
+    heat.append(day);
+  }
+  for(const [n,name] of [[1,'Mon'],[3,'Wed'],[5,'Fri']]){const el=document.createElement('span');el.className='contrib-rowlabel';el.style.top=(24+n*17)+'px';el.textContent=name;chart.append(el)}
+  chart.append(months,heat);scroller.append(chart);holder.append(scroller);return holder;
+}
+async function loadContributions(){
+  const status=$('contrib-status'),history=$('contrib-history');status.textContent='Loading contributions…';
+  try{
+    const response=await fetch('https://github-contributions-api.jogruber.de/v4/'+encodeURIComponent(USER)+'?y=all');
+    if(!response.ok)throw new Error('Contribution service returned '+response.status);
+    const data=await response.json();if(!Array.isArray(data.contributions)||!data.contributions.length)throw new Error('No contribution data available');
+    const byDate=new Map(data.contributions.map(x=>[x.date,{count:Number(x.count)||0,level:Number(x.level)||0}]));
+    const end=new Date(),start=shiftUTC(dUTC(dayKeyUTC(end)),-364);
+    const historyItems=[makeContributionChart(dayKeyUTC(start),dayKeyUTC(dUTC(dayKeyUTC(end))),byDate,'Last 365 days')];
+    const year=end.getFullYear();
+    for(let y=year-1;y>=year-3;y--){const first=y+'-01-01',last=y+'-12-31';if(data.contributions.some(x=>x.date>=first&&x.date<=last))historyItems.push(makeContributionChart(first,last,byDate,String(y)))}
+    history.replaceChildren(...historyItems);status.textContent='Scroll inside the calendar to explore previous years';
+  }catch(err){history.replaceChildren();status.textContent='Contribution calendar unavailable. The third-party service may be temporarily down.';status.className='contrib-alert';console.warn('Contribution calendar failed',err)}
+}
+
 function renderCalendar(counts){let end=new Date(today),start=new Date(today);start.setDate(start.getDate()-29);const startDow=start.getDay();const cell=document.createDocumentFragment();for(let pad=0;pad<startDow;pad++){const blank=document.createElement('div');blank.style.visibility='hidden';cell.append(blank)}for(let n=0;n<30;n++){const d=new Date(start);d.setDate(start.getDate()+n);const k=iso(d),c=counts[k]||0;const level=c===0?0:c===1?1:c<=3?2:c<=6?3:4;const box=document.createElement('div');box.className='day';box.dataset.level=String(level);box.title=`${k}: ${c} public event${c===1?'':'s'}`;box.setAttribute('aria-label',box.title);cell.append(box)}$('heatmap').replaceChildren(cell)}
 function showBars(container,entries){container.replaceChildren();if(!entries.length){container.textContent='No public data returned.';return}const max=Math.max(...entries.map(x=>x[1]),1);for(const [name,n] of entries){const row=document.createElement('div');row.className='barrow';const label=document.createElement('span');label.textContent=name;const track=document.createElement('div');track.className='track';const bar=document.createElement('div');bar.className='fill';bar.style.width=Math.max(3,100*n/max)+'%';track.append(bar);const count=document.createElement('strong');count.textContent=n;row.append(label,track,count);container.append(row)}}
 const eventNames={PushEvent:'Push',PullRequestEvent:'Pull request',IssuesEvent:'Issue',IssueCommentEvent:'Issue comment',PullRequestReviewEvent:'PR review',CreateEvent:'Create',DeleteEvent:'Delete',WatchEvent:'Star',ForkEvent:'Fork',ReleaseEvent:'Release'};
@@ -45,6 +118,6 @@ async function api(url){const r=await fetch(url,{headers:{Accept:'application/vn
 async function loadEvents(){const base=`https://api.github.com/users/${USER}/events/public?per_page=100`;const results=await Promise.allSettled([api(base+'&page=1'),api(base+'&page=2'),api(base+'&page=3')]);const ok=results.filter(r=>r.status==='fulfilled');if(!ok.length)throw results[0].reason;const events=ok.flatMap(r=>r.value);const unique=[...new Map(events.map(e=>[e.id,e])).values()];const cutoff=new Date(today);cutoff.setDate(cutoff.getDate()-29);const filtered=unique.filter(e=>new Date(e.created_at)>=cutoff);const counts={};const types={};for(const e of filtered){const k=dateKey(e.created_at);counts[k]=(counts[k]||0)+1;const type=eventNames[e.type]||'Other';types[type]=(types[type]||0)+1}$('total').textContent=filtered.length;$('pushes').textContent=filtered.filter(e=>e.type==='PushEvent').length;$('prs').textContent=filtered.filter(e=>e.type==='PullRequestEvent').length;$('days').textContent=Object.keys(counts).length;renderCalendar(counts);showBars($('types'),Object.entries(types).sort((a,b)=>b[1]-a[1]));const list=$('recent');list.replaceChildren();if(!filtered.length){list.textContent='No public events found in the available API history.';return}for(const e of filtered.slice(0,7)){const row=document.createElement('div');row.className='event';const icon=document.createElement('span');icon.textContent=({PushEvent:'⬆️',PullRequestEvent:'🔀',IssuesEvent:'📋',WatchEvent:'⭐',CreateEvent:'✨'})[e.type]||'•';const detail=document.createElement('div');const link=document.createElement('a');link.href='https://github.com/'+e.repo.name.split('/').map(encodeURIComponent).join('/');link.target='_blank';link.rel='noopener noreferrer';link.textContent=e.repo.name;const kind=document.createElement('div');kind.textContent=eventNames[e.type]||e.type;const date=document.createElement('small');date.textContent=new Date(e.created_at).toLocaleString();detail.append(kind,link,date);row.append(icon,detail);list.append(row)}if(ok.length<3){const note=document.createElement('p');note.className='desc';note.textContent='Some event pages were unavailable; totals may be incomplete.';list.append(note)}}
 async function loadLanguages(){const all=[];for(let p=1;p<=3;p++){const repos=await api(`https://api.github.com/users/${USER}/repos?per_page=100&page=${p}&type=owner&sort=updated`);all.push(...repos);if(repos.length<100)break}const counts={};for(const r of all){if(r.fork||r.archived||!r.language)continue;counts[r.language]=(counts[r.language]||0)+1}const entries=Object.entries(counts).sort((a,b)=>b[1]-a[1]).slice(0,8);showBars($('languages'),entries);const total=Object.values(counts).reduce((a,b)=>a+b,0);const note=document.createElement('p');note.className='desc';note.textContent=`${total} public, non-fork, non-archived repositories with a detected primary language.`;$('languages').append(note)}
 async function refresh(){$('status').textContent='Updating public data…';const out=await Promise.allSettled([loadEvents(),loadLanguages()]);if(out[0].status==='rejected'){$('total').textContent=$('pushes').textContent=$('prs').textContent=$('days').textContent='—';$('types').textContent='Unable to load GitHub events.';$('recent').textContent='Unable to load recent activity.';renderCalendar({})}if(out[1].status==='rejected'){$('languages').textContent='Unable to load repository languages.'}const failed=out.filter(x=>x.status==='rejected');$('status').textContent=failed.length?'Some GitHub data could not load (possibly API rate limit).':'Public data loaded · '+new Date().toLocaleTimeString();if(failed.length)console.warn('GitHub data request failed',...failed.map(x=>x.reason))}
-$('refresh').addEventListener('click',refresh);refresh();
+$('refresh').addEventListener('click',()=>{refresh();loadContributions()});refresh();loadContributions();
 })();
 </script></body></html>
