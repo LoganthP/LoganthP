@@ -124,15 +124,12 @@
 
 ## 📡 Live Activity
 
-<h3 align="center">🐟 My GitHub Koi</h3>
-
 <p align="center">
-  <img
-    src="koi/koi.gif"
-    width="256"
-    alt="Loganth's animated GitHub Koi"
-  />
+  <a href="https://loganthp.github.io/LoganthP/koi-playground/">
+    🌊 Play with my interactive GitHub Koi
+  </a>
 </p>
+
 
 <picture>
   <source
