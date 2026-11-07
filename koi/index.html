@@ -58,7 +58,7 @@ html{scroll-behavior:smooth;scroll-padding-top:82px}
 @media(max-width:600px){.repo-grid,.wide-grid{grid-template-columns:1fr}.nav-links{gap:9px}.nav-inner{padding:10px 14px}}
 </style>
 </head>
-<body><nav class="sticky-nav" aria-label="Main navigation"><div class="nav-inner"><a class="brand" href="#top">🐟 Loganth / KOI</a><div class="nav-links"><a href="#aquarium">Aquarium</a><a href="#contributions">Contributions</a><a href="#insights">Insights</a><a href="#repositories">Projects</a><a href="#stack">Stack</a><a href="#articles">Writing</a><a href="#community">Community</a><a href="https://www.linkedin.com/in/loganth-p-158667280/" target="_blank" rel="noopener noreferrer">LinkedIn</a><a class="back-link" href="https://github.com/LoganthP">↗ GitHub profile</a></div></div></nav><main class="wrap" id="top">
+<body><nav class="sticky-nav" aria-label="Main navigation"><div class="nav-inner"><a class="brand" href="#top">🐟 Loganth / KOI</a><div class="nav-links"><a href="#aquarium">Aquarium</a><a href="#contributions">Contributions</a><a href="#insights">Insights</a><a href="#stack">Stack</a><a href="https://www.linkedin.com/in/loganth-p-158667280/" target="_blank" rel="noopener noreferrer">LinkedIn</a><a class="back-link" href="https://github.com/LoganthP">↗ GitHub profile</a></div></div></nav><main class="wrap" id="top">
 <header><div class="eyebrow">Live GitHub activity · Interactive aquarium</div><h1>🐟 Loganth's GitHub Koi</h1><p>Drag your koi around the water, and explore real public GitHub activity below.</p></header>
 <div class="topline"><span class="eyebrow">KOI / AQUARIUM</span><span id="status" class="status" role="status">Loading public GitHub data…</span></div>
 <section class="aquarium" id="aquarium" aria-label="Interactive koi aquarium">
@@ -77,14 +77,11 @@ html{scroll-behavior:smooth;scroll-padding-top:82px}
  <div id="contrib-history" class="contrib-scroll" tabindex="0" aria-label="Scrollable contribution calendars for recent years"></div>
  <div class="contrib-legend">Less <i></i><i></i><i></i><i></i><i></i> More</div>
 </section>
-<div class="layout" style="margin-top:14px"><section id="events" class="panel"><h2>Event type distribution</h2><p class="desc">Pushes, pull requests, issues, reviews and other public actions.</p><div id="types" class="loading">Loading event breakdown…</div></section></div>
-<div class="layout" style="margin-top:14px"><section class="panel"><h2>Recent public activity</h2><div id="recent" class="loading">Loading public events…</div></section><section id="languages-section" class="panel"><h2>Repository languages</h2><p class="desc">Distribution by primary language of your public, non-fork repositories. Not the koi's exact pixel-color proportions.</p><div id="languages" class="loading">Loading repositories…</div></section></div>
+<div class="layout" style="margin-top:14px"><section id="events" class="panel"><h2>Event type distribution</h2><p class="desc">Pushes, pull requests, issues, reviews and other public actions.</p><div id="types" class="loading">Loading event breakdown…</div></section><section id="languages-section" class="panel"><h2>Repository languages</h2><p class="desc">Distribution by primary language of your public, non-fork repositories. Not the koi's exact pixel-color proportions.</p><div id="languages" class="loading">Loading repositories…</div></section></div>
+<section class="panel" style="margin-top:14px"><h2>Recent public activity</h2><div id="recent" class="loading">Loading public events…</div></section>
 
 <section id="insights" class="panel" style="margin-top:16px"><div class="section-head" style="margin:0 0 5px"><h2>Productivity & workflow insights</h2><span class="sub">Public event timestamps · displayed in your browser's timezone</span></div><p class="desc">These charts count public GitHub events, not hours spent coding or individual commits. Limited to the latest 100 public events returned by the API.</p><div class="two-plots"><div><h3>Activity by day of week</h3><div id="weekday-chart" class="loading">Loading events…</div></div><div><h3>Activity by time of day</h3><div id="hour-chart" class="hour-grid" aria-label="Public events grouped into two-hour intervals">Loading events…</div></div></div></section>
-<section id="repositories"><div class="section-head"><h2>Featured projects</h2><span class="sub">Curated selections · live repository metadata</span></div><div id="featured-repos" class="repo-grid"><p class="loading">Fetching project details…</p></div></section>
 <section id="stack"><div class="section-head"><h2>Tech stack & ecosystem</h2><span class="sub">Curated skill categories, not automatically verified proficiency</span></div><div class="wide-grid"><div class="stack-card"><h3>Languages</h3><div class="chips"><span class="chip">TypeScript</span><span class="chip">JavaScript</span><span class="chip">Python</span><span class="chip">SQL</span><span class="chip">HTML / CSS</span></div></div><div class="stack-card"><h3>Frameworks & AI</h3><div class="chips"><span class="chip">React</span><span class="chip">Vite</span><span class="chip">FastAPI</span><span class="chip">Express</span><span class="chip">Tailwind CSS</span><span class="chip">LangChain</span><span class="chip">LangGraph</span></div></div><div class="stack-card"><h3>Data & retrieval</h3><div class="chips"><span class="chip">SQLite</span><span class="chip">JSON data</span><span class="chip">Vector search</span><span class="chip">RAG</span></div></div><div class="stack-card"><h3>DevOps & security</h3><div class="chips"><span class="chip">Git</span><span class="chip">GitHub Actions</span><span class="chip">GitLab CI</span><span class="chip">Docker</span><span class="chip">Kali Linux</span></div></div></div></section>
-<section id="articles" class="panel" style="margin-top:20px"><div class="section-head" style="margin:0 0 5px"><h2>Technical writing</h2><span class="sub">Optional DEV Community integration</span></div><div id="blog-feed" class="feed-list"><p class="desc">No publication username configured yet. Add your DEV Community username to the <code>DEVTO_USERNAME</code> setting in the HTML to load published articles automatically.</p></div></section>
-<section id="community" class="panel" style="margin-top:16px"><div class="section-head" style="margin:0 0 5px"><h2>Visitor interaction hub</h2><span class="sub">GitHub Discussions, with moderation</span></div><p class="desc">Comments are optional. Configure Giscus using your repository and discussion category IDs from <a href="https://giscus.app/" target="_blank" rel="noopener noreferrer">giscus.app</a> to enable an embedded discussion. GitHub sign-in is required to post; anonymous posting is not supported by Giscus.</p><div id="giscus-mount"><a class="btn" style="display:inline-block;text-decoration:none" href="https://github.com/LoganthP/LoganthP/discussions" target="_blank" rel="noopener noreferrer">Open GitHub Discussions</a></div></section>
 
 <p class="tip">Koi visuals are generated by Git Profile Koi. The activity metrics and contribution calendar are independent of the koi generator; contributions may include more than public events.</p>
 <footer>Built for <a href="https://github.com/LoganthP" target="_blank" rel="noopener noreferrer">@LoganthP</a> · No tokens embedded · No private activity displayed</footer>
@@ -92,9 +89,6 @@ html{scroll-behavior:smooth;scroll-padding-top:82px}
 (()=>{'use strict';
 const USER='LoganthP';const $=id=>document.getElementById(id);
 // Edit these optional public settings. Never embed a GitHub access token in GitHub Pages.
-const DEVTO_USERNAME='';
-const GISCUS={repo:'LoganthP/LoganthP',repoId:'',category:'General',categoryId:''};
-const FEATURED=['RouteWatch','SentimentStream','NetAlert-AI','Intelliward'];
 
 const aqua=$('aquarium'),fish=$('koi');let dragging=false,following=false,dx=0,dy=0;
 const move=(clientX,clientY,ox=fish.offsetWidth/2,oy=fish.offsetHeight/2)=>{const a=aqua.getBoundingClientRect();const x=Math.max(0,Math.min(clientX-a.left-ox,a.width-fish.offsetWidth));const y=Math.max(0,Math.min(clientY-a.top-oy,a.height-fish.offsetHeight));fish.style.transform='none';fish.style.left=x+'px';fish.style.top=y+'px'};
@@ -172,39 +166,8 @@ function renderProductivity(events){
  h.forEach((count,i)=>{const item=document.createElement('div');item.className='hour-bar';item.title=`${String(i*2).padStart(2,'0')}:00–${String(i*2+2).padStart(2,'0')}:00 · ${count} public events`;
  const bar=document.createElement('span');bar.style.height=Math.max(2,Math.round(95*count/max))+'px';const label=document.createElement('small');label.textContent=String(i*2).padStart(2,'0');item.append(bar,label);box.append(item)});
 }
-async function loadFeatured(){
- const mount=$('featured-repos');mount.replaceChildren();
- const rows=await Promise.allSettled(FEATURED.map(name=>api(`https://api.github.com/repos/${encodeURIComponent(USER)}/${encodeURIComponent(name)}`)));
- const good=[];
- for(let i=0;i<rows.length;i++){
- const r=rows[i];if(r.status!=='fulfilled'){const note=document.createElement('p');note.className='desc';note.textContent=`${FEATURED[i]}: unavailable`;mount.append(note);continue;}
- const repo=r.value;good.push(repo);const card=document.createElement('article');card.className='repo-card';const h=document.createElement('h3');const a=document.createElement('a');a.href=repo.html_url;a.target='_blank';a.rel='noopener noreferrer';a.textContent=repo.name;h.append(a);
- const desc=document.createElement('p');desc.textContent=repo.description||'Explore the repository on GitHub.';
- const meta=document.createElement('div');meta.className='repo-meta';meta.textContent=`★ ${repo.stargazers_count ?? 0}   ·   ⑂ ${repo.forks_count ?? 0} forks   ·   ${repo.language||'Mixed'}   ·   Updated ${repo.updated_at?new Date(repo.updated_at).toLocaleDateString():'unknown'}`;
- card.append(h,desc,meta);mount.append(card);
- }
- const sel=$('koi-repo');sel.replaceChildren(new Option('Choose repository',''));
- for(const repo of good)sel.append(new Option(repo.name,repo.name));
-}
-async function loadBlog(){
- const mount=$('blog-feed');mount.textContent='Loading articles…';
- try{
- let posts=[];
- const saved=await fetch('./articles.json',{cache:'no-cache'}).catch(()=>null);
- if(saved?.ok){const data=await saved.json();if(Array.isArray(data))posts=data;}
- if(!posts.length && DEVTO_USERNAME.trim()){
- const r=await fetch(`https://dev.to/api/articles?username=${encodeURIComponent(DEVTO_USERNAME)}&per_page=5`);
- if(!r.ok)throw Error(`Blog API ${r.status}`);posts=await r.json();
- }
- if(!posts.length && !DEVTO_USERNAME.trim()){mount.innerHTML='<p class="desc">No blog feed configured yet. Set the DEVTO_USERNAME repository variable and enable the optional blog workflow, or edit DEVTO_USERNAME in this HTML.</p>';return;}
- mount.replaceChildren();if(!Array.isArray(posts)||!posts.length){mount.textContent='No published articles found.';return;}
- for(const post of posts){const item=document.createElement('article');item.className='feed-entry';const link=document.createElement('a');link.href=post.url;link.target='_blank';link.rel='noopener noreferrer';link.textContent=post.title;const date=document.createElement('small');date.textContent=post.published_at?new Date(post.published_at).toLocaleDateString():'';item.append(link,date);mount.append(item)}
- }catch(err){mount.textContent='Articles currently unavailable: '+err.message;}}
-function initGiscus(){if(!GISCUS.repoId||!GISCUS.categoryId)return;
- const mount=$('giscus-mount');mount.replaceChildren();const script=document.createElement('script');script.src='https://giscus.app/client.js';
- const attrs={'data-repo':GISCUS.repo,'data-repo-id':GISCUS.repoId,'data-category':GISCUS.category,'data-category-id':GISCUS.categoryId,'data-mapping':'pathname','data-strict':'0','data-reactions-enabled':'1','data-emit-metadata':'0','data-input-position':'bottom','data-theme':'dark','data-lang':'en'};
- for(const [k,v] of Object.entries(attrs))script.setAttribute(k,v);script.setAttribute('crossorigin','anonymous');script.async=true;mount.append(script);
-}
+
+
 function setupCustomization(){const theme=$('koi-theme'),scale=$('koi-scale'),sizeText=$('scale-text'),repo=$('koi-repo');
  const update=()=>{const val=Number(scale.value);fish.style.width=Math.round(230*val/100)+'px';fish.style.height=Math.round(230*val/100)+'px';sizeText.textContent=val+'%';
  const styles={classic:['none','radial-gradient(ellipse at 50% 50%,#17394f,#10273a 50%,#0a1625)'],arctic:['hue-rotate(150deg) saturate(0.9)','radial-gradient(ellipse,#124765,#09172c)'],neon:['hue-rotate(80deg) saturate(1.8)','radial-gradient(ellipse,#223564,#0c1024)'],sunset:['sepia(.3) saturate(1.4)','radial-gradient(ellipse,#4f2b40,#140f29)']};
@@ -303,6 +266,6 @@ async function refresh() {
     ? 'Public data loaded · ' + new Date().toLocaleTimeString()
     : 'Some data could not load; see the error below';
 }
-$('refresh').addEventListener('click',()=>{refresh();loadContributions();loadFeatured();loadBlog()});setupCustomization();initGiscus();refresh();loadContributions();loadFeatured();loadBlog();
+$('refresh').addEventListener('click',()=>{refresh();loadContributions()});setupCustomization();refresh();loadContributions();
 })();
 </script></body></html>
