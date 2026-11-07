@@ -124,9 +124,7 @@
 
 ## 📡 Live Activity
 
-
 <h3 align="center">🐟 My GitHub Koi</h3>
-
 <p align="center">
   <a href="https://loganthp.github.io/LoganthP/koi/">
     <img
@@ -135,19 +133,6 @@
       alt="Loganth's Animated GitHub Koi"
     />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://loganthp.github.io/LoganthP/koi/">
-    🌊 Click to Play with My Interactive Koi
-  </a>
-</p>
-
-<p align="center">
-  <sub>
-    🎨 Languages · 🐟 Contributions ·
-    ✨ Streaks · 🌊 Recent Activity
-  </sub>
 </p>
 
 <picture>
