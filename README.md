@@ -125,7 +125,7 @@
 ## 📡 Live Activity
 
 <p align="center">
-  <a href="https://loganthp.github.io/LoganthP/koi-playground/">
+  <a href="https://loganthp.github.io/LoganthP/koi/">
     🌊 Play with my interactive GitHub Koi
   </a>
 </p>
