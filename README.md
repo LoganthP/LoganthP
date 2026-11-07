@@ -126,10 +126,9 @@
 
 <p align="center">
   <a href="https://loganthp.github.io/LoganthP/koi/">
-    🌊 Play with my interactive GitHub Koi
+    🌊 Play with my Interactive GitHub Koi
   </a>
 </p>
-
 
 <picture>
   <source
