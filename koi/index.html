@@ -1,0 +1,140 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport"
+      content="width=device-width,initial-scale=1">
+<title>Loganth's Interactive Koi</title>
+<style>
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    min-height: 100vh;
+    background: #0d1117;
+    color: #e6edf3;
+    font-family: system-ui, sans-serif;
+    text-align: center;
+  }
+
+  h1 { margin: 25px 0 5px; }
+  p { color: #8b949e; }
+
+  #aquarium {
+    position: relative;
+    height: 500px;
+    max-width: 950px;
+    margin: 25px auto;
+    overflow: hidden;
+    border: 1px solid #30363d;
+    border-radius: 20px;
+    background:
+      radial-gradient(ellipse at center,
+        #16324a, #0d1117 75%);
+    touch-action: none;
+  }
+
+  #koi {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 256px;
+    height: 256px;
+    object-fit: contain;
+    cursor: grab;
+    user-select: none;
+    touch-action: none;
+    transform: translate(-50%, -50%);
+  }
+
+  #koi.dragging { cursor: grabbing; }
+
+  .legend {
+    display: flex;
+    gap: 14px;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 20px;
+    font-size: 14px;
+  }
+
+  .legend span {
+    padding: 9px 14px;
+    background: #161b22;
+    border: 1px solid #30363d;
+    border-radius: 10px;
+  }
+</style>
+</head>
+<body>
+
+<h1>🐟 Loganth's GitHub Koi</h1>
+<p>Drag the koi to explore the aquarium</p>
+
+<div id="aquarium">
+  <img id="koi"
+       src="../koi/koi.gif"
+       alt="Animated GitHub Koi"
+       draggable="false">
+</div>
+
+<div class="legend">
+  <span>🎨 Patterns: Languages</span>
+  <span>🐟 Growth: Contributions</span>
+  <span>✨ Markings: Streaks</span>
+  <span>🌊 Swimming: Recent Activity</span>
+</div>
+
+<script>
+const aquarium = document.getElementById("aquarium");
+const koi = document.getElementById("koi");
+
+let dragging = false;
+let offsetX = 0;
+let offsetY = 0;
+
+koi.addEventListener("pointerdown", (e) => {
+  e.preventDefault();
+  dragging = true;
+  koi.classList.add("dragging");
+
+  const rect = koi.getBoundingClientRect();
+  offsetX = e.clientX - rect.left;
+  offsetY = e.clientY - rect.top;
+
+  koi.setPointerCapture(e.pointerId);
+});
+
+koi.addEventListener("pointermove", (e) => {
+  if (!dragging) return;
+
+  const area = aquarium.getBoundingClientRect();
+
+  const x = Math.max(0, Math.min(
+    e.clientX - area.left - offsetX,
+    area.width - koi.offsetWidth
+  ));
+
+  const y = Math.max(0, Math.min(
+    e.clientY - area.top - offsetY,
+    area.height - koi.offsetHeight
+  ));
+
+  koi.style.left = x + "px";
+  koi.style.top = y + "px";
+  koi.style.transform = "none";
+});
+
+function stopDragging() {
+  dragging = false;
+  koi.classList.remove("dragging");
+}
+
+koi.addEventListener("pointerup", stopDragging);
+koi.addEventListener("pointercancel", stopDragging);
+koi.addEventListener("lostpointercapture", stopDragging);
+</script>
+
+</body>
+</html>
