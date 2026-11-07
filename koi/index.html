@@ -1,140 +1,50 @@
-
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport"
-      content="width=device-width,initial-scale=1">
-<title>Loganth's Interactive Koi</title>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#080e17">
+<title>Loganth • Koi Activity Aquarium</title>
 <style>
-  * { box-sizing: border-box; }
-
-  body {
-    margin: 0;
-    min-height: 100vh;
-    background: #0d1117;
-    color: #e6edf3;
-    font-family: system-ui, sans-serif;
-    text-align: center;
-  }
-
-  h1 { margin: 25px 0 5px; }
-  p { color: #8b949e; }
-
-  #aquarium {
-    position: relative;
-    height: 500px;
-    max-width: 950px;
-    margin: 25px auto;
-    overflow: hidden;
-    border: 1px solid #30363d;
-    border-radius: 20px;
-    background:
-      radial-gradient(ellipse at center,
-        #16324a, #0d1117 75%);
-    touch-action: none;
-  }
-
-  #koi {
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    width: 256px;
-    height: 256px;
-    object-fit: contain;
-    cursor: grab;
-    user-select: none;
-    touch-action: none;
-    transform: translate(-50%, -50%);
-  }
-
-  #koi.dragging { cursor: grabbing; }
-
-  .legend {
-    display: flex;
-    gap: 14px;
-    justify-content: center;
-    flex-wrap: wrap;
-    margin: 20px;
-    font-size: 14px;
-  }
-
-  .legend span {
-    padding: 9px 14px;
-    background: #161b22;
-    border: 1px solid #30363d;
-    border-radius: 10px;
-  }
+:root{--bg:#080e17;--panel:#111c2c;--line:#29394d;--text:#ecf5ff;--muted:#90a6bd;--teal:#65e3cd;--blue:#64a8ff;--green:#56d990}
+*{box-sizing:border-box}body{margin:0;background:radial-gradient(ellipse at 50% -20%,#15314a 0%,#080e17 58%);color:var(--text);font:15px/1.45 system-ui,Segoe UI,sans-serif}a{color:#89c1ff}button{font:inherit;cursor:pointer}.wrap{max-width:1120px;margin:auto;padding:30px 20px 55px}header{text-align:center;margin-bottom:22px}header h1{font-size:clamp(26px,4vw,40px);margin:0 0 8px}header p{margin:0;color:var(--muted)}.topline{display:flex;justify-content:space-between;align-items:center;gap:12px;margin:14px 0}.eyebrow{font-size:12px;color:var(--teal);letter-spacing:.18em;text-transform:uppercase;font-weight:750}.status{font-size:12px;color:var(--muted)}.aquarium{height:clamp(310px,48vw,480px);position:relative;overflow:hidden;border:1px solid #2d5064;border-radius:24px;background:radial-gradient(ellipse at 50% 50%,#17394f 0%,#10273a 50%,#0a1625 100%);box-shadow:inset 0 0 85px #061421,0 24px 75px #0005;touch-action:none}.aquarium:before{content:"";position:absolute;inset:0;background:repeating-radial-gradient(ellipse at 30% 20%,transparent 0 53px,#79dfff05 54px 55px);pointer-events:none}.bubble{position:absolute;bottom:-20px;width:12px;height:12px;border:1px solid #7bd8ed45;border-radius:50%;animation:rise var(--duration,12s) linear infinite;left:var(--left,10%);animation-delay:var(--delay,0s);pointer-events:none}@keyframes rise{to{transform:translateY(-530px);opacity:0}}#koi{position:absolute;width:230px;height:230px;left:50%;top:50%;transform:translate(-50%,-50%);object-fit:contain;user-select:none;touch-action:none;cursor:grab;filter:drop-shadow(0 12px 14px #0007)}#koi.dragging{cursor:grabbing}.watermark{position:absolute;bottom:19px;left:20px;color:#9bc7d4a0;font-size:12px;letter-spacing:.08em;pointer-events:none}.controls{display:flex;gap:8px;justify-content:center;flex-wrap:wrap;margin-top:14px}.btn{color:#dceef8;background:#18293b;border:1px solid #36506a;border-radius:10px;padding:9px 14px}.btn:hover{border-color:#6db6cc}.btn.active{background:#134c50;border-color:#52d7c4}.section-head{display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:wrap;margin:28px 0 12px}h2{font-size:20px;margin:0}.sub{color:var(--muted);font-size:12px}.metrics{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}.metric,.panel{background:linear-gradient(140deg,#132235,#101a29);border:1px solid var(--line);border-radius:16px;padding:16px}.metric .num{display:block;font-size:30px;font-weight:800;margin:7px 0 2px;font-variant-numeric:tabular-nums}.metric .lbl{color:var(--muted);font-size:13px}.layout{display:grid;grid-template-columns:1.15fr 1fr;gap:14px}.calendar-wrap{overflow-x:auto;padding:6px 0}.heatmap{display:grid;grid-template-rows:repeat(7,14px);grid-auto-flow:column;grid-auto-columns:14px;gap:5px;width:max-content}.day{width:14px;height:14px;border-radius:4px;background:#25364a}.day[data-level="1"]{background:#286b61}.day[data-level="2"]{background:#298b74}.day[data-level="3"]{background:#3dc5a0}.day[data-level="4"]{background:#86f0c2}.legend{display:flex;align-items:center;gap:5px;justify-content:flex-end;color:var(--muted);font-size:12px;margin-top:12px}.legend i{display:block;width:14px;height:14px;border-radius:3px}.legend i:nth-of-type(1){background:#25364a}.legend i:nth-of-type(2){background:#286b61}.legend i:nth-of-type(3){background:#298b74}.legend i:nth-of-type(4){background:#3dc5a0}.legend i:nth-of-type(5){background:#86f0c2}.barrow{display:grid;grid-template-columns:minmax(95px,1fr) 3fr 38px;gap:10px;align-items:center;margin:14px 0;font-size:13px}.track{height:9px;border-radius:10px;background:#253649;overflow:hidden}.fill{height:100%;border-radius:10px;background:linear-gradient(90deg,#3387cb,#65e3cd)}.repo-list{display:grid;gap:8px;margin-top:10px}.event{display:flex;align-items:start;gap:12px;border-bottom:1px solid #263648;padding:10px 0;font-size:13px}.event:last-child{border-bottom:0}.event small{color:var(--muted);display:block}.event a{overflow-wrap:anywhere;text-decoration:none}.desc{color:var(--muted);font-size:12px;margin-top:8px}.loading{color:var(--muted);font-size:13px}.error{color:#ffbf9d;font-size:13px}.tip{font-size:12px;color:var(--muted);text-align:center;margin-top:16px}footer{color:var(--muted);font-size:12px;text-align:center;margin-top:30px}@media(max-width:750px){.metrics{grid-template-columns:repeat(2,1fr)}.layout{grid-template-columns:1fr}.wrap{padding:20px 14px}.metric .num{font-size:25px}}
+@media(prefers-reduced-motion:reduce){.bubble{animation:none}}
 </style>
 </head>
-<body>
-
-<h1>🐟 Loganth's GitHub Koi</h1>
-<p>Drag the koi to explore the aquarium</p>
-
-<div id="aquarium">
-  <img id="koi"
-       src="../koi/koi.gif"
-       alt="Animated GitHub Koi"
-       draggable="false">
-</div>
-
-<div class="legend">
-  <span>🎨 Patterns: Languages</span>
-  <span>🐟 Growth: Contributions</span>
-  <span>✨ Markings: Streaks</span>
-  <span>🌊 Swimming: Recent Activity</span>
-</div>
-
-<script>
-const aquarium = document.getElementById("aquarium");
-const koi = document.getElementById("koi");
-
-let dragging = false;
-let offsetX = 0;
-let offsetY = 0;
-
-koi.addEventListener("pointerdown", (e) => {
-  e.preventDefault();
-  dragging = true;
-  koi.classList.add("dragging");
-
-  const rect = koi.getBoundingClientRect();
-  offsetX = e.clientX - rect.left;
-  offsetY = e.clientY - rect.top;
-
-  koi.setPointerCapture(e.pointerId);
-});
-
-koi.addEventListener("pointermove", (e) => {
-  if (!dragging) return;
-
-  const area = aquarium.getBoundingClientRect();
-
-  const x = Math.max(0, Math.min(
-    e.clientX - area.left - offsetX,
-    area.width - koi.offsetWidth
-  ));
-
-  const y = Math.max(0, Math.min(
-    e.clientY - area.top - offsetY,
-    area.height - koi.offsetHeight
-  ));
-
-  koi.style.left = x + "px";
-  koi.style.top = y + "px";
-  koi.style.transform = "none";
-});
-
-function stopDragging() {
-  dragging = false;
-  koi.classList.remove("dragging");
-}
-
-koi.addEventListener("pointerup", stopDragging);
-koi.addEventListener("pointercancel", stopDragging);
-koi.addEventListener("lostpointercapture", stopDragging);
-</script>
-
-</body>
-</html>
+<body><main class="wrap">
+<header><div class="eyebrow">Live GitHub activity · Interactive aquarium</div><h1>🐟 Loganth's GitHub Koi</h1><p>Drag your koi around the water, and explore real public GitHub activity below.</p></header>
+<div class="topline"><span class="eyebrow">KOI / AQUARIUM</span><span id="status" class="status" role="status">Loading public GitHub data…</span></div>
+<section class="aquarium" id="aquarium" aria-label="Interactive koi aquarium">
+  <span class="bubble" style="--left:9%;--delay:-3s;--duration:13s"></span><span class="bubble" style="--left:24%;--delay:-9s;--duration:16s"></span><span class="bubble" style="--left:67%;--delay:-7s;--duration:12s"></span><span class="bubble" style="--left:85%;--delay:-5s;--duration:15s"></span>
+  <img id="koi" src="./koi.gif" draggable="false" alt="Pixel-art GitHub koi fish">
+  <span class="watermark">DRAG THE FISH • EXPLORE BELOW</span>
+</section>
+<div class="controls"><button class="btn" id="follow">Enable cursor follow</button><button class="btn" id="reset">Center koi</button><button class="btn" id="refresh">Refresh activity</button></div>
+<div class="section-head"><h2>Activity overview</h2><span class="sub">Public events in the last 30 days · not GitHub contribution totals</span></div>
+<div class="metrics"><div class="metric"><span class="lbl">Public events retrieved</span><strong id="total" class="num">—</strong></div><div class="metric"><span class="lbl">Push events</span><strong id="pushes" class="num">—</strong></div><div class="metric"><span class="lbl">PR events</span><strong id="prs" class="num">—</strong></div><div class="metric"><span class="lbl">Active days (visible data)</span><strong id="days" class="num">—</strong></div></div>
+<div class="layout" style="margin-top:14px"><section class="panel"><h2>30-day activity calendar</h2><p class="desc">Color intensity = number of public events returned by the API on each date. Hover or tap for details.</p><div class="calendar-wrap"><div id="heatmap" class="heatmap" role="img" aria-label="30-day public events heatmap"></div></div><div class="legend">Less <i></i><i></i><i></i><i></i><i></i> More</div></section>
+<section class="panel"><h2>Event type distribution</h2><p class="desc">Pushes, pull requests, issues, reviews and other public actions.</p><div id="types" class="loading">Loading event breakdown…</div></section></div>
+<div class="layout" style="margin-top:14px"><section class="panel"><h2>Recent public activity</h2><div id="recent" class="loading">Loading public events…</div></section><section class="panel"><h2>Repository languages</h2><p class="desc">Distribution by primary language of your public, non-fork repositories. Not the koi's exact pixel-color proportions.</p><div id="languages" class="loading">Loading repositories…</div></section></div>
+<p class="tip">Koi visuals are generated by Git Profile Koi. The dashboard metrics are independent public GitHub API summaries, not the algorithm's internal fish-color inputs.</p>
+<footer>Built for <a href="https://github.com/LoganthP" target="_blank" rel="noopener noreferrer">@LoganthP</a> · No tokens embedded · No private activity displayed</footer>
+</main><script>
+(()=>{'use strict';
+const USER='LoganthP';const $=id=>document.getElementById(id);
+const aqua=$('aquarium'),fish=$('koi');let dragging=false,following=false,dx=0,dy=0;
+const move=(clientX,clientY,ox=fish.offsetWidth/2,oy=fish.offsetHeight/2)=>{const a=aqua.getBoundingClientRect();const x=Math.max(0,Math.min(clientX-a.left-ox,a.width-fish.offsetWidth));const y=Math.max(0,Math.min(clientY-a.top-oy,a.height-fish.offsetHeight));fish.style.transform='none';fish.style.left=x+'px';fish.style.top=y+'px'};
+fish.addEventListener('pointerdown',e=>{e.preventDefault();dragging=true;following=false;$('follow').classList.remove('active');$('follow').textContent='Enable cursor follow';const r=fish.getBoundingClientRect();dx=e.clientX-r.left;dy=e.clientY-r.top;fish.classList.add('dragging');fish.setPointerCapture(e.pointerId)});
+fish.addEventListener('pointermove',e=>{if(dragging)move(e.clientX,e.clientY,dx,dy)});
+const stop=()=>{dragging=false;fish.classList.remove('dragging')};fish.addEventListener('pointerup',stop);fish.addEventListener('pointercancel',stop);fish.addEventListener('lostpointercapture',stop);
+aqua.addEventListener('pointermove',e=>{if(following&&!dragging)move(e.clientX,e.clientY)});
+$('follow').addEventListener('click',()=>{following=!following;$('follow').classList.toggle('active',following);$('follow').textContent=following?'Disable cursor follow':'Enable cursor follow'});
+$('reset').addEventListener('click',()=>{following=false;$('follow').classList.remove('active');$('follow').textContent='Enable cursor follow';fish.style.left='50%';fish.style.top='50%';fish.style.transform='translate(-50%,-50%)'});
+const today=new Date();today.setHours(0,0,0,0);const iso=d=>{let y=d.getFullYear(),m=String(d.getMonth()+1).padStart(2,'0'),day=String(d.getDate()).padStart(2,'0');return `${y}-${m}-${day}`};const dateKey=stamp=>iso(new Date(stamp));
+function renderCalendar(counts){let end=new Date(today),start=new Date(today);start.setDate(start.getDate()-29);const startDow=start.getDay();const cell=document.createDocumentFragment();for(let pad=0;pad<startDow;pad++){const blank=document.createElement('div');blank.style.visibility='hidden';cell.append(blank)}for(let n=0;n<30;n++){const d=new Date(start);d.setDate(start.getDate()+n);const k=iso(d),c=counts[k]||0;const level=c===0?0:c===1?1:c<=3?2:c<=6?3:4;const box=document.createElement('div');box.className='day';box.dataset.level=String(level);box.title=`${k}: ${c} public event${c===1?'':'s'}`;box.setAttribute('aria-label',box.title);cell.append(box)}$('heatmap').replaceChildren(cell)}
+function showBars(container,entries){container.replaceChildren();if(!entries.length){container.textContent='No public data returned.';return}const max=Math.max(...entries.map(x=>x[1]),1);for(const [name,n] of entries){const row=document.createElement('div');row.className='barrow';const label=document.createElement('span');label.textContent=name;const track=document.createElement('div');track.className='track';const bar=document.createElement('div');bar.className='fill';bar.style.width=Math.max(3,100*n/max)+'%';track.append(bar);const count=document.createElement('strong');count.textContent=n;row.append(label,track,count);container.append(row)}}
+const eventNames={PushEvent:'Push',PullRequestEvent:'Pull request',IssuesEvent:'Issue',IssueCommentEvent:'Issue comment',PullRequestReviewEvent:'PR review',CreateEvent:'Create',DeleteEvent:'Delete',WatchEvent:'Star',ForkEvent:'Fork',ReleaseEvent:'Release'};
+async function api(url){const r=await fetch(url,{headers:{Accept:'application/vnd.github+json'}});if(!r.ok)throw new Error(`GitHub API returned ${r.status}`);return r.json()}
+async function loadEvents(){const base=`https://api.github.com/users/${USER}/events/public?per_page=100`;const results=await Promise.allSettled([api(base+'&page=1'),api(base+'&page=2'),api(base+'&page=3')]);const ok=results.filter(r=>r.status==='fulfilled');if(!ok.length)throw results[0].reason;const events=ok.flatMap(r=>r.value);const unique=[...new Map(events.map(e=>[e.id,e])).values()];const cutoff=new Date(today);cutoff.setDate(cutoff.getDate()-29);const filtered=unique.filter(e=>new Date(e.created_at)>=cutoff);const counts={};const types={};for(const e of filtered){const k=dateKey(e.created_at);counts[k]=(counts[k]||0)+1;const type=eventNames[e.type]||'Other';types[type]=(types[type]||0)+1}$('total').textContent=filtered.length;$('pushes').textContent=filtered.filter(e=>e.type==='PushEvent').length;$('prs').textContent=filtered.filter(e=>e.type==='PullRequestEvent').length;$('days').textContent=Object.keys(counts).length;renderCalendar(counts);showBars($('types'),Object.entries(types).sort((a,b)=>b[1]-a[1]));const list=$('recent');list.replaceChildren();if(!filtered.length){list.textContent='No public events found in the available API history.';return}for(const e of filtered.slice(0,7)){const row=document.createElement('div');row.className='event';const icon=document.createElement('span');icon.textContent=({PushEvent:'⬆️',PullRequestEvent:'🔀',IssuesEvent:'📋',WatchEvent:'⭐',CreateEvent:'✨'})[e.type]||'•';const detail=document.createElement('div');const link=document.createElement('a');link.href='https://github.com/'+e.repo.name.split('/').map(encodeURIComponent).join('/');link.target='_blank';link.rel='noopener noreferrer';link.textContent=e.repo.name;const kind=document.createElement('div');kind.textContent=eventNames[e.type]||e.type;const date=document.createElement('small');date.textContent=new Date(e.created_at).toLocaleString();detail.append(kind,link,date);row.append(icon,detail);list.append(row)}if(ok.length<3){const note=document.createElement('p');note.className='desc';note.textContent='Some event pages were unavailable; totals may be incomplete.';list.append(note)}}
+async function loadLanguages(){const all=[];for(let p=1;p<=3;p++){const repos=await api(`https://api.github.com/users/${USER}/repos?per_page=100&page=${p}&type=owner&sort=updated`);all.push(...repos);if(repos.length<100)break}const counts={};for(const r of all){if(r.fork||r.archived||!r.language)continue;counts[r.language]=(counts[r.language]||0)+1}const entries=Object.entries(counts).sort((a,b)=>b[1]-a[1]).slice(0,8);showBars($('languages'),entries);const total=Object.values(counts).reduce((a,b)=>a+b,0);const note=document.createElement('p');note.className='desc';note.textContent=`${total} public, non-fork, non-archived repositories with a detected primary language.`;$('languages').append(note)}
+async function refresh(){$('status').textContent='Updating public data…';const out=await Promise.allSettled([loadEvents(),loadLanguages()]);if(out[0].status==='rejected'){$('total').textContent=$('pushes').textContent=$('prs').textContent=$('days').textContent='—';$('types').textContent='Unable to load GitHub events.';$('recent').textContent='Unable to load recent activity.';renderCalendar({})}if(out[1].status==='rejected'){$('languages').textContent='Unable to load repository languages.'}const failed=out.filter(x=>x.status==='rejected');$('status').textContent=failed.length?'Some GitHub data could not load (possibly API rate limit).':'Public data loaded · '+new Date().toLocaleTimeString();if(failed.length)console.warn('GitHub data request failed',...failed.map(x=>x.reason))}
+$('refresh').addEventListener('click',refresh);refresh();
+})();
+</script></body></html>
