@@ -111,13 +111,111 @@ async function loadContributions(){
   }catch(err){history.replaceChildren();status.textContent='Contribution calendar unavailable. The third-party service may be temporarily down.';status.className='contrib-alert';console.warn('Contribution calendar failed',err)}
 }
 
-function renderCalendar(counts){let end=new Date(today),start=new Date(today);start.setDate(start.getDate()-29);const startDow=start.getDay();const cell=document.createDocumentFragment();for(let pad=0;pad<startDow;pad++){const blank=document.createElement('div');blank.style.visibility='hidden';cell.append(blank)}for(let n=0;n<30;n++){const d=new Date(start);d.setDate(start.getDate()+n);const k=iso(d),c=counts[k]||0;const level=c===0?0:c===1?1:c<=3?2:c<=6?3:4;const box=document.createElement('div');box.className='day';box.dataset.level=String(level);box.title=`${k}: ${c} public event${c===1?'':'s'}`;box.setAttribute('aria-label',box.title);cell.append(box)}$('heatmap').replaceChildren(cell)}
 function showBars(container,entries){container.replaceChildren();if(!entries.length){container.textContent='No public data returned.';return}const max=Math.max(...entries.map(x=>x[1]),1);for(const [name,n] of entries){const row=document.createElement('div');row.className='barrow';const label=document.createElement('span');label.textContent=name;const track=document.createElement('div');track.className='track';const bar=document.createElement('div');bar.className='fill';bar.style.width=Math.max(3,100*n/max)+'%';track.append(bar);const count=document.createElement('strong');count.textContent=n;row.append(label,track,count);container.append(row)}}
 const eventNames={PushEvent:'Push',PullRequestEvent:'Pull request',IssuesEvent:'Issue',IssueCommentEvent:'Issue comment',PullRequestReviewEvent:'PR review',CreateEvent:'Create',DeleteEvent:'Delete',WatchEvent:'Star',ForkEvent:'Fork',ReleaseEvent:'Release'};
-async function api(url){const r=await fetch(url,{headers:{Accept:'application/vnd.github+json'}});if(!r.ok)throw new Error(`GitHub API returned ${r.status}`);return r.json()}
-async function loadEvents(){const base=`https://api.github.com/users/${USER}/events/public?per_page=100`;const results=await Promise.allSettled([api(base+'&page=1'),api(base+'&page=2'),api(base+'&page=3')]);const ok=results.filter(r=>r.status==='fulfilled');if(!ok.length)throw results[0].reason;const events=ok.flatMap(r=>r.value);const unique=[...new Map(events.map(e=>[e.id,e])).values()];const cutoff=new Date(today);cutoff.setDate(cutoff.getDate()-29);const filtered=unique.filter(e=>new Date(e.created_at)>=cutoff);const counts={};const types={};for(const e of filtered){const k=dateKey(e.created_at);counts[k]=(counts[k]||0)+1;const type=eventNames[e.type]||'Other';types[type]=(types[type]||0)+1}$('total').textContent=filtered.length;$('pushes').textContent=filtered.filter(e=>e.type==='PushEvent').length;$('prs').textContent=filtered.filter(e=>e.type==='PullRequestEvent').length;$('days').textContent=Object.keys(counts).length;renderCalendar(counts);showBars($('types'),Object.entries(types).sort((a,b)=>b[1]-a[1]));const list=$('recent');list.replaceChildren();if(!filtered.length){list.textContent='No public events found in the available API history.';return}for(const e of filtered.slice(0,7)){const row=document.createElement('div');row.className='event';const icon=document.createElement('span');icon.textContent=({PushEvent:'⬆️',PullRequestEvent:'🔀',IssuesEvent:'📋',WatchEvent:'⭐',CreateEvent:'✨'})[e.type]||'•';const detail=document.createElement('div');const link=document.createElement('a');link.href='https://github.com/'+e.repo.name.split('/').map(encodeURIComponent).join('/');link.target='_blank';link.rel='noopener noreferrer';link.textContent=e.repo.name;const kind=document.createElement('div');kind.textContent=eventNames[e.type]||e.type;const date=document.createElement('small');date.textContent=new Date(e.created_at).toLocaleString();detail.append(kind,link,date);row.append(icon,detail);list.append(row)}if(ok.length<3){const note=document.createElement('p');note.className='desc';note.textContent='Some event pages were unavailable; totals may be incomplete.';list.append(note)}}
+async function api(url) {
+  const response = await fetch(url, {
+    headers: { Accept: 'application/vnd.github+json' }
+  });
+  if (!response.ok) {
+    let message = response.statusText;
+    try {
+      const body = await response.json();
+      message = body.message || message;
+    } catch (_) {}
+    throw new Error(`GitHub API ${response.status}: ${message}`);
+  }
+  return response.json();
+}
+
+async function loadEvents() {
+  // One public endpoint request: avoid unnecessary parallel pagination.
+  const url = `https://api.github.com/users/${encodeURIComponent(USER)}/events/public?per_page=100`;
+  const events = await api(url);
+  if (!Array.isArray(events)) throw new Error('Invalid public events API response');
+
+  const cutoff = new Date();
+  cutoff.setDate(cutoff.getDate() - 30);
+  const recent = events
+    .filter(e => e && e.id && e.created_at && e.repo && new Date(e.created_at) >= cutoff)
+    .sort((a, b) => new Date(b.created_at) - new Date(a.created_at));
+  const unique = [...new Map(recent.map(e => [e.id, e])).values()];
+
+  const types = new Map();
+  const days = new Set();
+  let pushes = 0;
+  let prs = 0;
+  for (const event of unique) {
+    const type = eventNames[event.type] || 'Other';
+    types.set(type, (types.get(type) || 0) + 1);
+    days.add(event.created_at.slice(0, 10));
+    if (event.type === 'PushEvent') pushes++;
+    if (event.type === 'PullRequestEvent') prs++;
+  }
+
+  $('total').textContent = String(unique.length);
+  $('pushes').textContent = String(pushes);
+  $('prs').textContent = String(prs);
+  $('days').textContent = String(days.size);
+  showBars($('types'), [...types].sort((a, b) => b[1] - a[1]));
+
+  const list = $('recent');
+  list.replaceChildren();
+  if (!unique.length) {
+    list.textContent = 'No public events in the latest response.';
+    return;
+  }
+
+  const symbols = {PushEvent:'⬆️', PullRequestEvent:'🔀', IssuesEvent:'📋',
+    IssueCommentEvent:'💬', PullRequestReviewEvent:'✅', WatchEvent:'⭐',
+    CreateEvent:'✨', ForkEvent:'🍴', ReleaseEvent:'🚀'};
+  for (const event of unique.slice(0, 12)) {
+    const row = document.createElement('div');
+    row.className = 'event';
+    const symbol = document.createElement('span');
+    symbol.textContent = symbols[event.type] || '🔹';
+
+    const detail = document.createElement('div');
+    const kind = document.createElement('div');
+    kind.textContent = (eventNames[event.type] || event.type) +
+      (event.type === 'PullRequestEvent' && event.payload?.action ?
+        ' · ' + event.payload.action : '');
+    const link = document.createElement('a');
+    const repoName = typeof event.repo.name === 'string' ? event.repo.name : '';
+    link.href = 'https://github.com/' + repoName.split('/').map(encodeURIComponent).join('/');
+    link.textContent = repoName;
+    link.target = '_blank';
+    link.rel = 'noopener noreferrer';
+    const time = document.createElement('small');
+    time.textContent = new Date(event.created_at).toLocaleString();
+    detail.append(kind, link, time);
+    row.append(symbol, detail);
+    list.append(row);
+  }
+  const notice = document.createElement('p');
+  notice.className = 'desc';
+  notice.textContent = 'Recent events from GitHub’s public API (up to 100 latest events; not an exhaustive 30-day contribution count).';
+  list.append(notice);
+}
 async function loadLanguages(){const all=[];for(let p=1;p<=3;p++){const repos=await api(`https://api.github.com/users/${USER}/repos?per_page=100&page=${p}&type=owner&sort=updated`);all.push(...repos);if(repos.length<100)break}const counts={};for(const r of all){if(r.fork||r.archived||!r.language)continue;counts[r.language]=(counts[r.language]||0)+1}const entries=Object.entries(counts).sort((a,b)=>b[1]-a[1]).slice(0,8);showBars($('languages'),entries);const total=Object.values(counts).reduce((a,b)=>a+b,0);const note=document.createElement('p');note.className='desc';note.textContent=`${total} public, non-fork, non-archived repositories with a detected primary language.`;$('languages').append(note)}
-async function refresh(){$('status').textContent='Updating public data…';const out=await Promise.allSettled([loadEvents(),loadLanguages()]);if(out[0].status==='rejected'){$('total').textContent=$('pushes').textContent=$('prs').textContent=$('days').textContent='—';$('types').textContent='Unable to load GitHub events.';$('recent').textContent='Unable to load recent activity.';renderCalendar({})}if(out[1].status==='rejected'){$('languages').textContent='Unable to load repository languages.'}const failed=out.filter(x=>x.status==='rejected');$('status').textContent=failed.length?'Some GitHub data could not load (possibly API rate limit).':'Public data loaded · '+new Date().toLocaleTimeString();if(failed.length)console.warn('GitHub data request failed',...failed.map(x=>x.reason))}
+async function refresh() {
+  $('status').textContent = 'Updating public data…';
+  const results = await Promise.allSettled([loadEvents(), loadLanguages()]);
+  if (results[0].status === 'rejected') {
+    for (const id of ['total','pushes','prs','days']) $(id).textContent = '—';
+    const error = results[0].reason?.message || 'Unknown events error';
+    $('types').textContent = error;
+    $('recent').textContent = error;
+    console.error('Event loading failed:', results[0].reason);
+  }
+  if (results[1].status === 'rejected') {
+    $('languages').textContent = results[1].reason?.message || 'Could not load repositories';
+    console.error('Repository loading failed:', results[1].reason);
+  }
+  $('status').textContent = results.every(x => x.status === 'fulfilled')
+    ? 'Public data loaded · ' + new Date().toLocaleTimeString()
+    : 'Some data could not load; see the error below';
+}
 $('refresh').addEventListener('click',()=>{refresh();loadContributions()});refresh();loadContributions();
 })();
 </script></body></html>
