@@ -1,42 +1,42 @@
-
-name: Git Profile Koi
+name: Update Koi Blog Feed
 
 on:
   schedule:
-    - cron: "20 */6 * * *"
+    - cron: '37 2 * * *'
   workflow_dispatch:
-  push:
-    paths:
-      - .github/workflows/koi.yml
 
 permissions:
   contents: write
 
-concurrency: koi
-
 jobs:
-  koi:
+  update-articles:
+    if: ${{ vars.DEVTO_USERNAME != '' }}
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v7
-
-      - name: Generate Koi
-        uses: yalongwastaken/git-koi@v1
-        with:
-          login: LoganthP
-          body: asagi
-          output-dir: koi
-
-      - name: Commit animated koi
-        shell: bash
+      - uses: actions/checkout@v4
+      - name: Fetch published articles
+        env:
+          DEVTO_USERNAME: ${{ vars.DEVTO_USERNAME }}
         run: |
-          git add koi/koi.gif
-          if git diff --cached --quiet; then
-            echo "No changes."
-            exit 0
-          fi
-
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "koi: update animated fish"
-          git push
+          python - <<'PY'
+          import json, os, pathlib, urllib.parse, urllib.request
+          username = os.environ['DEVTO_USERNAME'].strip()
+          url = 'https://dev.to/api/articles?' + urllib.parse.urlencode({'username': username, 'per_page': 5})
+          req = urllib.request.Request(url, headers={'Accept': 'application/json', 'User-Agent': 'Koi-Portfolio-Feed/1.0'})
+          with urllib.request.urlopen(req, timeout=25) as res:
+              articles = json.load(res)
+          if not isinstance(articles, list):
+              raise ValueError('Unexpected blog feed format')
+          out = pathlib.Path('koi/articles.json')
+          out.parent.mkdir(parents=True, exist_ok=True)
+          out.write_text(json.dumps(articles, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+          PY
+      - name: Commit feed when updated
+        run: |
+          git add koi/articles.json
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'koi: update technical articles'
+          git pull --rebase origin main
+          git push origin HEAD:main
